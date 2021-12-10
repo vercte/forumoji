@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+			function generate() {
+				let img = document.querySelector("#image").value;
+				let name = document.querySelector("#name").value;
+				let user = document.querySelector("#user").value;
+				let string
+				if (document.querySelector("#linked").checked) {
+					string = `[img]${img}[/img] - ${name} by [i][url=https://scratch.mit.edu/users/${user}]${user}[/url][/i]`;
+				} else {
+					string = `[img]${img}[/img] - ${name} by [i]${user}[/i]`;
+				}
+				document.querySelector("#generated").innerText = string;
+			}
+		</script>
+	</head>
+	<body style="font-family: sans-serif; margin: 2vw 2vw;">
+		<button onclick="generate()">Generate BBCode</button>
+		<div style="margin-top: 15px;"><label for="image">Image Link: </label><input type="url" id="image"></div>
+		<div style="margin-top: 15px;"><label for="name">Emoji Name: </label><input type="text" id="name"></div>
+		<div style="margin-top: 15px;"><label for="user">User Name: </label><input type="text" id="user"> <label for="linked">Should it be linked: </label><input type="checkbox" id="linked"></div>
+		<div id="generated" style="min-height: 20px; margin-top: 15px; width: auto; height: auto; background-color: rgb(230,230,230); border: 1px dimgrey solid;"></div>
+		<script>document.querySelector("#linked").checked = true</script>
+	</body>
+</html>
