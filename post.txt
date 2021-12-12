@@ -119,5 +119,6 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [img]https://u.cubeupload.com/Vercte/indonesia.png[/img] - Indonesia Flag by [i][url=https://scratch.mit.edu/users/Vaibhs11]Vaibhs11[/url][/i]
 [img]https://u.cubeupload.com/Vercte/ireland.png[/img] - Ireland Flag by [i][url=https://scratch.mit.edu/users/Vaibhs11]Vaibhs11[/url][/i]
 [img]https://u.cubeupload.com/Vercte/haiti.png[/img] - Haiti Flag by [i][url=https://scratch.mit.edu/users/Vaibhs11]Vaibhs11[/url][/i]
+SOMEONE NEEDS TO HOST THIS (https://github.com/notwait/emodjiango/blob/main/emodjiango/brazil-flag.png) - Brazil Flag by [i][url=https://scratch.mit.edu/users/notwait]notwait[/url][/i]
 
 
