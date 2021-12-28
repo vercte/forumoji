@@ -9,6 +9,9 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [big][b]EMOJIS[/b][/big]
 [color="#ccc"]__________________________[/color]
 
+[big]A[/big]
+[img]https://u.cubeupload.com/CocoTheMii/AngryFacewithHorns.png[/img] - Angry Face with Horns by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+
 [big]B[/big]
 [img]https://u.cubeupload.com/Vercte/bloodtypeb.png[/img] - Blood Type B by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/barchart.png[/img] - Bar Chart by [i]lolecksdeehaha[/i]
@@ -23,12 +26,14 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [img]https://u.cubeupload.com/Vercte/cross.png[/img] - Cross by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/crossbutton.png[/img] - Cross Mark Button by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/cloud.png[/img] - Cloud by [i][url=scratch.mit.edu/user/kccuber]kccuber[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/ColdFace.png[/img] - Cold Face by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]D[/big]
 [img]https://u.cubeupload.com/Vercte/deciduoustree.png[/img] - Deciduous Tree by [i][url=scratch.mit.edu/users/Vaibhs11]Vaibhs11[/url][/i]
 
 [big]E[/big]
 [img]https://u.cubeupload.com/Vercte/expressionlessface.png[/img] - Expressionless Face by [i][url=https://scratch.mit.edu/users/kccuber/]kccuber[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/EnragedFace.png[/img] - Enraged Face by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]F[/big]
 [img]https://u.cubeupload.com/Vercte/facewithheadbandage.png[/img] - Face With Head Bandage by [i][url=scratch.mit.edu/users/Vaibhs11]Vaibhs11[/url][/i]
@@ -45,6 +50,7 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 
 [big]N[/big]
 [img]https://u.cubeupload.com/sfg/ninja.png[/img] - Ninja by [i][url=scratch.mit.edu/users/stickfiregames]stickfiregames[/url][/i], proposed by [i][url=https://scratch.mit.edu/users/awesome-llama/]awesome-llama[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/NauseatedFace.png[/img] - Nauseated Face by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]O[/big]
 [img]https://u.cubeupload.com/Vercte/100points.png[/img] - Hundred Points by [i]lolecksdeehaha[/i]
@@ -60,6 +66,7 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [img]https://u.cubeupload.com/t3ch3r/649smirkingface.png[/img] - Smirking Face by [i][url=https://scratch.mit.edu/users/rayli1123/]rayli1123[/url][/i]
 [img]https://u.cubeupload.com/Vercte/sparkles.png[/img] - Sparkles by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/sun.png[/img] - Sun by [i]lolecksdeehaha[/i]
+[img]https://u.cubeupload.com/CocoTheMii/SmilingFacewithHorns.png[/img] - Smiling Face with Horns by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]T[/big]
 [img][img]https://u.cubeupload.com/64lu/emojitemplate10png.png[/img][/img] - Thinking face by [i][url=scratch.mit.edu/users/64lu]64lu[/url][/i]
