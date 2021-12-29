@@ -27,9 +27,14 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [img]https://u.cubeupload.com/Vercte/crossbutton.png[/img] - Cross Mark Button by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/cloud.png[/img] - Cloud by [i][url=scratch.mit.edu/user/kccuber]kccuber[/url][/i]
 [img]https://u.cubeupload.com/CocoTheMii/ColdFace.png[/img] - Cold Face by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/ClockwiseVerticalArr.png[/img] - Clockwise Vertical Arrows by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/CounterclockwiseArro.png[/img] - Counterclockwise Arrows Button by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]D[/big]
 [img]https://u.cubeupload.com/Vercte/deciduoustree.png[/img] - Deciduous Tree by [i][url=scratch.mit.edu/users/Vaibhs11]Vaibhs11[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/DownArrow.png[/img] - Down Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/DownLeftArrow.png[/img] - Down-Left Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/DownRightArrow.png[/img] - Down-Right Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]E[/big]
 [img]https://u.cubeupload.com/Vercte/expressionlessface.png[/img] - Expressionless Face by [i][url=https://scratch.mit.edu/users/kccuber/]kccuber[/url][/i]
@@ -48,6 +53,11 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [img]https://u.cubeupload.com/Vercte/sweatsmile.png[/img] - Grinning Face With Sweat by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/grimacingface.png[/img] - Grimacing Face by [i][url=scratch.mit.edu/users/Vaibhs11]Vaibhs11[/url][/i]
 
+[big]L[/big]
+[img]https://u.cubeupload.com/CocoTheMii/LeftArrowCurvingRigh.png[/img] - Left Arrow Curving Right by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/LeftArrow.png[/img] - Left Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/LeftRightArrow.png[/img] - Left-Right Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+
 [big]N[/big]
 [img]https://u.cubeupload.com/sfg/ninja.png[/img] - Ninja by [i][url=scratch.mit.edu/users/stickfiregames]stickfiregames[/url][/i], proposed by [i][url=https://scratch.mit.edu/users/awesome-llama/]awesome-llama[/url][/i]
 [img]https://u.cubeupload.com/CocoTheMii/NauseatedFace.png[/img] - Nauseated Face by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
@@ -61,6 +71,12 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [img]https://u.cubeupload.com/Vercte/pleadingface.png[/img] - Pleading Face by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/pie.png[/img] - Pie by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/turkeyleg.png[/img] - Poultry Leg by [i]lolecksdeehaha[/i]
+
+[big]R[/big]
+[img]https://u.cubeupload.com/CocoTheMii/RightArrowCurvingDow.png[/img] - Right Arrow Curving Down by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/RightArrowCurvingLef.png[/img] - Right Arrow Curving Left by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/RightArrowCurvingUp.png[/img] - Right Arrow Curving Up by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/RightArrow.png[/img] - Right Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]S[/big]
 [img]https://u.cubeupload.com/t3ch3r/649smirkingface.png[/img] - Smirking Face by [i][url=https://scratch.mit.edu/users/rayli1123/]rayli1123[/url][/i]
@@ -76,9 +92,16 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 
 [big]U[/big]
 [img]https://u.cubeupload.com/Vercte/upsidedownslightlysm.png[/img] - Upside Down Slightly Smiling Face by [i]lolecksdeehaha[/i]
+[img]https://u.cubeupload.com/CocoTheMii/UpArrow.png[/img] - Up Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/UpDownArrow.png[/img] - Up-Down Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/UpLeftArrow.png[/img] - Up-Left Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://u.cubeupload.com/CocoTheMii/UpRightArrow.png[/img] - Up-Right Arrow by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]V[/big]
 [img]https://u.cubeupload.com/Vercte/vomitingface.png[/img] - Vomiting Face by [i][url=https://scratch.mit.edu/users/rayli1123/]rayli1123[/url][/i]
+
+[big]W[/big]
+[img]https://u.cubeupload.com/CocoTheMii/WinkingFacewithTongu.png[/img] - Winking Face with Tongue by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
 
 [big]Z[/big]
 [img]https://u.cubeupload.com/Vercte/sippermouthface.png[/img] - Zipper-Mouth Face by [i]lolecksdeehaha[/i]
