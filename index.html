@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Emodjiango Item Generator</title>
+		<link rel="icon" type="image/x-icon" href="<link rel="icon" type="image/x-icon" href="BBcodeGenFavicon.png">
 		<script>
 			function generate() {
 				let img = document.querySelector("#image").value;
@@ -19,10 +20,10 @@
 	</head>
 	<body style="font-family: sans-serif; margin: 2vw 2vw;">
 		<h1>Emodjiango Item Generator</h1>
-		<button onclick="generate()">Generate BBCode</button>
 		<div style="margin-top: 15px;"><label for="image">Image Link: </label><input type="url" id="image"></div>
 		<div style="margin-top: 15px;"><label for="name">Emoji Name: </label><input type="text" id="name"></div>
 		<div style="margin-top: 15px;"><label for="user">User Name: </label><input type="text" id="user"> <label for="linked">Should it be linked: </label><input type="checkbox" id="linked"></div>
+		<button onclick="alert('Put this in your post here: https://scratch.mit.edu/discuss/topic/557083/'); generate()">Run!</button>
 		<div id="generated" style="min-height: 20px; margin-top: 15px; width: auto; height: auto; background-color: rgb(230,230,230); border: 1px dimgrey solid;"></div>
 		<script>document.querySelector("#linked").checked = true</script>
 	</body>
