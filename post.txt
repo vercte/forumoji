@@ -39,6 +39,8 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [big]E[/big]
 [img]https://u.cubeupload.com/Vercte/expressionlessface.png[/img] - Expressionless Face by [i][url=https://scratch.mit.edu/users/kccuber/]kccuber[/url][/i]
 [img]https://u.cubeupload.com/CocoTheMii/EnragedFace.png[/img] - Enraged Face by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://assets.scratch.mit.edu/get_image/.%2E/0599d895bd0c6952a824ba9d2ac9e7f2.png[/img] - Face Exhaling Emoji by [i][url=https://scratch.mit.edu/users/mybearworld]mybearworld[/url][/i]
+
 
 [big]F[/big]
 [img]https://u.cubeupload.com/Vercte/facewithheadbandage.png[/img] - Face With Head Bandage by [i][url=scratch.mit.edu/users/Vaibhs11]Vaibhs11[/url][/i]
@@ -83,6 +85,8 @@ I'm trying to make all the unicode emojis (except some not-allowed ones) to help
 [img]https://u.cubeupload.com/Vercte/sparkles.png[/img] - Sparkles by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/Vercte/sun.png[/img] - Sun by [i]lolecksdeehaha[/i]
 [img]https://u.cubeupload.com/CocoTheMii/SmilingFacewithHorns.png[/img] - Smiling Face with Horns by [i][url=https://scratch.mit.edu/users/Scratch137]Scratch137[/url][/i]
+[img]https://assets.scratch.mit.edu/get_image/.%2E/495a9aee2e30888b0731464fd50906a1.png[/img] - Smiling Face with Tear Emoji by [i][url=https://scratch.mit.edu/users/mybearworld]mybearworld[/url][/i]
+[img]https://assets.scratch.mit.edu/get_image/.%2E/0599d895bd0c6952a824ba9d2ac9e7f2.png[/img] - Face Exhaling Emoji by [i][url=https://scratch.mit.edu/users/mybearworld]mybearworld[/url][/i]
 
 [big]T[/big]
 [img][img]https://u.cubeupload.com/64lu/emojitemplate10png.png[/img][/img] - Thinking face by [i][url=scratch.mit.edu/users/64lu]64lu[/url][/i]
