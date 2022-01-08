@@ -6,6 +6,7 @@ There are a few details to keep in mind when contributing emojis to the Emodjian
 * Check the `/emodjiango` folder to make sure the emoji has not been contributed already.
 * Make sure the emoji does not break any of Scratch's [Community Guidelines](https://scratch.mit.edu/community_guidelines/), as well as any other rules that have been laid out by the Scratch Team.
 * Emodjiango is only accepting emojis that actually exist; if it does not have a Unicode endpoint (U+XXXXX), it is not a valid emoji. A [complete list of valid emojis](https://unicode.org/emoji/charts/emoji-list.html) can be found on the official Unicode website.
+* Your emoji should be 15x15 pixels in size; this allows the emojis to fit in line with text on the forums.
 
 ### Adding Emojis to `/post.txt`
 If you would like to add your emojis to `/post.txt`, you should follow this process:
