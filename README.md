@@ -13,6 +13,7 @@ If you would like to add your emojis to `/post.txt`, you should follow this proc
 * Upload your emojis to [Cubeupload](https://cubeupload.com); please note that Cubeupload requires users to create an account before uploading images.
 * Use the [Emodjiango Item Generator](https://lopste.github.io/emodjiango) to generate a list item for each emoji. Each list item should contain the name of the emoji, a direct link to the emoji on Cubeupload, and your Scratch username.
 * Copy the generated text from the Item Generator into the appropriate section of `/post.txt`. The sections are listed in alphabetical order, while individual emojis are listed in order of addition.
+* Emojis will be stored at @autofirejm 's website found [here](https://autofirejm.github.io/Scratch/Emodjiango).
 
 ## Scratch
 Emodjiango has a [topic on the Scratch Forums](https://scratch.mit.edu/discuss/topic/557083/); this is where most discussion about the project takes place, including important updates from @lopste. Some contributors may opt to post their emojis on Scratch first before contributing them here.
