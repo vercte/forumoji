@@ -1,4 +1,4 @@
-I'm trying to make all the unicode emojis (except some not-allowed ones) to help with the forums and maybe bring a little laugh! You can contribute if you want.
+Emodjiango is a collaborative effort trying to make all the unicode emojis (except some not-allowed ones) to help with the forums and maybe bring a little laugh! You can contribute if you want.
 
 [big]Templates[/big]
 [img]https://u.cubeupload.com/Vercte/emojitemplate.png[/img] - Template by [i]lolecksdeehaha[/i]
