@@ -1,4 +1,5 @@
 # Forumoji
+![GitHub Repo stars](https://img.shields.io/github/stars/lopste/forumoji?color=%23fd0&label=%20%E2%AD%90%20) ![GitHub watchers](https://img.shields.io/github/watchers/lopste/forumoji?color=%23008cff&label=%F0%9F%94%8D)  
 Forumoji is a project to remake existing Unicode emojis in the DjangoBB style, mainly intended for use on the Scratch Forums.
 
 ## Contributing
