@@ -63,8 +63,8 @@ window.onload = function() {
 function select(emoji) {
   $('.selected').removeClass('selected');
   $('#' + emoji.codepoint).addClass('selected');
-  $('#image').attr('src', 'resources/forumoji/' + emoji.image);
-  $('#image').attr('alt', emoji.name);
+  $('img.preview-image').attr('src', 'resources/forumoji/' + emoji.image);
+  $('img.preview-image').attr('alt', emoji.name);
   $('#name').text(emoji.name);
   $('#author').text(emoji.author);
   $('#keywords').text(emoji.keywords.join(', '));

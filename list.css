@@ -39,7 +39,7 @@ h1 {
   padding: 1em;
 }
 
-#image {
+#large-preview {
   width: 15em;
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
@@ -48,6 +48,10 @@ h1 {
   image-rendering: pixelated; /* Chrome */
   image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}
+
+p.preview-image {
+  text-align: center;
 }
 
 #name {
