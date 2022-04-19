@@ -18,8 +18,6 @@ window.onload = function() {
 
         unpack(unicodeEmoji);
 
-        console.log(forumoji.emoji);
-
         $.each(forumoji.emoji, function(index, item) {
           let emoji = emojiList.find(e => (e.codepoint == item.codepoint));
           if (emoji) {
@@ -44,6 +42,7 @@ window.onload = function() {
             $(tile).attr('src', 'resources/forumoji/' + emoji.image);
             $(tile).attr('alt', emoji.name);
             $(tile).attr('id', emoji.codepoint);
+            $(tile).addClass('tile');
             $(tile).addClass('author-' + emoji.author.split(' ').join('-'));
             $.each(emoji.keywords, function(index, keyword) {
               $(tile).addClass('keyword-' + keyword.split(' ').join('-'))
@@ -53,7 +52,9 @@ window.onload = function() {
           }
         });
 
-        select(emojiList[Math.floor(Math.random() * emojiList.length)]);
+        let tiles = $('.tile');
+        let randomTile = tiles[Math.floor(Math.random() * tiles.length)]
+        select(emojiList.find(e => (e.codepoint == $(randomTile).attr('id'))));
       });
     });
   });
