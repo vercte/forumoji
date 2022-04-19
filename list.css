@@ -1,0 +1,85 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-color: #ffffff;
+  color: #181a1c;
+  font-family: sans-serif;
+}
+
+#page-container {
+  position: absolute;
+  display: grid;
+  grid-template-rows: [top] 4em [middle] 1fr [bottom];
+  grid-template-columns: [left] 18em [center] 1fr [right];
+  grid-template-areas:
+    "header header"
+    "info list";
+  width: 100%;
+  height: 100%;
+  grid-gap: 2px;
+  background-color: #ffffff;
+}
+
+#header {
+  grid-area: header;
+  background-color: #0f8bc0;
+  color: #ffffff;
+}
+
+h1 {
+  margin: 0.5em;
+}
+
+#info {
+  grid-area: info;
+  background-color: #f7f7f7;
+  padding: 1em;
+}
+
+#image {
+  width: 15em;
+  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -moz-crisp-edges;          /* Firefox                        */
+  image-rendering: -o-crisp-edges;            /* Opera                          */
+  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+  image-rendering: pixelated; /* Chrome */
+  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}
+
+#name {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+#list {
+  grid-area: list;
+  background-color: #ffffff;
+  overflow-y: auto;
+}
+
+#list img {
+  width: 3em;
+  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -moz-crisp-edges;          /* Firefox                        */
+  image-rendering: -o-crisp-edges;            /* Opera                          */
+  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+  image-rendering: pixelated; /* Chrome */
+  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+  margin: 0.25em 0 0 0.25em;
+  padding: 0.25em;
+  border-radius: 0.25em;
+}
+
+#list img:hover, #list img:focus, #list img.selected {
+  background-color: #fdf200;
+}
+
+#list img.filtered {
+  display: none;
+}

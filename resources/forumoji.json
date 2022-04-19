@@ -1,0 +1,1814 @@
+{
+  "emoji": [
+    {
+      "codepoint": "U+1F600",
+      "shortcut": ":D"
+    },
+    {
+      "codepoint": "U+1F171",
+      "image": "blood-type-b.png",
+      "url": "https://u.cubeupload.com/Vercte/bloodtypeb.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F4CA",
+      "image": "bar-chart.png",
+      "url": "https://u.cubeupload.com/Vercte/barchart.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F4C8",
+      "image": "chart-increasing.png",
+      "url": "https://u.cubeupload.com/Vercte/chartincreasing.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F4C9",
+      "image": "chart-decreasing.png",
+      "url": "https://u.cubeupload.com/Vercte/chartdecreasing.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+2611",
+      "image": "checkboxwithcheck.png",
+      "url": "https://u.cubeupload.com/Vercte/checkboxwithcheck.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+2705",
+      "image": "checkbutton.png",
+      "url": "https://u.cubeupload.com/Vercte/checkbutton.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+2714",
+      "image": "check.png",
+      "url": "https://u.cubeupload.com/Vercte/check.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+274C",
+      "image": "crossbutton.png",
+      "url": "https://u.cubeupload.com/Vercte/crossbutton.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+274E",
+      "image": "cross.png",
+      "url": "https://u.cubeupload.com/Vercte/cross.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F611",
+      "image": "expressionlessface.png",
+      "url": "https://u.cubeupload.com/Vercte/expressionlessface.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+1F915",
+      "image": "facewithheadbandage.png",
+      "url": "https://u.cubeupload.com/Vercte/facewithheadbandage.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F637",
+      "image": "face-with-medical-mask.png",
+      "url": "https://u.cubeupload.com/Vercte/facewithmedicalmask.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F633",
+      "image": "flushed.png",
+      "url": "https://u.cubeupload.com/Vercte/flushed.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F636",
+      "image": "no-mouth.png",
+      "url": "https://u.cubeupload.com/Vercte/nomouth.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F605",
+      "image": "sweat-smile.png",
+      "url": "https://u.cubeupload.com/Vercte/sweatsmile.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F62C",
+      "image": "grimacing-face.png",
+      "url": "https://u.cubeupload.com/Vercte/grimacingface.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F977",
+      "image": "ninja.png",
+      "url": "https://u.cubeupload.com/sfg/ninja.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F614",
+      "image": "pensive.png",
+      "url": "https://u.cubeupload.com/Vercte/pensive.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F97A",
+      "image": "pleadingface.png",
+      "url": "https://u.cubeupload.com/Vercte/pleadingface.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F60F",
+      "image": "smirking-face.png",
+      "url": "https://u.cubeupload.com/t3ch3r/649smirkingface.png",
+      "author": "rayli1123"
+    },
+    {
+      "codepoint": "U+1F914",
+      "image": "thinking-face.png",
+      "url": "https://u.cubeupload.com/64lu/emojitemplate10png.png",
+      "author": "64lu"
+    },
+    {
+      "codepoint": "U+1F643",
+      "image": "upside-down-slightly-smiling-face.png",
+      "url": "https://u.cubeupload.com/Vercte/upsidedownslightlysm.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F92E",
+      "image": "vomitingface.png",
+      "url": "https://u.cubeupload.com/Vercte/vomitingface.png",
+      "author": "rayli1123"
+    },
+    {
+      "codepoint": "U+1F910",
+      "image": "sippermouthface.png",
+      "url": "https://u.cubeupload.com/Vercte/sippermouthface.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F44D",
+      "image": "thumbs-up.png",
+      "url": "https://u.cubeupload.com/Vercte/thumbsup.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F44E",
+      "image": "thumbs-down.png",
+      "url": "https://u.cubeupload.com/Vercte/thumbsdown.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F4AF",
+      "image": "100-points.png",
+      "url": "https://assets.scratch.mit.edu/3b249734f02d0b9c702a95e90a41fa1b.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+2728",
+      "image": "sparkles.png",
+      "url": "https://assets.scratch.mit.edu/6dca0f0ebed1e95112343878868435cf.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+2600",
+      "image": "sun.png",
+      "url": "https://assets.scratch.mit.edu/e9e9f15cc5648871cf32394dd3752579.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+2601",
+      "image": "cloud.png",
+      "url": "https://u.cubeupload.com/Vercte/cloud.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+1F333",
+      "image": "deciduoustree.png",
+      "url": "https://u.cubeupload.com/Vercte/deciduoustree.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F30D",
+      "image": "earth-globe-showing-europe-africa.png",
+      "url": "https://u.cubeupload.com/Vercte/earthglobeshowingeur.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F30F",
+      "image": "earth-globe-showing-asia-australia.png",
+      "url": "https://u.cubeupload.com/Vercte/earthglobeshowingasi.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F30E",
+      "image": "earth-globe-showing-americas.png",
+      "url": "https://u.cubeupload.com/Vercte/earthglobeshowingame.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F389",
+      "image": "party-popper.png",
+      "url": "https://u.cubeupload.com/Vercte/partypopper.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F967",
+      "image": "pie.png",
+      "url": "https://u.cubeupload.com/Vercte/pie.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F357",
+      "image": "turkeyleg.png",
+      "url": "https://u.cubeupload.com/Vercte/turkeyleg.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F983",
+      "image": "turkey.png",
+      "url": "https://u.cubeupload.com/Vercte/turkey.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+26AB",
+      "image": "blackcircle.png",
+      "url": "https://u.cubeupload.com/Vercte/blackcircle.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+2B1B",
+      "image": "blacklargesquare.png",
+      "url": "https://u.cubeupload.com/Vercte/blacklargesquare.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+25FC",
+      "image": "blackmediumsquare.png",
+      "url": "https://u.cubeupload.com/Vercte/blackmediumsquare.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+25FE",
+      "image": "blackmediumsmallsquare.png",
+      "url": "https://u.cubeupload.com/sfg/blackmediumsmallsqua.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+25AA",
+      "image": "blacksmallsquare.png",
+      "url": "https://u.cubeupload.com/Vercte/blacksmallsquare.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+26AA",
+      "image": "whitecircle.png",
+      "url": "https://u.cubeupload.com/Vercte/whitecircle.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+2B1C",
+      "image": "whitelargesquare.png",
+      "url": "https://u.cubeupload.com/Vercte/whitelargesquare.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+25FB",
+      "image": "whitemediumsquare.png",
+      "url": "https://u.cubeupload.com/Vercte/whitemediumsquare.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+25FD",
+      "image": "whitemediumsmallsquare.png",
+      "url": "https://u.cubeupload.com/sfg/whitemediumsmallsqua.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+25AB",
+      "image": "whitesmallsquare.png",
+      "url": "https://u.cubeupload.com/Vercte/whitesmallsquare.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F534",
+      "image": "redcircle.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E5",
+      "image": "redsquare.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/cd3blacklargesquareCopy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F535",
+      "image": "bluecircle.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy5.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E6",
+      "image": "bluesquare.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/e6dblacklargesquareCopy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E2",
+      "image": "greencircle.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy4.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E9",
+      "image": "greensquare.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/57bblacklargesquareCopy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F916",
+      "image": "robotface.png",
+      "url": "https://u.cubeupload.com/Vercte/robotface.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F610",
+      "image": "neutral-face.png",
+      "url": "https://assets.scratch.mit.edu/b010805728f8ebf3e238255a6e59c3c2.png",
+      "author": "zahmbie1"
+    },
+    {
+      "codepoint": "U+1F628",
+      "image": "fearful-face.png",
+      "url": "https://assets.scratch.mit.edu/7a44ecdb3d05b5a3688a2c4fbbe90177.png",
+      "author": "Marc92020"
+    },
+    {
+      "codepoint": "U+1F62D",
+      "image": "loudly-crying-face.png",
+      "url": "https://u.cubeupload.com/t3ch3r/bigcryingface.png",
+      "author": "RL1123"
+    },
+    {
+      "codepoint": "U+1F1EE U+1F1E9",
+      "image": "flag-indonesia.png",
+      "url": "https://assets.scratch.mit.edu/d39fd118d4a9a02f559d07b4a2469289.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1F2 U+1F1E8",
+      "image": "flag-monaco.png",
+      "url": "https://assets.scratch.mit.edu/1e09ca4f1e499d5ee2e5447db8331fba.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1F3 U+1F1EA",
+      "image": "flag-niger.png",
+      "url": "https://assets.scratch.mit.edu/dbe759c4e5db1e15bcc26eca75d6fa25.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1EE U+1F1EA",
+      "image": "flag-ireland.png",
+      "url": "https://assets.scratch.mit.edu/163bb53cdf8e53c52155faf8b7772176.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1E8 U+1F1EE",
+      "image": "flag-ivory-coast.png",
+      "url": "https://assets.scratch.mit.edu/5dac7e20c275bdd3ae8244dda4574274.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1F9 U+1F1E9",
+      "image": "flag-chad.png",
+      "url": "https://assets.scratch.mit.edu/60c02e237c3894362697f48ffb1466e6.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1F7 U+1F1F4",
+      "image": "flag-romania.png",
+      "url": "https://assets.scratch.mit.edu/c4e5d06a46aa5996849b37a4c3db7f11.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1F1 U+1F1FA",
+      "image": "flag-luxembourg.png",
+      "url": "https://assets.scratch.mit.edu/53b8cc3ed633a0633b092014cff48650.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1F3 U+1F1F1",
+      "image": "flag-netherlands.png",
+      "url": "https://assets.scratch.mit.edu/162009f2577e9ddc380e9225993c7295.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1F1 U+1F1EE",
+      "image": "flag-liechtenstein.png",
+      "url": "https://assets.scratch.mit.edu/e0b4667ab29ed4aa559c2513f2521bcc.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1ED U+1F1F9",
+      "image": "flag-haiti.png",
+      "url": "https://assets.scratch.mit.edu/681f94639bb1a54eb320ed136a16e8c5.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F1F2 U+1F1FB",
+      "image": "flag-maldives.png",
+      "url": "https://assets.scratch.mit.edu/b53b853d0c040a0d15e16ff9f3424f0e.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F7E0",
+      "image": "orangecircle.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy2.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E7",
+      "image": "orangesquare.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/blacklargesquareCopy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E1",
+      "image": "yellowcircle.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy3.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E8",
+      "image": "yellowsquare.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/91fblacklargesquareCopy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F1F5 U+1F1F1",
+      "image": "flag-poland.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/ohnonotonimageshack.png",
+      "author": "Michalkap"
+    },
+    {
+      "codepoint": "U+1F34C",
+      "image": "banana.png",
+      "url": "https://u.cubeupload.com/sfg/banana.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1FAD0",
+      "image": "blueberries.png",
+      "url": "https://u.cubeupload.com/sfg/blueberries.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F347",
+      "image": "grapes.png",
+      "url": "https://u.cubeupload.com/sfg/grapes.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F34F",
+      "image": "green-apple.png",
+      "url": "https://u.cubeupload.com/sfg/greenapple.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F34E",
+      "image": "red-apple.png",
+      "url": "https://u.cubeupload.com/sfg/redapple.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F34B",
+      "image": "lemon.png",
+      "url": "https://u.cubeupload.com/sfg/lemon.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F350",
+      "image": "pear.png",
+      "url": "https://u.cubeupload.com/sfg/pear.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F353",
+      "image": "strawberry.png",
+      "url": "https://u.cubeupload.com/sfg/strawberry.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F34A",
+      "image": "tangerine.png",
+      "url": "https://u.cubeupload.com/sfg/tangerine.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F349",
+      "image": "watermelon.png",
+      "url": "https://u.cubeupload.com/sfg/watermelon.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F951",
+      "image": "avocado.png",
+      "url": "https://u.cubeupload.com/sfg/avocado.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F352",
+      "image": "cherries.png",
+      "url": "https://u.cubeupload.com/sfg/cherries.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F965",
+      "image": "coconut.png",
+      "url": "https://u.cubeupload.com/sfg/coconut.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F95D",
+      "image": "kiwi-fruit.png",
+      "url": "https://u.cubeupload.com/sfg/kiwifruit.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F96D",
+      "image": "mango.png",
+      "url": "https://u.cubeupload.com/sfg/mango.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F348",
+      "image": "melon.png",
+      "url": "https://u.cubeupload.com/sfg/melon.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F34D",
+      "image": "pineapple.png",
+      "url": "https://u.cubeupload.com/sfg/pineapple.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F345",
+      "image": "tomato.png",
+      "url": "https://u.cubeupload.com/sfg/tomato.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F5D3",
+      "image": "spiral-calendar.png",
+      "url": "https://u.cubeupload.com/sfg/spiralcalendar.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4C6",
+      "image": "tear-off-calendar.png",
+      "url": "https://u.cubeupload.com/sfg/tearoffcalendar.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4C5",
+      "image": "calendar.png",
+      "url": "https://u.cubeupload.com/sfg/calendar.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F574",
+      "image": "person-in-suit-levitating.png",
+      "url": "https://u.cubeupload.com/sfg/personinsuitlevitati.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F440",
+      "image": "eyes.png",
+      "url": "https://u.cubeupload.com/sfg/eyes.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F332",
+      "image": "evergreen-tree.png",
+      "url": "https://u.cubeupload.com/sfg/evergreentree.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F384",
+      "image": "christmas-tree.png",
+      "url": "https://u.cubeupload.com/sfg/christmastree.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F334",
+      "image": "palm-tree.png",
+      "url": "https://u.cubeupload.com/sfg/palmtree.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F627",
+      "image": "anguished-face.png",
+      "url": "https://assets.scratch.mit.edu/4fc412d8481c52c4b1a5757a407006fa.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+1F608",
+      "image": "smiling-face-with-horns.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/SmilingFacewithHorns.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F47F",
+      "image": "angry-face-with-horns.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/AngryFacewithHorns.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F4D8",
+      "image": "blue-book.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/bookblue.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F4D9",
+      "image": "orange-book.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/bookorang.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F4D5",
+      "image": "red-book.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/bookred.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F4D7",
+      "image": "green-book.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/bookgreen.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F4D2",
+      "image": "ledger.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/ledger.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F4D4",
+      "image": "decorated-notebook.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/decobook.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F50B",
+      "image": "battery.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/fullbatttery.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F48A",
+      "image": "pill.png",
+      "url": "https://u.cubeupload.com/PATSATDAT/pill.png",
+      "author": "PATSATDAT"
+    },
+    {
+      "codepoint": "U+1F525",
+      "image": "fire.png",
+      "url": "https://u.cubeupload.com/sfg/fire.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4A7",
+      "image": "water-drop.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/book2blue.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F922",
+      "image": "nauseated-face.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/NauseatedFace.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F976",
+      "image": "cold-face.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/ColdFace.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F621",
+      "image": "enraged-face.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/EnragedFace.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F3C1",
+      "image": "chequered-flag.png",
+      "url": "https://u.cubeupload.com/sfg/chequeredflag.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6A9",
+      "image": "triangular-flag.png",
+      "url": "https://u.cubeupload.com/sfg/triangularflag.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F38C",
+      "image": "crossed-flags.png",
+      "url": "https://u.cubeupload.com/sfg/crossedflags.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F3F4",
+      "image": "black-flag.png",
+      "url": "https://u.cubeupload.com/sfg/blackflag.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F3F3",
+      "image": "white-flag.png",
+      "url": "https://u.cubeupload.com/sfg/whiteflag.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F3F3 U+FE0F U+200D U+1F308",
+      "image": "rainbow-flag.png",
+      "url": "https://u.cubeupload.com/sfg/rainbowflag.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F",
+      "image": "transgender-flag.png",
+      "url": "https://u.cubeupload.com/sfg/transgenderflag.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F3F4 U+200D U+2620 U+FE0F",
+      "image": "pirate-flag.png",
+      "url": "https://u.cubeupload.com/sfg/pirateflag.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F972",
+      "image": "smiling-face-with-tear.png",
+      "url": "https://assets.scratch.mit.edu/495a9aee2e30888b0731464fd50906a1.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F62E U+200D U+1F4A8",
+      "image": "face-exhaling.png",
+      "url": "https://assets.scratch.mit.edu/0599d895bd0c6952a824ba9d2ac9e7f2.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F92F",
+      "image": "face-with-exploding-head.png",
+      "url": "https://assets.scratch.mit.edu/24d73cf31945eadbe379a1fa1f2e3b6c.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F47D",
+      "image": "extraterrestrial-alien.png",
+      "url": "https://assets.scratch.mit.edu/999f0c4fcc14e8af9d957cc0cb71b9fa.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F607",
+      "image": "smiling-face-with-halo.png",
+      "url": "https://assets.scratch.mit.edu/954f25bdc1553583f42e3d7e745befc2.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F635",
+      "image": "dizzy-face.png",
+      "url": "https://assets.scratch.mit.edu/e8032cf91e8e0534e3aa3a17b79f6656.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F920",
+      "image": "face-with-cowboy-hat.png",
+      "url": "https://assets.scratch.mit.edu/ecb328150b08bf154541d46b4af7a778.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F480",
+      "image": "skull.png",
+      "url": "https://u.cubeupload.com/Vercte/skull.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+2709",
+      "image": "envelope.png",
+      "url": "https://u.cubeupload.com/Vercte/envelope.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F4CB",
+      "image": "clipboard.png",
+      "url": "https://u.cubeupload.com/Vercte/clipboard.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F4DD",
+      "image": "memo.png",
+      "url": "https://u.cubeupload.com/Vercte/memo.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F4C4",
+      "image": "pagefacingup.png",
+      "url": "https://u.cubeupload.com/Vercte/pagefacingup.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F4C3",
+      "image": "pagewithcurl.png",
+      "url": "https://u.cubeupload.com/Vercte/pagewithcurl.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F9FE",
+      "image": "receipt.png",
+      "url": "https://u.cubeupload.com/Vercte/receipt.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F5D2",
+      "image": "spiralnotepad.png",
+      "url": "https://u.cubeupload.com/Vercte/spiralnotepad.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F63F",
+      "image": "crycat.png",
+      "url": "https://u.cubeupload.com/zani/crycat.png",
+      "author": "uwv"
+    },
+    {
+      "codepoint": "U+1F639",
+      "image": "joycat.png",
+      "url": "https://u.cubeupload.com/zani/joycat.png",
+      "author": "uwv"
+    },
+    {
+      "codepoint": "U+1F63E",
+      "image": "poutingcat.png",
+      "url": "https://u.cubeupload.com/zani/poutingcat.png",
+      "author": "uwv"
+    },
+    {
+      "codepoint": "U+1F640",
+      "image": "screamcat.png",
+      "url": "https://u.cubeupload.com/zani/screamcat.png",
+      "author": "uwv"
+    },
+    {
+      "codepoint": "U+1F63A",
+      "image": "smileycat.png",
+      "url": "https://u.cubeupload.com/zani/smileycat.png",
+      "author": "uwv"
+    },
+    {
+      "codepoint": "U+1F638",
+      "image": "smilingcat.png",
+      "url": "https://u.cubeupload.com/zani/smilingcat.png",
+      "author": "uwv"
+    },
+    {
+      "codepoint": "U+1F63C",
+      "image": "smirkcat.png",
+      "url": "https://u.cubeupload.com/zani/smirkcat.png",
+      "author": "uwv"
+    },
+    {
+      "codepoint": "U+1F63B",
+      "image": "hearteyescat.png",
+      "url": "https://u.cubeupload.com/zani/hearteyescat.png",
+      "author": "uwv"
+    },
+    {
+      "codepoint": "U+1F361",
+      "image": "dango.png",
+      "url": "https://assets.scratch.mit.edu/5d2ac1930ffb6685565d86308ee0d75f.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+2764",
+      "image": "red-heart.png",
+      "url": "https://assets.scratch.mit.edu/1fa31a7a98d9a958af7a4228ee1f3bc5.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F9E1",
+      "image": "orange-heart.png",
+      "url": "https://assets.scratch.mit.edu/1003eae669f3dc9ff4c2729c94133a62.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F49B",
+      "image": "yellow-heart.png",
+      "url": "https://assets.scratch.mit.edu/709149b509c22214cfba2e5430f08ddd.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F49A",
+      "image": "green-heart.png",
+      "url": "https://assets.scratch.mit.edu/12f8b2564ce680f5c6c518c55dd0cd90.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F499",
+      "image": "blue-heart.png",
+      "url": "https://assets.scratch.mit.edu/1d88ae34655d8215ff08e86f9c462b40.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F49C",
+      "image": "purple-heart.png",
+      "url": "https://assets.scratch.mit.edu/90e2ac829c18157d0301c4d5b2ae6835.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F90E",
+      "image": "brown-heart.png",
+      "url": "https://assets.scratch.mit.edu/c0d95c4d3964f2d1261df3166965e8c2.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F5A4",
+      "image": "black-heart.png",
+      "url": "https://assets.scratch.mit.edu/e921790d6c92e2d6a8f5b32e35c9c749.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F90D",
+      "image": "white-heart.png",
+      "url": "https://assets.scratch.mit.edu/cf18c3455843abcfdb30c95c96378db1.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F494",
+      "image": "broken-heart.png",
+      "url": "https://assets.scratch.mit.edu/6f1accf068bc175d5d02190e29c46ccb.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F495",
+      "image": "two-hearts.png",
+      "url": "https://assets.scratch.mit.edu/3659bd67a1071a182f8e5bdb4743defc.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+2763",
+      "image": "heart-exclamation.png",
+      "url": "https://assets.scratch.mit.edu/db355e73f48214b36aeca3c4023dbbe4.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F49E",
+      "image": "spinning-hearts.png",
+      "url": "https://assets.scratch.mit.edu/feb3b83c3ea44d99109ebd59166cc7f1.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F496",
+      "image": "sparkling-heart.png",
+      "url": "https://assets.scratch.mit.edu/3860ff7be0241c2d5fbe2cd1e2f0b08a.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F498",
+      "image": "dagger-heart.png",
+      "url": "https://assets.scratch.mit.edu/e22c20b77e04834a061331d79a90d9f7.png",
+      "author": "CST1229"
+    },
+    {
+      "codepoint": "U+1F308",
+      "image": "rainbow.png",
+      "url": "https://u.cubeupload.com/sfg/rainbow.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F35B",
+      "image": "curry-rice.png",
+      "url": "https://u.cubeupload.com/sfg/curryrice.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F35C",
+      "image": "steaming-bowl.png",
+      "url": "https://u.cubeupload.com/sfg/steamingbowl.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F35D",
+      "image": "spaghetti.png",
+      "url": "https://u.cubeupload.com/sfg/spaghetti.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F984",
+      "image": "unicorn.png",
+      "url": "https://u.cubeupload.com/cartooney/unicorn.png",
+      "author": "cartooney"
+    },
+    {
+      "codepoint": "U+1F4D5",
+      "image": "closedbook.png",
+      "url": "https://u.cubeupload.com/SMH_Scratch/a0dclosedbook.png",
+      "author": "SuperMarioHome"
+    },
+    {
+      "codepoint": "U+1F980",
+      "image": "crab.png",
+      "url": "https://u.cubeupload.com/sfg/crab.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F99E",
+      "image": "lobster.png",
+      "url": "https://u.cubeupload.com/sfg/lobster.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F990",
+      "image": "shrimp.png",
+      "url": "https://u.cubeupload.com/sfg/shrimp.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1FAE5",
+      "image": "dotted-line-face.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/dottedlineface.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1FAE4",
+      "image": "face-with-diagonal-mouth.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/facewithdiagonalmout.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F7F0",
+      "image": "heavy-equals-sign.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/heavyequalssign.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+2795",
+      "image": "plus.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/plus.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+2796",
+      "image": "minus.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/minus.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+2716",
+      "image": "heavy-multiplication-x.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/heavymultiplicationx.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+2797",
+      "image": "divide.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/divide.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F979",
+      "image": "face-holding-back-tears.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/faceholdingbacktears.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F1E8 U+1F1E6",
+      "image": "can-flag.png",
+      "url": "https://u.cubeupload.com/Vercte/canflag.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F1FA U+1F1F8",
+      "image": "usa-flag.png",
+      "url": "https://u.cubeupload.com/Vercte/usaflag.png",
+      "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F1EC U+1F1E7",
+      "image": "uk-flag.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/templateflag2Copy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F1FF U+1F1E6",
+      "image": "south-africa-flag.png",
+      "url": "https://u.cubeupload.com/PATSATDAT/KaHfwv.png",
+      "author": "PATSATDAT"
+    },
+    {
+      "codepoint": "U+1F1E9 U+1F1EA",
+      "image": "germany-flag.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/templateflag.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F1F2 U+1F1FD",
+      "image": "mexico-flag.png",
+      "url": "https://u.cubeupload.com/Vercte/mexicoflag.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F1E8 U+1F1F3",
+      "image": "china-flag.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/templateflag3Copy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F1EA U+1F1F8",
+      "image": "spain-flag.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/templateflag5Copy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F1E9 U+1F1F0",
+      "image": "denmark-flag.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/templateflag6Copy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F1EB U+1F1F7",
+      "image": "france-flag.png",
+      "url": "https://u.cubeupload.com/autofirejm_cubeup/templateflag4Copy.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F55B",
+      "image": "twelve-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/twelveoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F567",
+      "image": "twelve-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/twelvethirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F550",
+      "image": "one-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/oneoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F55C",
+      "image": "one-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/onethirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F551",
+      "image": "two-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/twooclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F55D",
+      "image": "two-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/twothirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F552",
+      "image": "three-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/threeoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F55E",
+      "image": "three-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/threethirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F553",
+      "image": "four-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/fouroclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F55F",
+      "image": "four-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/fourthirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F554",
+      "image": "five-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/fiveoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F560",
+      "image": "five-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/fivethirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F555",
+      "image": "six-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/sixoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F561",
+      "image": "six-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/sixthirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F556",
+      "image": "seven-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/sevenoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F562",
+      "image": "seven-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/seventhirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F557",
+      "image": "eight-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/eightoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F563",
+      "image": "eight-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/eightthirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F558",
+      "image": "nine-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/nineoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F564",
+      "image": "nine-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/ninethirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F559",
+      "image": "ten-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/tenoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F565",
+      "image": "ten-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/tenthirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F55A",
+      "image": "eleven-o-clock.png",
+      "url": "https://u.cubeupload.com/sfg/elevenoclock.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F566",
+      "image": "eleven-thirty.png",
+      "url": "https://u.cubeupload.com/sfg/eleventhirty.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0030 U+FE0F U+20E3",
+      "image": "keycap-digit-zero.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitzero.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0031 U+FE0F U+20E3",
+      "image": "keycap-digit-one.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitone.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0032 U+FE0F U+20E3",
+      "image": "keycap-digit-two.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigittwo.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0033 U+FE0F U+20E3",
+      "image": "keycap-digit-three.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitthree.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0034 U+FE0F U+20E3",
+      "image": "keycap-digit-four.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitfour.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0035 U+FE0F U+20E3",
+      "image": "keycap-digit-five.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitfive.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0036 U+FE0F U+20E3",
+      "image": "keycap-digit-six.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitsix.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0037 U+FE0F U+20E3",
+      "image": "keycap-digit-seven.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitseven.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0038 U+FE0F U+20E3",
+      "image": "keycap-digit-eight.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigiteight.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+0039 U+FE0F U+20E3",
+      "image": "keycap-digit-nine.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitnine.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F51F",
+      "image": "keycap-digit-ten.png",
+      "url": "https://u.cubeupload.com/sfg/keycapdigitten.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2648",
+      "image": "aries.png",
+      "url": "https://u.cubeupload.com/sfg/aries.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2649",
+      "image": "taurus.png",
+      "url": "https://u.cubeupload.com/sfg/taurus.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+264A",
+      "image": "gemini.png",
+      "url": "https://u.cubeupload.com/sfg/gemini.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+264B",
+      "image": "cancer.png",
+      "url": "https://u.cubeupload.com/sfg/cancer.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+264C",
+      "image": "leo.png",
+      "url": "https://u.cubeupload.com/sfg/leo.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+264D",
+      "image": "virgo.png",
+      "url": "https://u.cubeupload.com/sfg/virgo.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+264E",
+      "image": "libra.png",
+      "url": "https://u.cubeupload.com/sfg/libra.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+264F",
+      "image": "scorpio.png",
+      "url": "https://u.cubeupload.com/sfg/scorpio.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2650",
+      "image": "sagittarius.png",
+      "url": "https://u.cubeupload.com/sfg/sagittarius.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2651",
+      "image": "capricorn.png",
+      "url": "https://u.cubeupload.com/sfg/capricorn.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2652",
+      "image": "aquarius.png",
+      "url": "https://u.cubeupload.com/sfg/aquarius.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2653",
+      "image": "pisces.png",
+      "url": "https://u.cubeupload.com/sfg/pisces.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+26CE",
+      "image": "ophiuchus.png",
+      "url": "https://u.cubeupload.com/sfg/ophiuchus.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2642",
+      "image": "male-sign.png",
+      "url": "https://u.cubeupload.com/sfg/malesign.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2640",
+      "image": "female-sign.png",
+      "url": "https://u.cubeupload.com/sfg/femalesign.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+26A7",
+      "image": "transgender-symbol.png",
+      "url": "https://u.cubeupload.com/sfg/transgendersymbol.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2B06",
+      "image": "up-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/uparrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2197",
+      "image": "up-right-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/uprightarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+27A1",
+      "image": "right-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/rightarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2198",
+      "image": "down-right-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/downrightarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2B07",
+      "image": "down-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/downarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2199",
+      "image": "down-left-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/downleftarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2B05",
+      "image": "left-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/leftarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2196",
+      "image": "up-left-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/upleftarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2195",
+      "image": "up-down-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/updownarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2194",
+      "image": "left-right-arrow.png",
+      "url": "https://u.cubeupload.com/sfg/leftrightarrow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+21A9",
+      "image": "right-arrow-curving-left.png",
+      "url": "https://u.cubeupload.com/sfg/rightarrowcurvinglef.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+21AA",
+      "image": "left-arrow-curving-right.png",
+      "url": "https://u.cubeupload.com/sfg/leftarrowcurvingrigh.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2934",
+      "image": "right-arrow-curving-up.png",
+      "url": "https://u.cubeupload.com/sfg/rightarrowcurvingup.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+2935",
+      "image": "right-arrow-curving-down.png",
+      "url": "https://u.cubeupload.com/sfg/rightarrowcurvingdow.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F503",
+      "image": "clockwise-vertical-arrows.png",
+      "url": "https://u.cubeupload.com/sfg/clockwiseverticalarr.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F504",
+      "image": "counterclockwise-arrows-button.png",
+      "url": "https://u.cubeupload.com/sfg/counterclockwisearro.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F1E7 U+1F1F7",
+      "image": "brazil-flag.png",
+      "url": "https://u.cubeupload.com/sfg/clockwiseverticalarr.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F441",
+      "image": "eye.png",
+      "url": "https://u.cubeupload.com/sfg/eye.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F602",
+      "image": "facewithtearsofjoy.png",
+      "url": "https://u.cubeupload.com/sfg/facewithtearsofjoy.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F61C",
+      "image": "winking-face-with-tongue.png",
+      "url": "https://u.cubeupload.com/sfg/winkingfacewithtongu.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F47E",
+      "image": "alien-monster.png",
+      "url": "https://u.cubeupload.com/sfg/alienmonster.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F251",
+      "image": "button-acceptable.png",
+      "url": "https://u.cubeupload.com/sfg/buttonacceptable.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F250",
+      "image": "button-bargain.png",
+      "url": "https://u.cubeupload.com/sfg/buttonbargain.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F238",
+      "image": "button-application.png",
+      "url": "https://u.cubeupload.com/sfg/buttonapplication.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F21A",
+      "image": "button-free-of-charge.png",
+      "url": "https://u.cubeupload.com/sfg/buttonfreeofcharge.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F239",
+      "image": "button-discount.png",
+      "url": "https://u.cubeupload.com/sfg/buttondiscount.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+3297",
+      "image": "button-congratulations.png",
+      "url": "https://u.cubeupload.com/sfg/buttoncongratulation.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F237",
+      "image": "button-monthly-amount.png",
+      "url": "https://u.cubeupload.com/sfg/buttonmonthlyamount.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F201",
+      "image": "button-here.png",
+      "url": "https://u.cubeupload.com/sfg/buttonhere.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F23A",
+      "image": "button-open-for-business.png",
+      "url": "https://u.cubeupload.com/sfg/buttonopenforbusines.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F235",
+      "image": "button-no-vacancy.png",
+      "url": "https://u.cubeupload.com/sfg/buttonnovacancy.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F236",
+      "image": "button-not-free-of-charge.png",
+      "url": "https://u.cubeupload.com/sfg/buttonnotfreeofcharg.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F22F",
+      "image": "button-reserved.png",
+      "url": "https://u.cubeupload.com/sfg/buttonreserved.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F232",
+      "image": "button-prohibited.png",
+      "url": "https://u.cubeupload.com/sfg/buttonprohibited.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F234",
+      "image": "button-passing-grade.png",
+      "url": "https://u.cubeupload.com/sfg/buttonpassinggrade.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F199",
+      "image": "button-up.png",
+      "url": "https://u.cubeupload.com/sfg/buttonup.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F202",
+      "image": "button-service-charge.png",
+      "url": "https://u.cubeupload.com/sfg/buttonservicecharge.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+3299",
+      "image": "button-secret.png",
+      "url": "https://u.cubeupload.com/sfg/buttonsecret.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F19A",
+      "image": "button-vs.png",
+      "url": "https://u.cubeupload.com/sfg/buttonvs.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F233",
+      "image": "button-vacancy.png",
+      "url": "https://u.cubeupload.com/sfg/buttonvacancy.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F523",
+      "image": "button-symbols.png",
+      "url": "https://u.cubeupload.com/sfg/buttonsymbols.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+2139",
+      "image": "button-information.png",
+      "url": "https://u.cubeupload.com/sfg/buttoninformation.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F193",
+      "image": "button-free.png",
+      "url": "https://u.cubeupload.com/sfg/buttonfree.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F192",
+      "image": "button-cool.png",
+      "url": "https://u.cubeupload.com/sfg/buttoncool.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F521",
+      "image": "button-latin-lowercase.png",
+      "url": "https://u.cubeupload.com/sfg/buttonlatinlowercase.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F524",
+      "image": "button-latin-letters.png",
+      "url": "https://u.cubeupload.com/sfg/buttonlatinletters.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F195",
+      "image": "button-new.png",
+      "url": "https://u.cubeupload.com/sfg/buttonnew.png",
+      "author": "unknown"
+    },
+    {
+      "codepoint": "U+1F520",
+      "image": "button-latin-uppercase.png",
+      "url": "https://u.cubeupload.com/sfg/buttonlatinuppercase.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F522",
+      "image": "button-numbers.png",
+      "url": "https://u.cubeupload.com/sfg/buttonnumbers.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F196",
+      "image": "button-ng.png",
+      "url": "https://u.cubeupload.com/sfg/buttonng.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F197",
+      "image": "button-ok.png",
+      "url": "https://u.cubeupload.com/sfg/buttonok.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F301",
+      "image": "foggy.png",
+      "url": "https://u.cubeupload.com/sfg/foggy.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F303",
+      "image": "night-with-stars.png",
+      "url": "https://u.cubeupload.com/sfg/nightwithstars.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F3D9",
+      "image": "cityscape.png",
+      "url": "https://u.cubeupload.com/sfg/cityscape.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F304",
+      "image": "sunrise-over-mountains.png",
+      "url": "https://u.cubeupload.com/sfg/sunriseovermountains.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F305",
+      "image": "sunrise.png",
+      "url": "https://u.cubeupload.com/sfg/sunrise.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F306",
+      "image": "cityscape-at-dusk.png",
+      "url": "https://u.cubeupload.com/sfg/cityscapeatdusk.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F307",
+      "image": "sunset.png",
+      "url": "https://u.cubeupload.com/sfg/sunset.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F309",
+      "image": "bridge-at-night.png",
+      "url": "https://u.cubeupload.com/sfg/bridgeatnight.png",
+      "author": "stickfiregames"
+    }
+  ]
+}
