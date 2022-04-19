@@ -9,7 +9,7 @@
     "Add new emojis to the end of this file, or search for a codepoint ",
     "or file name to replace an existing one (and remember to update",
     "the hosting link to match the new one).",
-    
+
     "If the same codepoint is listed twice, the later one will be used.",
     "The emoji list will warn you of duplicate emojis in the console."
   ],
@@ -1819,6 +1819,12 @@
       "image": "bridge-at-night.png",
       "url": "https://u.cubeupload.com/sfg/bridgeatnight.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F9F2",
+      "image": "magnet.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6b21a249700710d4aba6ec2f5e72146f.png",
+      "author": "mybearworld"
     }
   ]
 }
