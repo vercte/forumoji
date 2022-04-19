@@ -1,0 +1,17 @@
+{
+  "comment": [
+    "This is a list of emoji that will be hidden from the site,",
+    "either to comply with Scratch's censorship standards",
+    "or for any other reason we don't want to include them",
+    "in the Forumoji set.",
+
+    "Any entry that is not a valid codepoint will be ignored",
+    "and can be used as a comment."
+  ],
+  "codepoints": [
+    "U+1F595", "middle finger",
+    "U+1F346", "eggplant",
+    "U+1F351", "peach",
+    "There are probably a lot more that could be hidden"
+  ]
+}

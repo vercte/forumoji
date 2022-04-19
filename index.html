@@ -1,18 +1,36 @@
-<!DOCTYPE html>
 <html>
-	<head>
-		<title>Forumoji Docs</title>
-		<script src="resources/script.js" defer></script>
-        <link rel="stylesheet" href="resources/style.css">
-	</head>
-	<body>
-		<h1>Forumoji Docs</h1>
+  <head>
+    <title>Project Forumoji</title>
+    <link rel="stylesheet" type="text/css" href="list.css">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+  </head>
+  <body>
+    <div id="page-container">
+      <header id="header">
+        <h1>Project Forumoji</h1>
+      </header>
+      <main id="info">
+        <img id="image">
+        <h2 id="name"></h2>
+        <table>
+          <tr>
+            <td>by:</td>
+            <td id="author"></td>
+          </tr>
+          <tr>
+            <td>keywords:</td>
+            <td id="keywords"></td>
+          </tr>
+          <tr>
+            <td>BBCode:</td>
+            <td><input type="text" id="bbcode"></td>
+          </tr>
+        </table>
+      </main>
+      <nav id="list"></nav>
+    </div>
 
-        We currently have 141 emojis of 3433. We're working hard to get all of them. <br><br>
-        <div style="text-align: center;">Progress:&nbsp;<progress value="141" max="3433"></progress></div>
-        <div id="list-link">
-            <a href="list">You can find the full list here.</a>
-        </div>
-
-	</body>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="resources/list.js"></script>
+  </body>
 </html>
