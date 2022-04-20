@@ -12,7 +12,7 @@ body {
 #page-container {
   position: absolute;
   display: grid;
-  grid-template-rows: [top] 4em [middle] 1fr [bottom];
+  grid-template-rows: [top] auto [middle] 1fr [bottom];
   grid-template-columns: [left] 18em [center] 1fr [right];
   grid-template-areas:
     "header header"
@@ -25,12 +25,24 @@ body {
 
 #header {
   grid-area: header;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "title search";
   background-color: #0f8bc0;
   color: #ffffff;
 }
 
 h1 {
   margin: 0.5em;
+  grid-area: title;
+}
+
+#search {
+  grid-area: search;
+  height: 2em;
+  max-width: 20em;
+  /* vertical-align: middle; */
+  margin: auto 0 auto 0;
 }
 
 #info {
@@ -91,8 +103,4 @@ p.preview-image {
 
 #list img:hover, #list img:focus, #list img.selected {
   background-color: #fdf200;
-}
-
-#list img.filtered {
-  display: none;
 }

@@ -58,6 +58,24 @@ window.onload = function() {
       });
     });
   });
+  document.querySelector("#search").addEventListener("input", function(e) {
+    let query = e.srcElement.value;
+    let notFound;
+    for (let i of document.querySelectorAll("#list img")) {
+      i.removeAttribute("hidden");
+      notFound = true;
+      for (let j of Array.from(i.classList).concat(["keyword-"+i.getAttribute("alt")])) {
+        if (/^keyword-/.test(j)) {
+          if (j.toLowerCase().slice(8).includes(query.toLowerCase())) {
+            notFound = false;
+          }
+        }
+      }
+      if (notFound) {
+        i.setAttribute("hidden", "");
+      }
+    }
+  });
 }
 
 function select(emoji) {
