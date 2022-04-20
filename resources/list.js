@@ -70,3 +70,7 @@ function select(emoji) {
   $('#keywords').text(emoji.keywords.join(', '));
   $('#bbcode').attr('value', `[img=${emoji.url}]`);
 }
+
+function copyBBCode() {
+  navigator.clipboard.writeText($('#bbcode').attr('value'));
+}

@@ -54,6 +54,15 @@ p.preview-image {
   text-align: center;
 }
 
+.text-button {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.text-button input {
+  width: 1fr;
+}
+
 #name {
   text-transform: uppercase;
   text-align: center;
