@@ -1825,6 +1825,126 @@
       "image": "magnet.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/6b21a249700710d4aba6ec2f5e72146f.png",
       "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F358",
+      "image": "rice-cracker.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/524124275a8e96c44f4e8612a7c70008.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F517",
+      "image": "link.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/c3acfd98a7694e2bcf55c6924becfc0b.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+2753",
+      "image": "question-mark.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7c409e46350cbb925c494bbd0030e79e.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+2049",
+      "image": "exclamation-question-mark.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6ba22ba8b8215f608481ca3034e9eb7a.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+26D4",
+      "image": "no-entry.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5e08049137c04db6a1840f1764ce262e.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F198",
+      "image": "sos-button.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/31e7cda6e698f67a0f35facc457b6313.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F311",
+      "image": "new-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/03dafd589cd3602735c9b431e070618b.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F312",
+      "image": "waxing-crescent-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/535ca70d11ecfac6e320e612483ba5bb.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F313",
+      "image": "first-quarter-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/b6f2a09365b643b974b2db57a4073299.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F314",
+      "image": "waxing-gibbous-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/e1e3bc583d08736629f15d33e7079d58.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F315",
+      "image": "full-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/741a19ab63e2e2ae9a60b4985abd6ca3.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F316",
+      "image": "waning-gibbous-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/89e3a536a60b23d55582d00cf3308d86.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F317",
+      "image": "last-quarter-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/cb9bd38224541a02f47173b74980b4a1.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F318",
+      "image": "waning-crescent-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/df029da82dff3e1632a23ea2f21f5718.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F319",
+      "image": "crescent-moon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/fd8e7f26d8bf8ea282833a5ba6563373.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F31A",
+      "image": "new-moon-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f2335d94c5bdd106312b888faa69eb12.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F31B",
+      "image": "first-quarter-moon-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5b68f6fe7ae6c84f0bc52795e8c94cef.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F31C",
+      "image": "last-quarter-moon-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6b8961ef80c3a4b939ce20774f8ff9f1.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F31D",
+      "image": "full-moon-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7855bda4219b72e3c732f2548cb88d0b.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F644",
+      "image": "rolleyes.png",
+      "url": "https://u.cubeupload.com/64lu/rolleyes.png",
+      "author": "64lu"
     }
   ]
 }
