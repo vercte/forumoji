@@ -68,11 +68,7 @@ p.preview-image {
 
 .text-button {
   display: grid;
-  grid-template-columns: 1fr auto;
-}
-
-.text-button input {
-  width: 1fr;
+  grid-template-columns: 8em auto;
 }
 
 #name {
