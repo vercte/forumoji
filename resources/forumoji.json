@@ -125,7 +125,7 @@
     {
       "codepoint": "U+1F97A",
       "image": "pleadingface.png",
-      "url": "https://u.cubeupload.com/Vercte/pleadingface.png",
+      "url": "https://u.cubeupload.com/sfg/pleadingface.png",
       "author": "lolecksdeehaha"
     },
     {
@@ -563,50 +563,50 @@
     {
       "codepoint": "U+1F4D8",
       "image": "blue-book.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/bookblue.png",
-      "author": "Autofirejm"
+      "url": "https://u.cubeupload.com/sfg/bluebook.png",
+      "author": "Autofirejm lolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D9",
       "image": "orange-book.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/bookorang.png",
-      "author": "Autofirejm"
+      "url": "https://u.cubeupload.com/sfg/orangebook.png",
+      "author": "Autofirejm lolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D5",
       "image": "red-book.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/bookred.png",
-      "author": "Autofirejm"
+      "url": "https://u.cubeupload.com/sfg/redbook.png",
+      "author": "Autofirejm lolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D7",
       "image": "green-book.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/bookgreen.png",
-      "author": "Autofirejm"
+      "url": "https://u.cubeupload.com/sfg/greenbook.png",
+      "author": "Autofirejm lolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D2",
       "image": "ledger.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/ledger.png",
-      "author": "Autofirejm"
+      "url": "https://u.cubeupload.com/sfg/ledger.png",
+      "author": "Autofirejm lolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D4",
       "image": "decorated-notebook.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/decobook.png",
-      "author": "Autofirejm"
+      "url": "https://u.cubeupload.com/sfg/decoratednotebook.png",
+      "author": "Autofirejm lolecksdeehaha"
     },
     {
       "codepoint": "U+1F50B",
       "image": "battery.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/fullbatttery.png",
-      "author": "Autofirejm"
+      "url": "https://u.cubeupload.com/sfg/battery.png",
+      "author": "Autofirejm lolecksdeehaha"
     },
     {
       "codepoint": "U+1F48A",
       "image": "pill.png",
-      "url": "https://u.cubeupload.com/PATSATDAT/pill.png",
-      "author": "PATSATDAT"
+      "url": "https://u.cubeupload.com/sfg/pill.png",
+      "author": "PATSATDAT lolecksdeehaha"
     },
     {
       "codepoint": "U+1F525",
@@ -947,14 +947,8 @@
     {
       "codepoint": "U+1F984",
       "image": "unicorn.png",
-      "url": "https://u.cubeupload.com/cartooney/unicorn.png",
-      "author": "cartooney"
-    },
-    {
-      "codepoint": "U+1F4D5",
-      "image": "closedbook.png",
-      "url": "https://u.cubeupload.com/SMH_Scratch/a0dclosedbook.png",
-      "author": "SuperMarioHome"
+      "url": "https://u.cubeupload.com/sfg/unicorn.png",
+      "author": "cartooney lolecksdeehaha"
     },
     {
       "codepoint": "U+1F980",
@@ -1019,8 +1013,8 @@
     {
       "codepoint": "U+1F979",
       "image": "face-holding-back-tears.png",
-      "url": "https://u.cubeupload.com/CocoTheMii/faceholdingbacktears.png",
-      "author": "Scratch137"
+      "url": "https://u.cubeupload.com/sfg/faceholdingbacktears.png",
+      "author": "Scratch137 lolecksdeehaha"
     },
     {
       "codepoint": "U+1F55B",
@@ -1691,8 +1685,8 @@
     {
       "codepoint": "U+1F517",
       "image": "link.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/c3acfd98a7694e2bcf55c6924becfc0b.png",
-      "author": "mybearworld"
+      "url": "https://u.cubeupload.com/sfg/link.png",
+      "author": "mybearworld stickfiregames"
     },
     {
       "codepoint": "U+2753",
@@ -1709,8 +1703,8 @@
     {
       "codepoint": "U+26D4",
       "image": "no-entry.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5e08049137c04db6a1840f1764ce262e.png",
-      "author": "Vaibhs11"
+      "url": "https://u.cubeupload.com/sfg/noentry.png",
+      "author": "Vaibhs11 stickfiregames"
     },
     {
       "codepoint": "U+1F198",
@@ -3373,6 +3367,12 @@
       "image": "face-in-clouds.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/ba4b794109325150e11e30845c8755c6.png",
       "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F4D3",
+      "image": "notebook.png",
+      "url": "https://u.cubeupload.com/sfg/notebook.png",
+      "author": "lolecksdeehaha"
     }
   ]
 }
