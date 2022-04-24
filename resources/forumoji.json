@@ -588,7 +588,7 @@
       "codepoint": "U+1F4D2",
       "image": "ledger.png",
       "url": "https://u.cubeupload.com/sfg/ledger.png",
-      "author": "Autofirejm lolecksdeehaha"
+      "author": "Autofirejm stickfiregames"
     },
     {
       "codepoint": "U+1F4D4",
@@ -3373,6 +3373,48 @@
       "image": "notebook.png",
       "url": "https://u.cubeupload.com/sfg/notebook.png",
       "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+1F430",
+      "image": "rabbit-face.png",
+      "url": "https://u.cubeupload.com/64lu/rabbit.png",
+      "author": "64lu"
+    },
+    {
+      "codepoint": "U+1F407",
+      "image": "rabbit.png",
+      "url": "https://u.cubeupload.com/64lu/6a7rabbit.png",
+      "author": "64lu"
+    },
+    {
+      "codepoint": "U+1F95E",
+      "image": "pancakes.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/3830c50bd119eb71825b0c24ae83d306.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F929",
+      "image": "face-with-star-eyes.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/05c682de93edbd30c4333438d8f27da2.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F634",
+      "image": "sleepy-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/444695d547f4bd009bebebe104fcef1c.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F911",
+      "image": "money-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7db29097d51cb47f771bc97b5f965034.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F618",
+      "image": "kissing-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/555d0e3b5ef572f3dfc27aef1a3425f8.png",
+      "author": "mcgoomba"
     }
   ]
 }
