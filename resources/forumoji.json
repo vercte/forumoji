@@ -3411,12 +3411,6 @@
       "author": "mcgoomba"
     },
     {
-      "codepoint": "U+1F618",
-      "image": "kissing-face.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/555d0e3b5ef572f3dfc27aef1a3425f8.png",
-      "author": "mcgoomba"
-    },
-    {
       "codepoint": "U+1F92A",
       "image": "zany-face.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/c04bca539108f18dc1f26a172c801d89.png",
@@ -3426,6 +3420,54 @@
       "codepoint": "U+1F4BB",
       "image": "laptop.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/a5677dab1458f9b3f3f18128fe8a70e3.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F60A",
+      "image": "smiling-face-with-smiling-eyes.png",
+      "url": "https://u.cubeupload.com/sfg/smilingfacewithsmili.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F601",
+      "image": "beaming-face-with-smiling-eyes.png",
+      "url": "https://u.cubeupload.com/sfg/beamingfacewithsmili.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F971",
+      "image": "yawning-face.png",
+      "url": "https://u.cubeupload.com/sfg/yawningface.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F623",
+      "image": "persevering-face.png",
+      "url": "https://u.cubeupload.com/sfg/perseveringface.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F617",
+      "image": "kissing-face.png",
+      "url": "https://u.cubeupload.com/sfg/kissingface.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F60D",
+      "image": "smiling-face-with-heart-eyes.png",
+      "url": "https://u.cubeupload.com/sfg/smilingfacewithheart.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F618",
+      "image": "face-throwing-a-kiss.png",
+      "url": "https://u.cubeupload.com/sfg/facethrowingakiss.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F60B",
+      "image": "face-savoring-food.png",
+      "url": "https://u.cubeupload.com/sfg/facesavoringfood.png",
       "author": "mybearworld"
     }
   ]
