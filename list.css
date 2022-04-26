@@ -84,7 +84,7 @@ p.preview-image {
 }
 
 #list img {
-  width: 30px;
+  width: 45px;
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
   image-rendering: -o-crisp-edges;            /* Opera                          */
@@ -92,7 +92,7 @@ p.preview-image {
   image-rendering: pixelated; /* Chrome */
   image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-  margin: 0.2em 0 0 0.2em;
+  margin: 0.25em 0 0 0.25em;
   padding: 0.25em;
   border-radius: 0.25em;
 }
