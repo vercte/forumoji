@@ -13,19 +13,24 @@ There are a few details to keep in mind when contributing emojis to the Forumoji
 ### Adding Emojis to the website
 If you would like to add your emojis to the website, you should follow this process:
 * Add your emojis to the `/resources/forumoji` folder.
-* Upload your emojis to [Cubeupload](https://cubeupload.com); please note that Cubeupload requires users to create an account before uploading images.
 * Add your emojis to `/resources/forumoji.json` in the following format:
-```
+```json
 {
   "codepoint": "U+1F63A",
   "image": "smileycat.png",
   "url": "https://u.cubeupload.com/zani/smileycat.png",
   "author": "uwv"
 }
-
-remember to add a comma after the old last item in the list, and *don't* add one after the new last item.
 ```
-* Emojis are found [here](https://lopste.github.io/forumoji).
+Here's what you should put in those sections:
+`codepoint`: Put the unicode codepoint of the emoji; if you can't find this, it's **not** an emoji!
+`image`: The image path relative to `/resources/forumoji`.
+`url`: The image path, hosted online on either [Cubeupload](https://cubeupload.com) or assets.scratch.mit.edu
+`author`: The author(s). If multiple authors, put them after newlines (`\n`). For example:
+```json
+"author": "authorOne \nauthorTwo"
+```
+Remember to add a comma after the old last item in the list, and *don't* add one after the new last item.
 
-## Scratch
+## Scratch Topic
 Forumoji has a [topic on the Scratch Forums](https://scratch.mit.edu/discuss/topic/557083/); this is where most discussion about the project takes place, including important updates from @lopste. Some contributors may opt to post their emojis on Scratch first before contributing them here.
