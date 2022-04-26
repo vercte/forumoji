@@ -52,7 +52,7 @@ h1 {
 }
 
 #large-preview {
-  width: 15em;
+  width: 150px;
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
   image-rendering: -o-crisp-edges;            /* Opera                          */
@@ -84,7 +84,7 @@ p.preview-image {
 }
 
 #list img {
-  width: 3em;
+  width: 30px;
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
   image-rendering: -o-crisp-edges;            /* Opera                          */
@@ -92,7 +92,7 @@ p.preview-image {
   image-rendering: pixelated; /* Chrome */
   image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-  margin: 0.25em 0 0 0.25em;
+  margin: 0.2em 0 0 0.2em;
   padding: 0.25em;
   border-radius: 0.25em;
 }
