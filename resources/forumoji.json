@@ -564,49 +564,49 @@
       "codepoint": "U+1F4D8",
       "image": "blue-book.png",
       "url": "https://u.cubeupload.com/sfg/bluebook.png",
-      "author": "Autofirejm lolecksdeehaha"
+      "author": "Autofirejm\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D9",
       "image": "orange-book.png",
       "url": "https://u.cubeupload.com/sfg/orangebook.png",
-      "author": "Autofirejm lolecksdeehaha"
+      "author": "Autofirejm\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D5",
       "image": "red-book.png",
       "url": "https://u.cubeupload.com/sfg/redbook.png",
-      "author": "Autofirejm lolecksdeehaha"
+      "author": "Autofirejm\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D7",
       "image": "green-book.png",
       "url": "https://u.cubeupload.com/sfg/greenbook.png",
-      "author": "Autofirejm lolecksdeehaha"
+      "author": "Autofirejm\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F4D2",
       "image": "ledger.png",
       "url": "https://u.cubeupload.com/sfg/ledger.png",
-      "author": "Autofirejm stickfiregames"
+      "author": "Autofirejm\nstickfiregames"
     },
     {
       "codepoint": "U+1F4D4",
       "image": "decorated-notebook.png",
       "url": "https://u.cubeupload.com/sfg/decoratednotebook.png",
-      "author": "Autofirejm lolecksdeehaha"
+      "author": "Autofirejm\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F50B",
       "image": "battery.png",
       "url": "https://u.cubeupload.com/sfg/battery.png",
-      "author": "Autofirejm lolecksdeehaha"
+      "author": "Autofirejm\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F48A",
       "image": "pill.png",
       "url": "https://u.cubeupload.com/sfg/pill.png",
-      "author": "PATSATDAT lolecksdeehaha"
+      "author": "PATSATDAT\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F525",
@@ -726,7 +726,7 @@
       "codepoint": "U+1F920",
       "image": "face-with-cowboy-hat.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/ecb328150b08bf154541d46b4af7a778.png",
-      "author": "mybearworld"
+      "author": "mybearworld\nstickfiregames"
     },
     {
       "codepoint": "U+1F480",
@@ -1686,7 +1686,7 @@
       "codepoint": "U+1F517",
       "image": "link.png",
       "url": "https://u.cubeupload.com/sfg/link.png",
-      "author": "mybearworld stickfiregames"
+      "author": "mybearworld\nstickfiregames"
     },
     {
       "codepoint": "U+2753",
@@ -1704,7 +1704,7 @@
       "codepoint": "U+26D4",
       "image": "no-entry.png",
       "url": "https://u.cubeupload.com/sfg/noentry.png",
-      "author": "Vaibhs11 stickfiregames"
+      "author": "Vaibhs11\nstickfiregames"
     },
     {
       "codepoint": "U+1F198",
@@ -3465,10 +3465,34 @@
       "author": "mybearworld"
     },
     {
-      "codepoint": "U+1F60B",
-      "image": "face-savoring-food.png",
-      "url": "https://u.cubeupload.com/sfg/facesavoringfood.png",
-      "author": "mybearworld"
+      "codepoint": "U+1F6D1",
+      "image": "stopsign.png",
+      "url": "https://u.cubeupload.com/Oumuameow/stopsign.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+1F9E7",
+      "image": "redenvelope.png",
+      "url": "https://u.cubeupload.com/Oumuameow/redenvelope.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+26BD",
+      "image": "soccerball.png",
+      "url": "https://u.cubeupload.com/Oumuameow/soccerball.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+1F5E8",
+      "image": "left-speech-bubble.png",
+      "url": "https://u.cubeupload.com/sfg/leftspeechbubble.png",
+      "author": "TheTrillion"
+    },
+    {
+      "codepoint": "U+1FAE0",
+      "image": "melting-face.png",
+      "url": "https://u.cubeupload.com/sfg/meltingface.png",
+      "author": "stickfiregames"
     }
   ]
 }
