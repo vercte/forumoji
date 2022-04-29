@@ -23,10 +23,10 @@ If you would like to add your emojis to the website, you should follow this proc
 }
 ```
 Here's what you should put in those sections:
-`codepoint`: Put the unicode codepoint of the emoji; if you can't find this, it's **not** an emoji!
-`image`: The image path relative to `/resources/forumoji`.
-`url`: The image path, hosted online on either [Cubeupload](https://cubeupload.com) or assets.scratch.mit.edu
-`author`: The author(s). If multiple authors, put them after newlines (`\n`). For example:
+* `codepoint`: Put the unicode codepoint of the emoji; if you can't find this, it's **not** an emoji!
+* `image`: The image path relative to `/resources/forumoji`.
+* `url`: The image path, hosted online on either [Cubeupload](https://cubeupload.com) or assets.scratch.mit.edu
+* `author`: The author(s). If multiple authors, put them after newlines (`\n`). For example:
 ```json
 "author": "authorOne \nauthorTwo"
 ```
