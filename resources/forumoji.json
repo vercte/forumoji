@@ -3315,9 +3315,9 @@
       "author": "mybearworld"
     },
     {
-      "codepoint": "U+1F4BB",
-      "image": "laptop.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/a5677dab1458f9b3f3f18128fe8a70e3.png",
+      "codepoint": "U+1F5A5",
+      "image": "desktop-computer.png",
+      "url": "https://u.cubeupload.com/sfg/desktopcomputer.png",
       "author": "mybearworld"
     },
     {
@@ -3593,8 +3593,8 @@
     {
       "codepoint": "U+2639",
       "image": "frowning-face.png",
-      "url": "https://u.cubeupload.com/sfg/frowningface.png",
-      "author": "lolecksdeehaha\nstickfiregames"
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/3d8b7ebe9ec9e8621b6de6281782c870.png",
+      "author": "Vaibhs11"
     },
     {
       "codepoint": "U+1F62E",
@@ -3781,6 +3781,36 @@
       "image": "water-wave.png",
       "url": "https://u.cubeupload.com/sfg/waterwave.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4BB",
+      "image": "laptop.png",
+      "url": "https://u.cubeupload.com/sfg/laptop.png",
+      "author": "mybearworld\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F5E3",
+      "image": "speaking-head-in-silhouette.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/cea2751eaa978f52ea004016ddd47c0f.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F464",
+      "image": "bust-in-silhouette.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9ed37885a91e887b10de3b236e9f09da.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F465",
+      "image": "busts-in-silhouette.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/783a776d321175e60faef85d6e4e52f0.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1FAC2",
+      "image": "people-hugging.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/aaba943c7901fb88542bc4714e2c513e.png",
+      "author": "Vaibhs11"
     }
   ]
 }
