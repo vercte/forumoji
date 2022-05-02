@@ -28,7 +28,7 @@ Here's what you should put in those sections:
 * `url`: The image path, hosted online on either [Cubeupload](https://cubeupload.com) or assets.scratch.mit.edu
 * `author`: The author(s). If multiple authors, put them after newlines (`\n`). For example:
 ```json
-"author": "authorOne \nauthorTwo"
+"author": "authorOne\nauthorTwo"
 ```
 Remember to add a comma after the old last item in the list, and *don't* add one after the new last item.
 
