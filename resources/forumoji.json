@@ -214,129 +214,189 @@
     },
     {
       "codepoint": "U+26AB",
-      "image": "blackcircle.png",
-      "url": "https://u.cubeupload.com/Vercte/blackcircle.png",
+      "image": "black-circle.png",
+      "url": "https://u.cubeupload.com/sfg/blackcircle.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+2B1B",
-      "image": "blacklargesquare.png",
-      "url": "https://u.cubeupload.com/Vercte/blacklargesquare.png",
+      "image": "black-square.png",
+      "url": "https://u.cubeupload.com/sfg/blacksquare.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+25FC",
-      "image": "blackmediumsquare.png",
-      "url": "https://u.cubeupload.com/Vercte/blackmediumsquare.png",
+      "image": "black-medium-square.png",
+      "url": "https://u.cubeupload.com/sfg/blackmediumsquare.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+25FE",
-      "image": "blackmediumsmallsquare.png",
+      "image": "black-medium-small-square.png",
       "url": "https://u.cubeupload.com/sfg/blackmediumsmallsqua.png",
       "author": "stickfiregames"
     },
     {
       "codepoint": "U+25AA",
-      "image": "blacksmallsquare.png",
-      "url": "https://u.cubeupload.com/Vercte/blacksmallsquare.png",
+      "image": "black-small-square.png",
+      "url": "https://u.cubeupload.com/sfg/blacksmallsquare.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+26AA",
-      "image": "whitecircle.png",
-      "url": "https://u.cubeupload.com/Vercte/whitecircle.png",
+      "image": "white-circle.png",
+      "url": "https://u.cubeupload.com/sfg/whitecircle.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+2B1C",
-      "image": "whitelargesquare.png",
-      "url": "https://u.cubeupload.com/Vercte/whitelargesquare.png",
+      "image": "white-square.png",
+      "url": "https://u.cubeupload.com/sfg/whitesquare.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+25FB",
-      "image": "whitemediumsquare.png",
-      "url": "https://u.cubeupload.com/Vercte/whitemediumsquare.png",
+      "image": "white-medium-square.png",
+      "url": "https://u.cubeupload.com/sfg/whitemediumsquare.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+25FD",
-      "image": "whitemediumsmallsquare.png",
+      "image": "white-medium-small-square.png",
       "url": "https://u.cubeupload.com/sfg/whitemediumsmallsqua.png",
       "author": "stickfiregames"
     },
     {
       "codepoint": "U+25AB",
-      "image": "whitesmallsquare.png",
-      "url": "https://u.cubeupload.com/Vercte/whitesmallsquare.png",
+      "image": "white-small-square.png",
+      "url": "https://u.cubeupload.com/sfg/whitesmallsquare.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F534",
-      "image": "redcircle.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy.png",
+      "image": "red-circle.png",
+      "url": "https://u.cubeupload.com/sfg/redcircle.png",
       "author": "Autofirejm"
     },
     {
       "codepoint": "U+1F7E5",
-      "image": "redsquare.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/cd3blacklargesquareCopy.png",
+      "image": "red-square.png",
+      "url": "https://u.cubeupload.com/sfg/redsquare.png",
       "author": "Autofirejm"
     },
     {
-      "codepoint": "U+1F535",
-      "image": "bluecircle.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy5.png",
+      "codepoint": "U+1F7E0",
+      "image": "orange-circle.png",
+      "url": "https://u.cubeupload.com/sfg/orangecircle.png",
       "author": "Autofirejm"
     },
     {
-      "codepoint": "U+1F7E6",
-      "image": "bluesquare.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/e6dblacklargesquareCopy.png",
+      "codepoint": "U+1F7E7",
+      "image": "orange-square.png",
+      "url": "https://u.cubeupload.com/sfg/orangesquare.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E1",
+      "image": "yellow-circle.png",
+      "url": "https://u.cubeupload.com/sfg/yellowcircle.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E8",
+      "image": "yellow-square.png",
+      "url": "https://u.cubeupload.com/sfg/yellowsquare.png",
       "author": "Autofirejm"
     },
     {
       "codepoint": "U+1F7E2",
-      "image": "greencircle.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy4.png",
+      "image": "green-circle.png",
+      "url": "https://u.cubeupload.com/sfg/greencircle.png",
       "author": "Autofirejm"
     },
     {
       "codepoint": "U+1F7E9",
-      "image": "greensquare.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/57bblacklargesquareCopy.png",
+      "image": "green-square.png",
+      "url": "https://u.cubeupload.com/sfg/greensquare.png",
       "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F535",
+      "image": "blue-circle.png",
+      "url": "https://u.cubeupload.com/sfg/bluecircle.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E6",
+      "image": "blue-square.png",
+      "url": "https://u.cubeupload.com/sfg/bluesquare.png",
+      "author": "Autofirejm"
+    },
+    {
+      "codepoint": "U+1F7E3",
+      "image": "purple-circle.png",
+      "url": "https://u.cubeupload.com/sfg/purplecircle.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F7EA",
+      "image": "purple-square.png",
+      "url": "https://u.cubeupload.com/sfg/purplesquare.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F7E4",
+      "image": "brown-circle.png",
+      "url": "https://u.cubeupload.com/sfg/browncircle.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F7EB",
+      "image": "brown-square.png",
+      "url": "https://u.cubeupload.com/sfg/brownsquare.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F536",
+      "image": "large-orange-diamond.png",
+      "url": "https://u.cubeupload.com/sfg/largeorangediamond.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F537",
+      "image": "large-blue-diamond.png",
+      "url": "https://u.cubeupload.com/sfg/largebluediamond.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F538",
+      "image": "small-orange-diamond.png",
+      "url": "https://u.cubeupload.com/sfg/smallorangediamond.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F539",
+      "image": "small-blue-diamond.png",
+      "url": "https://u.cubeupload.com/sfg/smallbluediamond.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F53A",
+      "image": "red-triangle-pointed-up.png",
+      "url": "https://u.cubeupload.com/sfg/redtrianglepointedup.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F53B",
+      "image": "red-triangle-pointed-down.png",
+      "url": "https://u.cubeupload.com/sfg/redtrianglepointeddo.png",
+      "author": "stickfiregames"
     },
     {
       "codepoint": "U+1F916",
       "image": "robotface.png",
       "url": "https://u.cubeupload.com/Vercte/robotface.png",
       "author": "lolecksdeehaha"
-    },
-    {
-      "codepoint": "U+1F7E0",
-      "image": "orangecircle.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy2.png",
-      "author": "Autofirejm"
-    },
-    {
-      "codepoint": "U+1F7E7",
-      "image": "orangesquare.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/blacklargesquareCopy.png",
-      "author": "Autofirejm"
-    },
-    {
-      "codepoint": "U+1F7E1",
-      "image": "yellowcircle.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/blackcircleCopy3.png",
-      "author": "Autofirejm"
-    },
-    {
-      "codepoint": "U+1F7E8",
-      "image": "yellowsquare.png",
-      "url": "https://u.cubeupload.com/autofirejm_cubeup/91fblacklargesquareCopy.png",
-      "author": "Autofirejm"
     },
     {
       "codepoint": "U+1F34C",
@@ -761,55 +821,55 @@
     {
       "codepoint": "U+2764",
       "image": "red-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/1fa31a7a98d9a958af7a4228ee1f3bc5.png",
+      "url": "https://u.cubeupload.com/sfg/redheart.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F9E1",
       "image": "orange-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/1003eae669f3dc9ff4c2729c94133a62.png",
+      "url": "https://u.cubeupload.com/sfg/orangeheart.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F49B",
       "image": "yellow-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/709149b509c22214cfba2e5430f08ddd.png",
+      "url": "https://u.cubeupload.com/sfg/yellowheart.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F49A",
       "image": "green-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/12f8b2564ce680f5c6c518c55dd0cd90.png",
+      "url": "https://u.cubeupload.com/sfg/greenheart.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F499",
       "image": "blue-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/1d88ae34655d8215ff08e86f9c462b40.png",
+      "url": "https://u.cubeupload.com/sfg/blueheart.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F49C",
       "image": "purple-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/90e2ac829c18157d0301c4d5b2ae6835.png",
+      "url": "https://u.cubeupload.com/sfg/purpleheart.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F90E",
       "image": "brown-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/c0d95c4d3964f2d1261df3166965e8c2.png",
+      "url": "https://u.cubeupload.com/sfg/brownheart.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F5A4",
       "image": "black-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/e921790d6c92e2d6a8f5b32e35c9c749.png",
+      "url": "https://u.cubeupload.com/sfg/blackheart.png",
       "author": "CST1229"
     },
     {
       "codepoint": "U+1F90D",
       "image": "white-heart.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/cf18c3455843abcfdb30c95c96378db1.png",
+      "url": "https://u.cubeupload.com/sfg/whiteheart.png",
       "author": "CST1229"
     },
     {
