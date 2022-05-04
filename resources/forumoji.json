@@ -3871,6 +3871,54 @@
       "image": "people-hugging.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/aaba943c7901fb88542bc4714e2c513e.png",
       "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F4B4",
+      "image": "yen-banknote.png",
+      "url": "https://u.cubeupload.com/sfg/yenbanknote.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4B5",
+      "image": "dollar-banknote.png",
+      "url": "https://u.cubeupload.com/sfg/dollarbanknote.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4B6",
+      "image": "euro-banknote.png",
+      "url": "https://u.cubeupload.com/sfg/eurobanknote.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4B7",
+      "image": "pound-banknote.png",
+      "url": "https://u.cubeupload.com/sfg/poundbanknote.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+2660",
+      "image": "spades-suit.png",
+      "url": "https://u.cubeupload.com/sfg/spadessuit.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+2665",
+      "image": "hearts-suit.png",
+      "url": "https://u.cubeupload.com/sfg/heartssuit.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+2666",
+      "image": "diamonds-suit.png",
+      "url": "https://u.cubeupload.com/sfg/diamondssuit.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+2663",
+      "image": "clubs-suit.png",
+      "url": "https://u.cubeupload.com/sfg/clubssuit.png",
+      "author": "stickfiregames"
     }
   ]
 }
