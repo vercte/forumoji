@@ -15,10 +15,34 @@
   ],
   "emoji": [
     {
+      "codepoint": "U+1F170",
+      "image": "blood-type-a.png",
+      "url": "https://u.cubeupload.com/sfg/bloodtypea.png",
+      "author": "stickfiregames"
+    },
+    {
       "codepoint": "U+1F171",
       "image": "blood-type-b.png",
-      "url": "https://u.cubeupload.com/Vercte/bloodtypeb.png",
-      "author": "lolecksdeehaha"
+      "url": "https://u.cubeupload.com/sfg/bloodtypeb.png",
+      "author": "lolecksdeehaha\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F18E",
+      "image": "blood-type-ab.png",
+      "url": "https://u.cubeupload.com/sfg/bloodtypeab.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F17E",
+      "image": "blood-type-o.png",
+      "url": "https://u.cubeupload.com/sfg/bloodtypeo.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F191",
+      "image": "button-cl.png",
+      "url": "https://u.cubeupload.com/sfg/buttoncl.png",
+      "author": "stickfiregames"
     },
     {
       "codepoint": "U+1F4CA",
@@ -41,13 +65,13 @@
     {
       "codepoint": "U+2611",
       "image": "checkboxwithcheck.png",
-      "url": "https://u.cubeupload.com/Vercte/checkboxwithcheck.png",
+      "url": "https://u.cubeupload.com/sfg/checkboxwithcheck.png",
       "author": "lolecksdeehaha"
     },
     {
       "codepoint": "U+2705",
       "image": "checkbutton.png",
-      "url": "https://u.cubeupload.com/Vercte/checkbutton.png",
+      "url": "https://u.cubeupload.com/sfg/checkbutton.png",
       "author": "lolecksdeehaha"
     },
     {
@@ -59,7 +83,7 @@
     {
       "codepoint": "U+274C",
       "image": "crossbutton.png",
-      "url": "https://u.cubeupload.com/Vercte/crossbutton.png",
+      "url": "https://u.cubeupload.com/sfg/crossbutton.png",
       "author": "lolecksdeehaha"
     },
     {
@@ -1685,7 +1709,7 @@
     {
       "codepoint": "U+1F198",
       "image": "sos-button.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/31e7cda6e698f67a0f35facc457b6313.png",
+      "url": "https://u.cubeupload.com/sfg/sosbutton.png",
       "author": "Vaibhs11"
     },
     {
