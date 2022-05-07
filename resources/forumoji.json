@@ -3943,6 +3943,150 @@
       "image": "clubs-suit.png",
       "url": "https://u.cubeupload.com/sfg/clubssuit.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F500",
+      "image": "button-shuffle-tracks.png",
+      "url": "https://u.cubeupload.com/sfg/buttonshuffletracks.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F501",
+      "image": "button-repeat.png",
+      "url": "https://u.cubeupload.com/sfg/buttonrepeat.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F502",
+      "image": "button-repeat-single.png",
+      "url": "https://u.cubeupload.com/sfg/buttonrepeatsingle.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+25B6",
+      "image": "button-play.png",
+      "url": "https://u.cubeupload.com/sfg/buttonplay.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23E9",
+      "image": "button-fast-forward.png",
+      "url": "https://u.cubeupload.com/sfg/buttonfastforward.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23ED",
+      "image": "button-next-track.png",
+      "url": "https://u.cubeupload.com/sfg/buttonnexttrack.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23EF",
+      "image": "button-play-or-pause.png",
+      "url": "https://u.cubeupload.com/sfg/buttonplayorpause.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+25C0",
+      "image": "button-reverse.png",
+      "url": "https://u.cubeupload.com/sfg/buttonreverse.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23EA",
+      "image": "button-fast-reverse.png",
+      "url": "https://u.cubeupload.com/sfg/buttonfastreverse.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23EE",
+      "image": "button-last-track.png",
+      "url": "https://u.cubeupload.com/sfg/buttonlasttrack.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F53C",
+      "image": "button-upwards.png",
+      "url": "https://u.cubeupload.com/sfg/buttonupwards.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23EB",
+      "image": "button-fast-up.png",
+      "url": "https://u.cubeupload.com/sfg/buttonfastup.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F53D",
+      "image": "button-downwards.png",
+      "url": "https://u.cubeupload.com/sfg/buttondownwards.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23EC",
+      "image": "button-fast-down.png",
+      "url": "https://u.cubeupload.com/sfg/buttonfastdown.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23F8",
+      "image": "button-pause.png",
+      "url": "https://u.cubeupload.com/sfg/buttonpause.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23F9",
+      "image": "button-stop.png",
+      "url": "https://u.cubeupload.com/sfg/buttonstop.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23FA",
+      "image": "button-record.png",
+      "url": "https://u.cubeupload.com/sfg/buttonrecord.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+23CF",
+      "image": "button-eject.png",
+      "url": "https://u.cubeupload.com/sfg/buttoneject.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F3A6",
+      "image": "button-cinema.png",
+      "url": "https://u.cubeupload.com/sfg/buttoncinema.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F505",
+      "image": "dim-button.png",
+      "url": "https://u.cubeupload.com/sfg/dimbutton.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F506",
+      "image": "bright-button.png",
+      "url": "https://u.cubeupload.com/sfg/brightbutton.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4F6",
+      "image": "button-antenna-bars.png",
+      "url": "https://u.cubeupload.com/sfg/buttonantennabars.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4F3",
+      "image": "button-vibration-mode.png",
+      "url": "https://u.cubeupload.com/sfg/buttonvibrationmode.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4F4",
+      "image": "button-mobile-phone-off.png",
+      "url": "https://u.cubeupload.com/sfg/buttonmobilephoneoff.png",
+      "author": "stickfiregames"
     }
   ]
 }
