@@ -84,7 +84,7 @@ function select(emoji) {
   $('img.preview-image').attr('src', 'resources/forumoji/' + emoji.image);
   $('img.preview-image').attr('alt', emoji.name);
   $('#name').text(emoji.name);
-  $('#author').text(emoji.author);
+  $('#author').html(emoji.author.replace('\n', '<br>'));
   $('#keywords').text(emoji.keywords.join(', '));
   $('#bbcode').attr('value', `[img=${emoji.url}]`);
 }
