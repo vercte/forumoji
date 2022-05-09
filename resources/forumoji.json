@@ -4093,6 +4093,24 @@
       "image": "drum.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/b93d3fa6e84022ce356793a04eef1fe5.png",
       "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4E5",
+      "image": "inbox-tray.png",
+      "url": "https://u.cubeupload.com/sfg/inboxtray.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F4E4",
+      "image": "outbox-tray.png",
+      "url": "https://u.cubeupload.com/sfg/outboxtray.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1FA7B",
+      "image": "x-ray.png",
+      "url": "https://u.cubeupload.com/sfg/xray.png",
+      "author": "Vaibhs11"
     }
   ]
 }
