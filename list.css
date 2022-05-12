@@ -95,12 +95,12 @@ p.preview-image {
   margin: 0.25em 0 0 0.25em;
   padding: 0.25em;
   border-radius: 0.25em;
-  transform: translate(0pt 0pt);
+  transform: translate(0pt);
   transition-property: background-color, transform;
   transition-duration: 300ms;
 }
 
 #list img:hover, #list img:focus, #list img.selected {
-  background-color: #181a1c;
-  transform: translate(0pt -2pt);
+  background-color: #ffaa00;
+  transform: translateY(-2pt);
 }
