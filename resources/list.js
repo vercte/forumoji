@@ -19,7 +19,7 @@ window.onload = function() {
         unpack(unicodeEmoji);
 
         $.each(forumoji.emoji, function(index, item) {
-          let emoji = emojiList.find(e => (e.codepoint == item.codepoint));
+          let emoji = emojiList.find(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
           if (emoji) {
             if (emoji.shortcut) {
               // default Scratch emojis
@@ -31,7 +31,7 @@ window.onload = function() {
               emoji.author = item.author;
             }
           } else {
-            console.log(`failed to find emoji: ${emoji.codepoint} ${emoji.image}`);
+            console.log(`failed to find emoji: ${item.codepoint} ${item.image}`);
           }
         });
 
