@@ -4,7 +4,7 @@
 
     "To add an emoji, it needs an image in the resources/forumoji folder",
     "and a valid hosting link for the Scratch forums,",
-    "cubeupload.com is recommended.",
+    "assets.scratch.mit.edu is recommended.",
 
     "Add new emojis to the end of this file, or search for a codepoint ",
     "or file name to replace an existing one (and remember to update",
