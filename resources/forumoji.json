@@ -4135,6 +4135,126 @@
       "image": "clapping-hands.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/6b16203dc1ede1e50841686f29562a54.png",
       "author": "mcgoomba\nstickfiregames"
+    },
+    {
+      "codepoint": "U+2693",
+      "image": "anchor.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F6DE",
+      "image": "wheel.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F6DD",
+      "image": "playground-slide.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAD9",
+      "image": "jar.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAD7",
+      "image": "pouring-water.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAD8",
+      "image": "beans.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FABA",
+      "image": "bird-nest-with-eggs.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAB9",
+      "image": "bird-nest.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAC5",
+      "image": "person-with-crown.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF5",
+      "image": "hand-pointing-towards-viewer.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF0",
+      "image": "hand-with-index-finger-and-thumb-crossed.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF4",
+      "image": "palm-up-hand.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF3",
+      "image": "palm-down-hand.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF2",
+      "image": "leftwards-hand.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF1",
+      "image": "rightwards-hand.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAE1",
+      "image": "salute.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F92D",
+      "image": "face-with-hand-over-mouth.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3B5",
+      "image": "musical-note.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F321",
+      "image": "thermometer.png",
+      "url": "",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3CA U+200D U+2642 U+FE0F",
+      "image": "swimmer.png",
+      "url": "",
+      "author": "notwait"
     }
   ]
 }
