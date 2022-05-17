@@ -4135,6 +4135,126 @@
       "image": "clapping-hands.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/6b16203dc1ede1e50841686f29562a54.png",
       "author": "mcgoomba\nstickfiregames"
+    },
+    {
+      "codepoint": "U+2693",
+      "image": "anchor.png",
+      "url": "https://u.cubeupload.com/notwait/anchor.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F6DE",
+      "image": "wheel.png",
+      "url": "https://u.cubeupload.com/notwait/wheel.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F6DD",
+      "image": "playground-slide.png",
+      "url": "https://u.cubeupload.com/notwait/playgroundslide.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAD9",
+      "image": "jar.png",
+      "url": "https://u.cubeupload.com/notwait/jar.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAD7",
+      "image": "pouring-water.png",
+      "url": "https://u.cubeupload.com/notwait/pouringwater.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAD8",
+      "image": "beans.png",
+      "url": "https://u.cubeupload.com/notwait/beans.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FABA",
+      "image": "bird-nest-with-eggs.png",
+      "url": "https://u.cubeupload.com/notwait/birdnestwitheggs.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAB9",
+      "image": "bird-nest.png",
+      "url": "https://u.cubeupload.com/notwait/birdnest.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAC5",
+      "image": "person-with-crown.png",
+      "url": "https://u.cubeupload.com/notwait/personwithcrown.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF5",
+      "image": "hand-pointing-towards-viewer.png",
+      "url": "https://u.cubeupload.com/notwait/handpointingtowardsv.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF0",
+      "image": "hand-with-index-finger-and-thumb-crossed.png",
+      "url": "https://u.cubeupload.com/notwait/handwithindexfingera.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF4",
+      "image": "palm-up-hand.png",
+      "url": "https://u.cubeupload.com/notwait/palmuphand.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF3",
+      "image": "palm-down-hand.png",
+      "url": "https://u.cubeupload.com/notwait/palmdownhand.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF2",
+      "image": "leftwards-hand.png",
+      "url": "https://u.cubeupload.com/notwait/leftwardshand.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF1",
+      "image": "rightwards-hand.png",
+      "url": "https://u.cubeupload.com/notwait/rightwardshand.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAE1",
+      "image": "salute.png",
+      "url": "https://u.cubeupload.com/notwait/salute.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F92D",
+      "image": "face-with-hand-over-mouth.png",
+      "url": "https://u.cubeupload.com/notwait/facewithhandovermout.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3B5",
+      "image": "musical-note.png",
+      "url": "https://u.cubeupload.com/notwait/musicalnote.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F321",
+      "image": "thermometer.png",
+      "url": "https://u.cubeupload.com/notwait/thermometer.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3CA U+200D U+2642 U+FE0F",
+      "image": "swimmer.png",
+      "url": "https://u.cubeupload.com/notwait/swimmer.png",
+      "author": "notwait"
     }
   ]
 }
