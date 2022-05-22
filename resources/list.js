@@ -80,7 +80,7 @@ window.onload = function() {
 
 function select(emoji) {
   $('.selected').removeClass('selected');
-  $('#' + emoji.codepoint).addClass('selected');
+  document.getElementById(emoji.codepoint).classList.add('selected');
   $('img.preview-image').attr('src', 'resources/forumoji/' + emoji.image);
   $('img.preview-image').attr('alt', emoji.name);
   $('#name').text(emoji.name);
