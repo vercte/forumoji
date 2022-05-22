@@ -1689,18 +1689,6 @@
       "author": "mybearworld\nstickfiregames"
     },
     {
-      "codepoint": "U+2753",
-      "image": "question-mark.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7c409e46350cbb925c494bbd0030e79e.png",
-      "author": "Vaibhs11"
-    },
-    {
-      "codepoint": "U+2049",
-      "image": "exclamation-question-mark.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6ba22ba8b8215f608481ca3034e9eb7a.png",
-      "author": "Vaibhs11"
-    },
-    {
       "codepoint": "U+26D4",
       "image": "no-entry.png",
       "url": "https://u.cubeupload.com/sfg/noentry.png",
@@ -4369,6 +4357,24 @@
       "image": "face-with-hands-over-mouth.png",
       "url": "https://u.cubeupload.com/sfg/facewithhandsovermou.png",
       "author": "notwait\nDinoMaster20"
+    },
+    {
+      "codepoint": "U+2757",
+      "image": "exclamation-mark.png",
+      "url": "https://u.cubeupload.com/sfg/exclamationmark.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+2753",
+      "image": "question-mark.png",
+      "url": "https://u.cubeupload.com/sfg/questionmark.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+2049",
+      "image": "exclamation-question-mark.png",
+      "url": "https://u.cubeupload.com/sfg/exclamationquestionm.png",
+      "author": "mcgoomba"
     }
   ]
 }
