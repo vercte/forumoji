@@ -104,3 +104,26 @@ p.preview-image {
   background-color: #ffaa00;
   transform: translateY(-2pt);
 }
+
+
+.link_button,
+button {
+  border: grey solid 1px;
+  background-color: #e9e9ed;
+  font-size: .75rem;
+  color: black;
+  text-decoration: none;
+  padding: 2px;
+  border-radius: 2px;
+  cursor: default;
+  text-align: center;
+}
+
+.new_line {
+  display: block;
+  width: fit-content;
+}
+
+.new_line:not(:last-child) {
+  margin-bottom: 2px;
+}
