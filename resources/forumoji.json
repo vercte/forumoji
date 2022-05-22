@@ -720,7 +720,7 @@
       "codepoint": "U+1F62E U+200D U+1F4A8",
       "image": "face-exhaling.png",
       "url": "https://u.cubeupload.com/sfg/faceexhaling.png",
-      "author": "mybearworld"
+      "author": "DinoMaster20"
     },
     {
       "codepoint": "U+1F92F",
@@ -960,7 +960,7 @@
       "codepoint": "U+1F984",
       "image": "unicorn.png",
       "url": "https://u.cubeupload.com/sfg/unicorn.png",
-      "author": "cartooney lolecksdeehaha"
+      "author": "cartooney\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F980",
@@ -1026,7 +1026,7 @@
       "codepoint": "U+1F979",
       "image": "face-holding-back-tears.png",
       "url": "https://u.cubeupload.com/sfg/faceholdingbacktears.png",
-      "author": "Scratch137 lolecksdeehaha"
+      "author": "Scratch137\nlolecksdeehaha"
     },
     {
       "codepoint": "U+1F55B",
@@ -4261,6 +4261,90 @@
       "image": "volcano.png",
       "url": "https://u.cubeupload.com/notwait/volcano.png",
       "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4AC",
+      "image": "speech-balloon.png",
+      "url": "https://u.cubeupload.com/sfg/speechballoon.png",
+      "author": "TheTrillion"
+    },
+    {
+      "codepoint": "U+1F6CF",
+      "image": "bed.png",
+      "url": "https://u.cubeupload.com/sfg/bed.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F6CC",
+      "image": "person-sleeping-in-bed.png",
+      "url": "https://u.cubeupload.com/sfg/personsleepinginbed.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F355",
+      "image": "pizza.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/79e49f5fa5df6303d0f030656446f95b.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F928",
+      "image": "face-with-raised-eyebrow.png",
+      "url": "https://u.cubeupload.com/sfg/facewithraisedeyebro.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F92C",
+      "image": "cursing-face.png",
+      "url": "https://u.cubeupload.com/sfg/cursingface.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F327",
+      "image": "rain-cloud.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/8fc11dff06afbde4d6cca281c874c964.png",
+      "author": "kccuber\nmcgoomba"
+    },
+    {
+      "codepoint": "U+1F923",
+      "image": "rolling-on-floor-laughing.png",
+      "url": "https://u.cubeupload.com/sfg/rollingonfloorlaughi.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F36A",
+      "image": "cookie.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f420049bfd485a462c5d88fee584f729.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+2B50",
+      "image": "star.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/0eb26e0e18fe77180bcbcc33b5572261.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+1F978",
+      "image": "disguised-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/ddad5c145af7df7e2580f855136c5a38.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F5FF",
+      "image": "moai.png",
+      "url": "https://u.cubeupload.com/sfg/moai.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F431",
+      "image": "cat-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/dc651d823e9ba95a52aab37e4e9f7727.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F927",
+      "image": "sneezing-face.png",
+      "url": "https://u.cubeupload.com/sfg/sneezingface.png",
+      "author": "DinoMaster20"
     }
   ]
 }
