@@ -4351,6 +4351,18 @@
       "image": "lying-face.png",
       "url": "https://u.cubeupload.com/sfg/lyingface.png",
       "author": "DinoMaster20\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F408",
+      "image": "cat.png",
+      "url": "https://u.cubeupload.com/sfg/cat.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F408 U+200D U+2B1B",
+      "image": "black-cat.png",
+      "url": "https://u.cubeupload.com/sfg/blackcat.png",
+      "author": "stickfiregames"
     }
   ]
 }
