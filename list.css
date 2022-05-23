@@ -61,16 +61,12 @@ h1 {
 }
 
 #links a {
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #181a1c;
   font-family: sans-serif;
   text-decoration: none;
   padding: 0.2em;
   border-radius: 0.2em;
-}
-
-#links a:hover, #links a:focus {
-  background-color: #ffffff;
-  color: #181a1c;
 }
 
 #info {
