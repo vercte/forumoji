@@ -30,6 +30,7 @@ body {
   grid-template-areas: "title search links";
   background-color: #ffaa00;
   color: #ffffff;
+  font-weight: bold;
 }
 
 h1 {
