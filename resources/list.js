@@ -49,7 +49,7 @@ window.onload = function() {
               $(tileImage).addClass('keyword-' + keyword.split(' ').join('-'))
             });
             $(tileImage).click(function() {select(emoji)});
-            $('#list').append(tile);
+            $('#list').append(tileImage);
           }
         });
 
