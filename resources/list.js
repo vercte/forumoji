@@ -38,18 +38,17 @@ window.onload = function() {
         // create tiles for each emoji
         $.each(emojiList, function(index, emoji) {
           if (emoji.image) {
-            let tile = document.createElement('button');
             let tileImage = document.createElement('img');
             $(tileImage).attr('src', 'resources/forumoji/' + emoji.image);
             $(tileImage).attr('alt', emoji.name);
-            $(tile).attr('id', emoji.codepoint);
-            $(tile).addClass('tile');
-            $(tile).addClass('author-' + emoji.author.split(' ').join('-'));
+            $(tileImage).attr('tabindex', 0);
+            $(tileImage).attr('id', emoji.codepoint);
+            $(tileImage).addClass('tile');
+            $(tileImage).addClass('author-' + emoji.author.split(' ').join('-'));
             $.each(emoji.keywords, function(index, keyword) {
-              $(tile).addClass('keyword-' + keyword.split(' ').join('-'))
+              $(tileImage).addClass('keyword-' + keyword.split(' ').join('-'))
             });
-            $(tile).click(function() {select(emoji)});
-            $(tile).append(tileImage);
+            $(tileImage).click(function() {select(emoji)});
             $('#list').append(tile);
           }
         });
