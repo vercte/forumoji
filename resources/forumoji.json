@@ -113,7 +113,7 @@
     {
       "codepoint": "U+1F977",
       "image": "ninja.png",
-      "url": "https://u.cubeupload.com/sfg/ninja.png",
+      "url": "https://u.cubeupload.com/sfg/1a3ninja.png",
       "author": "stickfiregames"
     },
     {
@@ -4175,7 +4175,7 @@
     {
       "codepoint": "U+1FAC5",
       "image": "person-with-crown.png",
-      "url": "https://u.cubeupload.com/notwait/personwithcrown.png",
+      "url": "https://u.cubeupload.com/notwait/68fpersonwithcrown.png",
       "author": "notwait"
     },
     {
@@ -4375,6 +4375,54 @@
       "image": "exclamation-question-mark.png",
       "url": "https://u.cubeupload.com/sfg/exclamationquestionm.png",
       "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F481",
+      "image": "person-tipping-hand.png",
+      "url": "https://u.cubeupload.com/sfg/persontippinghand.png",
+      "author": "DinoMaster20"
+    },
+    {
+      "codepoint": "U+1F481 U+200D U+2642 U+FE0F",
+      "image": "man-tipping-hand.png",
+      "url": "https://u.cubeupload.com/sfg/mantippinghand.png",
+      "author": "DinoMaster20"
+    },
+    {
+      "codepoint": "U+1F481 U+200D U+2640 U+FE0F",
+      "image": "woman-tipping-hand.png",
+      "url": "https://u.cubeupload.com/sfg/womantippinghand.png",
+      "author": "DinoMaster20"
+    },
+    {
+      "codepoint": "U+1F934",
+      "image": "man-with-crown.png",
+      "url": "https://u.cubeupload.com/sfg/manwithcrown.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F478",
+      "image": "woman-with-crown.png",
+      "url": "https://u.cubeupload.com/sfg/womanwithcrown.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F9D1 U+200D U+1F3EB",
+      "image": "teacher.png",
+      "url": "https://u.cubeupload.com/sfg/teacher.png",
+      "author": "Vaibhs11\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F468 U+200D U+1F3EB",
+      "image": "man-teacher.png",
+      "url": "https://u.cubeupload.com/sfg/manteacher.png",
+      "author": "Vaibhs11\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F469 U+200D U+1F3EB",
+      "image": "woman-teacher.png",
+      "url": "https://u.cubeupload.com/sfg/womanteacher.png",
+      "author": "Vaibhs11\nstickfiregames"
     }
   ]
 }
