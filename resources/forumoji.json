@@ -113,7 +113,7 @@
     {
       "codepoint": "U+1F977",
       "image": "ninja.png",
-      "url": "https://u.cubeupload.com/sfg/1a3ninja.png",
+      "url": "https://u.cubeupload.com/sfg/c5bninja.png",
       "author": "stickfiregames"
     },
     {
@@ -4429,6 +4429,24 @@
       "image": "world-map.png",
       "url": "https://u.cubeupload.com/sfg/worldmap.png",
       "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F937",
+      "image": "person-shrugging.png",
+      "url": "https://u.cubeupload.com/sfg/personshrugging.png",
+      "author": "DinoMaster20"
+    },
+    {
+      "codepoint": "U+1F937 U+200D U+2642 U+FE0F",
+      "image": "man-shrugging.png",
+      "url": "https://u.cubeupload.com/sfg/manshrugging.png",
+      "author": "DinoMaster20"
+    },
+    {
+      "codepoint": "U+1F937 U+200D U+2640 U+FE0F",
+      "image": "woman-shrugging.png",
+      "url": "https://u.cubeupload.com/sfg/womanshrugging.png",
+      "author": "DinoMaster20"
     }
   ]
 }
