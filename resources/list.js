@@ -38,9 +38,10 @@ window.onload = function() {
         // create tiles for each emoji
         $.each(emojiList, function(index, emoji) {
           if (emoji.image) {
-            let tile = document.createElement('img');
-            $(tile).attr('src', 'resources/forumoji/' + emoji.image);
-            $(tile).attr('alt', emoji.name);
+            let tile = document.createElement('button');
+            let tileImage = document.createElement('img');
+            $(tileImage).attr('src', 'resources/forumoji/' + emoji.image);
+            $(tileImage).attr('alt', emoji.name);
             $(tile).attr('id', emoji.codepoint);
             $(tile).addClass('tile');
             $(tile).addClass('author-' + emoji.author.split(' ').join('-'));
@@ -48,6 +49,7 @@ window.onload = function() {
               $(tile).addClass('keyword-' + keyword.split(' ').join('-'))
             });
             $(tile).click(function() {select(emoji)});
+            $(tile).append(tileImage);
             $('#list').append(tile);
           }
         });
