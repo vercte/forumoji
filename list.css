@@ -26,8 +26,8 @@ body {
 #header {
   grid-area: header;
   display: grid;
-  grid-template-columns: auto 1fr;
-  grid-template-areas: "title search";
+  grid-template-columns: auto 1fr auto;
+  grid-template-areas: "title search links";
   background-color: #ffaa00;
   color: #ffffff;
 }
@@ -43,6 +43,33 @@ h1 {
   max-width: 20em;
   /* vertical-align: middle; */
   margin: auto 0 auto 0;
+}
+
+#links {
+  grid-area: links;
+  /* height: 2em;
+  max-width: 20em; */
+  /* vertical-align: middle; */
+  margin: auto 1em auto 0;
+}
+
+#links img {
+  width: 1em;
+  height: 1em;
+  vertical-align: text-top;
+}
+
+#links a {
+  color: #ffffff;
+  font-family: sans-serif;
+  text-decoration: none;
+  padding: 0.2em;
+  border-radius: 0.2em;
+}
+
+#links a:hover, #links a:focus {
+  background-color: #ffffff;
+  color: #181a1c;
 }
 
 #info {
@@ -70,6 +97,18 @@ p.preview-image {
   display: grid;
   grid-template-columns: 8em auto;
 }
+
+/* .text-button input {
+  border-radius: 3px 0 0 3px;
+  border-width: 1px;
+  border-color: #181a1c;
+}
+
+.text-button button {
+  border-radius: 0 3px 3px 0;
+  border-width: 1px 1px 1px 0;
+  border-color: #181a1c;
+} */
 
 #name {
   text-transform: uppercase;
