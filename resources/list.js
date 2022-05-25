@@ -49,6 +49,9 @@ window.onload = function() {
               $(tileImage).addClass('keyword-' + keyword.split(' ').join('-'))
             });
             $(tileImage).click(function() {select(emoji)});
+            $(tileImage).keydown(function({ key }) {
+              if(key == "Enter" || key == " ") select(emoji)
+            })
             $('#list').append(tileImage);
           }
         });
