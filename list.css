@@ -19,7 +19,6 @@ body {
     "info list";
   width: 100%;
   height: 100%;
-  grid-gap: 2px;
   background-color: #ffffff;
 }
 
@@ -134,6 +133,11 @@ p.preview-image {
   transform: translate(0pt);
   transition-property: background-color, transform;
   transition-duration: 300ms;
+}
+
+#list p {
+  margin: 1em 0 0 0.5em;
+  font-weight: bold;
 }
 
 .category:not(.category-level-1) {
