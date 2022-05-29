@@ -136,6 +136,22 @@ p.preview-image {
   transition-duration: 300ms;
 }
 
+.category:not(.category-level-1) {
+  display: inline;
+}
+
+.category:not(.category-level-1) > p {
+  display: none;
+}
+
+/* .category {
+  display: inline;
+}
+
+.category > p {
+  display: none;
+} */
+
 #list img:hover, #list img:focus, #list img.selected {
   background-color: #ffaa00;
   transform: translateY(-2pt);

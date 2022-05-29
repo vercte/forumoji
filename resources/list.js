@@ -3,8 +3,6 @@ window.onload = function() {
   $.getJSON('resources/unicode-emoji.json', function(unicodeEmoji) {
     $.getJSON('resources/forumoji.json', function(forumoji) {
       $.getJSON('resources/hidden-emoji.json', function(hiddenEmoji) {
-        let emojiList = new Array;
-
         // add forumoji data to unicode list
         function addForumoji(item) {
           if (item.comment) {
@@ -25,40 +23,63 @@ window.onload = function() {
               item.url = emoji.url;
               item.author = emoji.author;
             }
-            emojiList.push(item);
           }
         }
 
         addForumoji(unicodeEmoji);
-        console.log(unicodeEmoji);
 
-        // create tiles for each emoji
-        $.each(emojiList, function(index, emoji) {
-          if (emoji.image) {
-            let tileImage = document.createElement('img');
-            $(tileImage).attr('src', 'resources/forumoji/' + emoji.image);
-            $(tileImage).attr('alt', emoji.name);
-            $(tileImage).attr('tabindex', 0);
-            $(tileImage).attr('id', emoji.codepoint);
-            $(tileImage).addClass('tile');
-            $(tileImage).addClass('author-' + emoji.author.split(' ').join('-'));
-            $.each(emoji.keywords, function(index, keyword) {
-              $(tileImage).addClass('keyword-' + keyword.split(' ').join('-'))
+        // create tile list
+        function addTiles(item, container, level) {
+          if (item.category) {
+            let categoryContainer = document.createElement('div');
+            $(categoryContainer).attr('id', item.category);
+            $(categoryContainer).addClass('category');
+            $(categoryContainer).addClass(`category-level-${level}`);
+
+            let categoryHeader = document.createElement('p');
+            $(categoryHeader).text(item.category);
+            $(categoryContainer).append(categoryHeader);
+
+            $.each(item.contents, function(index, content) {
+              addTiles(content, categoryContainer, level + 1);
             });
-            $(tileImage).click(function() {select(emoji)});
-            $(tileImage).keydown(function({ key }) {
-              if(key == "Enter" || key == " ") select(emoji)
-            })
-            $('#list').append(tileImage);
+
+            $(container).append(categoryContainer);
+          } else if (item.codepoint) {
+            if (item.image) {
+              let tileImage = document.createElement('img');
+              $(tileImage).attr('src', 'resources/forumoji/' + item.image);
+              $(tileImage).attr('alt', item.name);
+              $(tileImage).attr('tabindex', 0);
+              $(tileImage).attr('id', item.codepoint);
+              $(tileImage).addClass('tile');
+              // change the unpacking to support multiple authors
+              $(tileImage).addClass('author-' + item.author.split(' ').join('-'));
+              $.each(item.keywords, function(index, keyword) {
+                $(tileImage).addClass('keyword-' + keyword.split(' ').join('-'))
+              });
+
+              $(tileImage).click(function() {select(item)});
+              $(tileImage).keydown(function({ key }) {
+                if(key == "Enter" || key == " ") select(item)
+              });
+
+              $(container).append(tileImage);
+            }
           }
-        });
+        }
+
+        addTiles(unicodeEmoji, $('#list'), 0);
+        hideEmptyCategories();
 
         let tiles = $('.tile');
         let randomTile = tiles[Math.floor(Math.random() * tiles.length)]
-        select(emojiList.find(e => (e.codepoint == $(randomTile).attr('id'))));
+        $(randomTile).click();
       });
     });
   });
+
+  // search bar
   document.querySelector("#search").addEventListener("input", function(e) {
     let query = e.srcElement.value;
     let notFound;
@@ -76,7 +97,15 @@ window.onload = function() {
         i.setAttribute("hidden", "");
       }
     }
+
+    hideEmptyCategories();
   });
+}
+
+// this can be done in CSS once :has() is widely supported
+function hideEmptyCategories() {
+  $('.category').attr('hidden', true);
+  $('.tile[hidden!="hidden"]').parents('.category').removeAttr('hidden');
 }
 
 function select(emoji) {
