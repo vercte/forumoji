@@ -4705,6 +4705,36 @@
       "image": "dog-face.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/0428dee6c8d5e345b8d642c29d0c2ecc.png",
       "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F508",
+      "image": "speaker.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6384ed3fc93b1aed9c75e463a6490790.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F509",
+      "image": "speaker-with-one-sound-wave.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/12ed1aa2ccf9088fb6439ccbed6733c0.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F50A",
+      "image": "speaker-with-three-sound-waves.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/91c3be12024a69a26c0dc2a1479f9569.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4E2",
+      "image": "loudspeaker.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/82758e68806a55d4276f86d1af5bade7.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F921",
+      "image": "clown.png",
+      "url": "https://u.cubeupload.com/sfg/clown.png",
+      "author": "mcgoomba"
     }
   ]
 }
