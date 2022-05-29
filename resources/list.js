@@ -12,19 +12,18 @@ window.onload = function() {
           }
 
           if (item.category) {
+            //remove hidden emojis
+            item.contents = item.contents.filter(e => !hiddenEmoji.codepoints.find(c => c == e.codepoint));
+
             $.each(item.contents, function(index, content) {
               addForumoji(content);
             });
           } else if (item.codepoint) {
-            if (hiddenEmoji.codepoints.find(c => c == item.codepoint)) {
-              // delete the emoji from the list
-            } else {
-              let emoji = forumoji.emoji.find(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
-              if (emoji) {
-                item.image = emoji.image;
-                item.url = emoji.url;
-                item.author = emoji.author;
-              }
+            let emoji = forumoji.emoji.find(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
+            if (emoji) {
+              item.image = emoji.image;
+              item.url = emoji.url;
+              item.author = emoji.author;
             }
             emojiList.push(item);
           }
