@@ -4240,8 +4240,20 @@
     },
     {
       "codepoint": "U+1F3CA U+200D U+2642 U+FE0F",
+      "image": "man-swimmer.png",
+      "url": "https://u.cubeupload.com/sfg/manswimmer.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3CA U+200D U+2640 U+FE0F",
+      "image": "woman-swimmer.png",
+      "url": "https://u.cubeupload.com/sfg/womanswimmer.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3CA",
       "image": "swimmer.png",
-      "url": "https://u.cubeupload.com/notwait/swimmer.png",
+      "url": "https://u.cubeupload.com/sfg/swimmer.png",
       "author": "notwait"
     },
     {
