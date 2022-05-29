@@ -5,35 +5,33 @@ window.onload = function() {
       $.getJSON('resources/hidden-emoji.json', function(hiddenEmoji) {
         let emojiList = new Array;
 
-        // unpack and combine the official and forumoji lists
-        function unpack(item) {
+        // add forumoji data to unicode list
+        function addForumoji(item) {
+          if (item.comment) {
+            delete item.comment;
+          }
+
           if (item.category) {
             $.each(item.contents, function(index, content) {
-              unpack(content);
+              addForumoji(content);
             });
-          } else if (item.codepoint && !hiddenEmoji.codepoints.find(c => c == item.codepoint)) {
+          } else if (item.codepoint) {
+            if (hiddenEmoji.codepoints.find(c => c == item.codepoint)) {
+              // delete the emoji from the list
+            } else {
+              let emoji = forumoji.emoji.find(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
+              if (emoji) {
+                item.image = emoji.image;
+                item.url = emoji.url;
+                item.author = emoji.author;
+              }
+            }
             emojiList.push(item);
           }
         }
 
-        unpack(unicodeEmoji);
-
-        $.each(forumoji.emoji, function(index, item) {
-          let emoji = emojiList.find(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
-          if (emoji) {
-            if (emoji.shortcut) {
-              // default Scratch emojis
-            } else {
-              if (emoji.image) {console.log(`duplicate emoji: ${emoji.codepoint} ${emoji.name}`);}
-
-              emoji.image = item.image;
-              emoji.url = item.url;
-              emoji.author = item.author;
-            }
-          } else {
-            console.log(`failed to find emoji: ${item.codepoint} ${item.image}`);
-          }
-        });
+        addForumoji(unicodeEmoji);
+        console.log(unicodeEmoji);
 
         // create tiles for each emoji
         $.each(emojiList, function(index, emoji) {
