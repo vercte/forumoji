@@ -1,9 +1,17 @@
 html.default {
-  --orange: #ffaa00;
+  --primary: #ffaa00;
   --background: #ffffff;
   --header-text: #ffffff;
   --text: #181a1c;
   --sidebar: #f7f7f7;
+}
+
+html.dark {
+  --primary: #000;
+  --background: #151515;
+  --header-text: #ffffff;
+  --text: #fff;
+  --sidebar: #222;
 }
 
 html, body {
@@ -36,7 +44,7 @@ body {
   display: grid;
   grid-template-columns: auto 1fr auto;
   grid-template-areas: "title search links";
-  background-color: var(--orange);
+  background-color: var(--primary);
   color: var(--header-text);
   font-weight: bold;
 }
@@ -145,6 +153,6 @@ p.preview-image {
 }
 
 #list img:hover, #list img:focus, #list img.selected {
-  background-color: var(--orange);
+  background-color: var(--primary);
   transform: translateY(-2pt);
 }
