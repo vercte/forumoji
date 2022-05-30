@@ -1,11 +1,19 @@
+html.default {
+  --orange: #ffaa00;
+  --background: #ffffff;
+  --header-text: #ffffff;
+  --text: #181a1c;
+  --sidebar: #f7f7f7;
+}
+
 html, body {
   height: 100%;
   margin: 0;
 }
 
 body {
-  background-color: #ffffff;
-  color: #181a1c;
+  background-color: var(--background);
+  color: var(--text);
   font-family: sans-serif;
 }
 
@@ -20,7 +28,7 @@ body {
   width: 100%;
   height: 100%;
   grid-gap: 2px;
-  background-color: #ffffff;
+  background-color: var(--background);
 }
 
 #header {
@@ -28,8 +36,8 @@ body {
   display: grid;
   grid-template-columns: auto 1fr auto;
   grid-template-areas: "title search links";
-  background-color: #ffaa00;
-  color: #ffffff;
+  background-color: var(--orange);
+  color: var(--header-text);
   font-weight: bold;
 }
 
@@ -61,8 +69,8 @@ h1 {
 }
 
 #links a {
-  background-color: #ffffff;
-  color: #181a1c;
+  background-color: var(--background);
+  color: var(--text);
   font-family: sans-serif;
   text-decoration: none;
   padding: 0.2em;
@@ -71,7 +79,7 @@ h1 {
 
 #info {
   grid-area: info;
-  background-color: #f7f7f7;
+  background-color: var(--sidebar);
   padding: 1em;
 }
 
@@ -115,7 +123,7 @@ p.preview-image {
 
 #list {
   grid-area: list;
-  background-color: #ffffff;
+  background-color: var(--background);
   overflow-y: auto;
 }
 
@@ -137,6 +145,6 @@ p.preview-image {
 }
 
 #list img:hover, #list img:focus, #list img.selected {
-  background-color: #ffaa00;
+  background-color: var(--orange);
   transform: translateY(-2pt);
 }
