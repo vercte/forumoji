@@ -1,7 +1,8 @@
 var HTML = document.documentElement,
     current_theme =
         localStorage.getItem("theme") ||
-        window.matchMedia("(prefers-color-scheme: dark)") ? "dark" : "default",
+        ((window.matchMedia("(prefers-color-scheme: dark)") &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "default"),
     themes = [
         "default",
         "dark"
@@ -12,6 +13,7 @@ var HTML = document.documentElement,
         localStorage.setItem("theme", theme);
         HTML.className = theme;
     };
+
 theme_button.click(function switch_theme() {
     let next_index = themes.indexOf(current_theme) + 1;
     if (next_index >= themes.length)
