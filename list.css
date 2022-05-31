@@ -35,7 +35,6 @@ body {
     "info list";
   width: 100%;
   height: 100%;
-  grid-gap: 2px;
   background-color: var(--background);
 }
 
@@ -151,6 +150,27 @@ p.preview-image {
   transition-property: background-color, transform;
   transition-duration: 300ms;
 }
+
+#list p {
+  margin: 1em 0 0 0.5em;
+  font-weight: bold;
+}
+
+.category:not(.category-level-1) {
+  display: inline;
+}
+
+.category:not(.category-level-1) > p {
+  display: none;
+}
+
+/* .category {
+  display: inline;
+}
+
+.category > p {
+  display: none;
+} */
 
 #list img:hover, #list img:focus, #list img.selected {
   background-color: var(--primary);
