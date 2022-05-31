@@ -4240,8 +4240,20 @@
     },
     {
       "codepoint": "U+1F3CA U+200D U+2642 U+FE0F",
+      "image": "man-swimmer.png",
+      "url": "https://u.cubeupload.com/sfg/manswimmer.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3CA U+200D U+2640 U+FE0F",
+      "image": "woman-swimmer.png",
+      "url": "https://u.cubeupload.com/sfg/womanswimmer.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3CA",
       "image": "swimmer.png",
-      "url": "https://u.cubeupload.com/notwait/swimmer.png",
+      "url": "https://u.cubeupload.com/sfg/swimmer.png",
       "author": "notwait"
     },
     {
@@ -4704,6 +4716,48 @@
       "codepoint": "U+1F436",
       "image": "dog-face.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/0428dee6c8d5e345b8d642c29d0c2ecc.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F508",
+      "image": "speaker.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6384ed3fc93b1aed9c75e463a6490790.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F509",
+      "image": "speaker-with-one-sound-wave.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/12ed1aa2ccf9088fb6439ccbed6733c0.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F50A",
+      "image": "speaker-with-three-sound-waves.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/91c3be12024a69a26c0dc2a1479f9569.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4E2",
+      "image": "loudspeaker.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/82758e68806a55d4276f86d1af5bade7.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F921",
+      "image": "clown.png",
+      "url": "https://u.cubeupload.com/sfg/clown.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F975",
+      "image": "overheated-face.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/overheatedface.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F9D0",
+      "image": "face-with-monocle.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/facewithmonocle.png",
       "author": "mcgoomba"
     }
   ]
