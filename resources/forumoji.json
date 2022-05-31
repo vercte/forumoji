@@ -4747,18 +4747,18 @@
       "image": "clown.png",
       "url": "https://u.cubeupload.com/sfg/clown.png",
       "author": "mcgoomba"
+    }
+    {
+      "codepoint": "U+1F975",
+      "image": "overheated-face.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/overheatedface.png",
+      "author": "mcgoomba"
     },
-	{
-	  "codepoint": "U+1F975",
-	  "image": "overheated-face.png",
-	  "url": "https://u.cubeupload.com/CocoTheMii/overheatedface.png",
-	  "author": "mcgoomba"
-	},
-	{
-	  "codepoint": "U+1F9D0",
-	  "image": "face-with-monocle.png",
-	  "url": "https://u.cubeupload.com/CocoTheMii/facewithmonocle.png",
-	  "author": "mcgoomba"
-	}
+    {
+      "codepoint": "U+1F9D0",
+      "image": "face-with-monocle.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/facewithmonocle.png",
+      "author": "mcgoomba"
+    }
   ]
 }
