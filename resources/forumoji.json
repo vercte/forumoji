@@ -3395,7 +3395,7 @@
     {
       "codepoint": "U+1F971",
       "image": "yawning-face.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/d3b995a568519b5a29a3e446e2dbec19.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/yawningface.png",
       "author": "mcgoomba"
     },
     {
@@ -4841,19 +4841,19 @@
     {
       "codepoint": "U+2B55",
       "image": "red-o.png",
-      "url": "https://assets.scratch.mit.edu/a98389a53446d56732809ef65b274f55.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/a98389a53446d56732809ef65b274f55.png",
       "author": "mcgoomba"
     },
     {
       "codepoint": "U+26A0",
       "image": "warning-sign.png",
-      "url": "https://assets.scratch.mit.edu/c9d82c5e24c9ae2617c1233d5f818cb4.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/c9d82c5e24c9ae2617c1233d5f818cb4.png",
       "author": "mcgoomba"
     },
     {
       "codepoint": "U+1F3B2",
       "image": "dice.png",
-      "url": "https://assets.scratch.mit.edu/d813bac3ff0f7f5e9b39bfab8446931a.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/d813bac3ff0f7f5e9b39bfab8446931a.png",
       "author": "mcgoomba"
     },
     {
@@ -4873,6 +4873,12 @@
       "image": "flexed-biceps.png",
       "url": "https://u.cubeupload.com/notwait/flexedbiceps.png",
       "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F48E",
+      "image": "gem-stone.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/gemstone.png",
+      "author": "Andygun11"
     }
   ]
 }
