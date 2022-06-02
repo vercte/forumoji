@@ -3395,8 +3395,8 @@
     {
       "codepoint": "U+1F971",
       "image": "yawning-face.png",
-      "url": "https://u.cubeupload.com/sfg/yawningface.png",
-      "author": "mybearworld"
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/d3b995a568519b5a29a3e446e2dbec19.png",
+      "author": "mcgoomba"
     },
     {
       "codepoint": "U+1F6D1",
@@ -4831,6 +4831,48 @@
       "image": "beating-heart.png",
       "url": "https://u.cubeupload.com/CocoTheMii/beatingheart.png",
       "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F6AB",
+      "image": "no-sign.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/36d61a291b8b986a65042b30abf2df3e.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+2B55",
+      "image": "red-o.png",
+      "url": "https://assets.scratch.mit.edu/a98389a53446d56732809ef65b274f55.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+26A0",
+      "image": "warning-sign.png",
+      "url": "https://assets.scratch.mit.edu/c9d82c5e24c9ae2617c1233d5f818cb4.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F3B2",
+      "image": "dice.png",
+      "url": "https://assets.scratch.mit.edu/d813bac3ff0f7f5e9b39bfab8446931a.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F437",
+      "image": "pig-face.png",
+      "url": "https://u.cubeupload.com/notwait/pigface.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F9B5",
+      "image": "leg.png",
+      "url": "https://u.cubeupload.com/notwait/leg.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4AA",
+      "image": "flexed-biceps.png",
+      "url": "https://u.cubeupload.com/notwait/flexedbiceps.png",
+      "author": "notwait"
     }
   ]
 }
