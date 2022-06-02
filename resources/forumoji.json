@@ -3395,8 +3395,8 @@
     {
       "codepoint": "U+1F971",
       "image": "yawning-face.png",
-      "url": "https://u.cubeupload.com/sfg/yawningface.png",
-      "author": "mybearworld"
+      "url": "https://u.cubeupload.com/CocoTheMii/yawningface.png",
+      "author": "mcgoomba"
     },
     {
       "codepoint": "U+1F6D1",
@@ -4831,6 +4831,12 @@
       "image": "beating-heart.png",
       "url": "https://u.cubeupload.com/CocoTheMii/beatingheart.png",
       "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F48E",
+      "image": "gem-stone.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/gemstone.png",
+      "author": "Andygun11"
     }
   ]
 }
