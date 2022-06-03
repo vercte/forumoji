@@ -62,32 +62,10 @@ window.onload = function() {
                 </td>
               </tr>
             `);
-            // if (item.image) {
-            //   let tileImage = document.createElement('img');
-            //   $(tileImage).attr('src', 'resources/forumoji/' + item.image);
-            //   $(tileImage).attr('alt', item.name);
-            //   $(tileImage).attr('tabindex', 0);
-            //   $(tileImage).attr('id', item.codepoint);
-            //   $(tileImage).addClass('tile');
-            //   // change the unpacking to support multiple authors
-            //   $(tileImage).addClass('author-' + item.author.split(' ').join('-'));
-            //   $.each(item.keywords, function(index, keyword) {
-            //     $(tileImage).addClass('keyword-' + keyword.split(' ').join('-'))
-            //   });
-            //
-            //   $(tileImage).click(function() {select(item)});
-            //   $(tileImage).keydown(function({ key }) {
-            //     if(key == "Enter" || key == " ") select(item)
-            //   });
-            //
-            //   $(container).append(tileImage);
-            // }
           }
         }
 
         addList(unicodeEmoji, $('#list'), 0);
-
-        console.log(unicodeEmoji);
       });
     });
   });
