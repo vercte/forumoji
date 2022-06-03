@@ -1,17 +1,19 @@
 html.default {
-  --primary: #ffaa00;
+  --header: #ffaa00;
   --background: #ffffff;
   --header-text: #ffffff;
   --text: #181a1c;
   --sidebar: #f7f7f7;
+  --highlight: #ffaa00;
 }
 
 html.dark {
-  --primary: #000;
-  --background: #151515;
+  --header: #c48200;
+  --background: #111111;
   --header-text: #ffffff;
   --text: #fff;
-  --sidebar: #222;
+  --sidebar: #0a0a0a;
+  --highlight: #ffffff;
 }
 
 html, body {
@@ -43,7 +45,7 @@ body {
   display: grid;
   grid-template-columns: auto 1fr auto;
   grid-template-areas: "title search links";
-  background-color: var(--primary);
+  background-color: var(--header);
   color: var(--header-text);
   font-weight: bold;
 }
@@ -149,6 +151,7 @@ p.preview-image {
   transform: translate(0pt);
   transition-property: background-color, transform;
   transition-duration: 300ms;
+  user-select: none;
 }
 
 #list p {
@@ -173,6 +176,6 @@ p.preview-image {
 } */
 
 #list img:hover, #list img:focus, #list img.selected {
-  background-color: var(--primary);
+  background-color: var(--highlight);
   transform: translateY(-2pt);
 }

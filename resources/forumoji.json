@@ -3395,8 +3395,8 @@
     {
       "codepoint": "U+1F971",
       "image": "yawning-face.png",
-      "url": "https://u.cubeupload.com/sfg/yawningface.png",
-      "author": "mybearworld"
+      "url": "https://u.cubeupload.com/CocoTheMii/yawningface.png",
+      "author": "mcgoomba"
     },
     {
       "codepoint": "U+1F6D1",
@@ -4759,6 +4759,132 @@
       "image": "face-with-monocle.png",
       "url": "https://u.cubeupload.com/CocoTheMii/facewithmonocle.png",
       "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F533",
+      "image": "white-square-button.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/whitesquarebutton.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+2754",
+      "image": "white-question-mark.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/whitequestionmark.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+2755",
+      "image": "white-exclamation-mark.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/whiteexclamationmark.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F49F",
+      "image": "love-letter.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/loveletter.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F49D",
+      "image": "heart-with-ribbon.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/heartwithribbon.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F439",
+      "image": "hamster.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/hamster.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F497",
+      "image": "growing-heart.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/growingheart.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F635",
+      "image": "face-with-spiral-eyes.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/facewithspiraleyes.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F924",
+      "image": "drooling-face.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/droolingface.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+203C",
+      "image": "double-exclamation-mark.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/doubleexclamationmar.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F532",
+      "image": "black-square-button.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/blacksquarebutton.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F493",
+      "image": "beating-heart.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/beatingheart.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F6AB",
+      "image": "no-sign.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/36d61a291b8b986a65042b30abf2df3e.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+2B55",
+      "image": "red-o.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/a98389a53446d56732809ef65b274f55.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+26A0",
+      "image": "warning-sign.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/c9d82c5e24c9ae2617c1233d5f818cb4.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F3B2",
+      "image": "dice.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/d813bac3ff0f7f5e9b39bfab8446931a.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F437",
+      "image": "pig-face.png",
+      "url": "https://u.cubeupload.com/notwait/pigface.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F9B5",
+      "image": "leg.png",
+      "url": "https://u.cubeupload.com/notwait/leg.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4AA",
+      "image": "flexed-biceps.png",
+      "url": "https://u.cubeupload.com/notwait/flexedbiceps.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F48E",
+      "image": "gem-stone.png",
+      "url": "https://u.cubeupload.com/CocoTheMii/gemstone.png",
+      "author": "Andygun11"
+    },
+    {
+      "codepoint": "U+1F9FF",
+      "image": "nazar-amulet.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/78fb34102c885887cf931ff32c6ee1bf.png",
+      "author": "Scratch137"
     }
   ]
 }
