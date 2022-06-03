@@ -4885,6 +4885,72 @@
       "image": "nazar-amulet.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/78fb34102c885887cf931ff32c6ee1bf.png",
       "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F4CF",
+      "image": "ruler.png",
+      "url": "https://assets.scratch.mit.edu/b04bf1e63236e882ac4fbe8511e28514.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4D0",
+      "image": "triangular-ruler.png",
+      "url": "https://assets.scratch.mit.edu/728cbf06ab6a3d876ace9304a0cd70a4.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F974",
+      "image": "woozy-face.png",
+      "url": "https://assets.scratch.mit.edu/d5c22f1b77ca3b9dac6ffe47ee573cee.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F63D",
+      "image": "kissing-cat.png",
+      "url": "https://assets.scratch.mit.edu/bdb08a24e89d319268d28b4820e1cb8b.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F383",
+      "image": "pumpkin.png",
+      "url": "https://assets.scratch.mit.edu/03fc8ba34344bb152b9e43e15a147380.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F54E",
+      "image": "menorah.png",
+      "url": "https://assets.scratch.mit.edu/a1d6196d4ae11c08fca23e7d52ef090b.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4CD",
+      "image": "round-pushpin.png",
+      "url": "https://assets.scratch.mit.edu/06bbafa35a32c83337aa2a8028bb1f00.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F512",
+      "image": "locked.png",
+      "url": "https://assets.scratch.mit.edu/ad5a683a42493bb31bcd5fd8e49d945d.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F513",
+      "image": "unlocked.png",
+      "url": "https://assets.scratch.mit.edu/f5a89d97060e6c2ed7cdc71f614ae92c.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F31E",
+      "image": "sun-with-face.png",
+      "url": "https://assets.scratch.mit.edu/da9d17e576ef9db1d333a14f32ace9b7.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F92B",
+      "image": "shushing-face.png",
+      "url": "https://assets.scratch.mit.edu/dedd6893ca51841cada41e09c386ca81.png",
+      "author": "mcgoomba"
     }
   ]
 }
