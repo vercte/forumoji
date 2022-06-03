@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" class="default">
+  <head>
+    <title>Project Forumoji</title>
+    <link rel="stylesheet" type="text/css" href="list.css">
+    <style>
+    body {margin: 0 2em 0 2em; font-size: 12pt;}
+    h1 {font-size: 16pt; margin: 2pt;}
+    h2 {font-size: 12pt; margin: 2pt;}
+    th {background-color: #0f8bc0; color: #ffffff;}
+    tr:nth-child(2n) {background-color: #f7f7f7;}
+    td.codepoint {font-family:monospace; font-size: 8pt;}
+    </style>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+  </head>
+  <body>
+    <p><a href="index.html">current emoji list</a></p>
+
+    <p>
+      This list includes all emojis that haven't been made for Forumoji yet, except those that have been hidden.
+    </p>
+    <p>
+      The preview is just how the emoji looks on your device and browser, it is not the "real" or "official" appearacne (there's no such thing).
+    </p>
+    <p>
+      If you see more than one emoji, a white square, or a small black-and-white character, then your font doesn't support the emoji properly.
+    </p>
+    <p>
+      Click an emoji's name to open its Emojipedia page, which shows how it looks in different fonts.
+    </p>
+    <table id="list"></table>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="resources/missing.js"></script>
+    <!-- <script src="resources/themes.js"></script> -->
+  </body>
+</html>
