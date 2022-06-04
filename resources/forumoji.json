@@ -5005,6 +5005,48 @@
       "image": "low-battery.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/5eb1b88ef127512db3b9a2d3862f1ffd.png",
       "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F4CE",
+      "image": "paperclip.png",
+      "url": "https://u.cubeupload.com/sfg/paperclip.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1FAA7",
+      "image": "placard.png",
+      "url": "https://u.cubeupload.com/sfg/placard.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F50D",
+      "image": "left-magnifying-glass.png",
+      "url": "https://u.cubeupload.com/sfg/leftmagnifyingglass.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F50E",
+      "image": "right-magnifying-glass.png",
+      "url": "https://u.cubeupload.com/sfg/rightmagnifyingglass.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1FAAB",
+      "image": "safety-pin.png",
+      "url": "https://u.cubeupload.com/sfg/safetypin.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F4DC",
+      "image": "scroll.png",
+      "url": "https://u.cubeupload.com/sfg/scroll.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F5BC",
+      "image": "framed-picture.png",
+      "url": "https://u.cubeupload.com/sfg/framedpicture.png",
+      "author": "Vaibhs11"
     }
   ]
 }
