@@ -641,7 +641,7 @@
     {
       "codepoint": "U+1F525",
       "image": "fire.png",
-      "url": "https://u.cubeupload.com/sfg/fire.png",
+      "url": "https://u.cubeupload.com/sfg/4cfire2.png",
       "author": "stickfiregames"
     },
     {
@@ -935,7 +935,7 @@
     {
       "codepoint": "U+1F308",
       "image": "rainbow.png",
-      "url": "https://u.cubeupload.com/sfg/rainbow.png",
+      "url": "https://u.cubeupload.com/sfg/rainbow2.png",
       "author": "stickfiregames"
     },
     {
@@ -5059,6 +5059,36 @@
       "image": "face-with-peeking-eye.png",
       "url": "https://u.cubeupload.com/sfg/facewithpeekingeye.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+2764 U+FE0F U+200D U+1F525",
+      "image": "heart-on-fire.png",
+      "url": "https://u.cubeupload.com/sfg/heartonfire.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4A3",
+      "image": "bomb.png",
+      "url": "https://u.cubeupload.com/sfg/bomb.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F445",
+      "image": "tongue.png",
+      "url": "https://u.cubeupload.com/sfg/tongue.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F444",
+      "image": "mouth.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/ca56c0474646d7c23cdcd7005372509d.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F",
+      "image": "eye-in-speech-bubble.png",
+      "url": "https://u.cubeupload.com/sfg/eyeinspeechbubble.png",
+      "author": "TheTrillion\nScratch137\nstickfiregames"
     }
   ]
 }
