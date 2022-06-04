@@ -17,8 +17,10 @@ window.onload = function() {
               addForumoji(content);
             });
           } else if (item.codepoint) {
-            let emoji = forumoji.emoji.find(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
-            if (emoji) {
+            let emoji = forumoji.emoji.filter(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
+            if (emoji.length > 0) {
+              if (emoji.length > 1) {console.log(`duplicate emoji: ${item.codepoint} ${item.name}`)}
+              emoji = emoji.pop();
               item.image = emoji.image;
               item.url = emoji.url;
               item.author = emoji.author;
