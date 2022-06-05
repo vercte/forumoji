@@ -5191,6 +5191,72 @@
       "image": "woman-cook.png",
       "url": "https://u.cubeupload.com/sfg/womancook.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F514",
+      "image": "bell.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/e4ba9e7a301fdf2f90a5fec85ad240fe.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+27B0",
+      "image": "curly-loop.png",
+      "url": "https://u.cubeupload.com/sfg/curlyloop.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+27BF",
+      "image": "double-curly-loop.png",
+      "url": "https://u.cubeupload.com/sfg/doublecurlyloop.png",
+      "author": "mcgoomba\nstickfiregames"
+    },
+    {
+      "codepoint": "U+2122",
+      "image": "tm-sign.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/8bad0c3b202a289f90203934c6b9dc61.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4A4",
+      "image": "zzz.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/bb9b14e88c29e71fbdd3879127b4fbfe.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F58D",
+      "image": "crayon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/3ad601d06baa3469f95a86d9b0c5857b.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F344",
+      "image": "mushroom.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/fcaa9e8cf2d87a18aa27f7c21d2728eb.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F6F8",
+      "image": "ufo.png",
+      "url": "https://u.cubeupload.com/UlsPPi/ufo.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+1F388",
+      "image": "balloon.png",
+      "url": "https://u.cubeupload.com/UlsPPi/balloon.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+1F3AB",
+      "image": "ticket.png",
+      "url": "https://u.cubeupload.com/UlsPPi/ticket.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+1F4BE",
+      "image": "floppydisk.png",
+      "url": "https://u.cubeupload.com/UlsPPi/floppydisk.png",
+      "author": "-gge"
     }
   ]
 }
