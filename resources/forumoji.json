@@ -5089,6 +5089,72 @@
       "image": "eye-in-speech-bubble.png",
       "url": "https://u.cubeupload.com/sfg/eyeinspeechbubble.png",
       "author": "TheTrillion\nScratch137\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F645",
+      "image": "person-with-crossed-arms.png",
+      "url": "https://u.cubeupload.com/sfg/personwithcrossedarm.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F645 U+200D U+2642 U+FE0F",
+      "image": "man-with-crossed-arms.png",
+      "url": "https://u.cubeupload.com/sfg/manwithcrossedarms.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F645 U+200D U+2640 U+FE0F",
+      "image": "woman-with-crossed-arms.png",
+      "url": "https://u.cubeupload.com/sfg/womanwithcrossedarms.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4A0",
+      "image": "diamond-with-a-dot.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/ef0e2ab15be56ef7bde04e5edda9e9f5.png",
+      "author": "64lu"
+    },
+    {
+      "codepoint": "U+1F4B2",
+      "image": "heavy-dollar-sign.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/88e86f27452be12840f2c06e402a4eec.png",
+      "author": "64lu"
+    },
+    {
+      "codepoint": "U+1F3B6",
+      "image": "musical-notes.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/4bd3a38c7e54bbf77cad84d24b40e448.png",
+      "author": "64lu"
+    },
+    {
+      "codepoint": "U+1F3BC",
+      "image": "musical-score.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f9cd2a1eac2964681b29427ce1a0ec5a.png",
+      "author": "64lu"
+    },
+    {
+      "codepoint": "U+1F518",
+      "image": "radio-button.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/a2866b104783c26f93806067f299b4dc.png",
+      "author": "64lu"
+    },
+    {
+      "codepoint": "U+1F64B",
+      "image": "person-raising-hand.png",
+      "url": "U+1F64B",
+      "author": "DinoMaster20\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F64B U+200D U+2642 U+FE0F",
+      "image": "man-raising-hand.png",
+      "url": "https://u.cubeupload.com/sfg/manraisinghand.png",
+      "author": "DinoMaster20\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F64B U+200D U+2640 U+FE0F",
+      "image": "woman-raising-hand.png",
+      "url": "https://u.cubeupload.com/sfg/womanraisinghand.png",
+      "author": "DinoMaster20\nstickfiregames"
     }
   ]
 }
