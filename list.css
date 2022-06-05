@@ -16,6 +16,24 @@ html.dark {
   --highlight: #ffffff;
 }
 
+html.blue {
+  --header: #28a5da;
+  --background: #ffffff;
+  --header-text: #ffffff;
+  --text: #181a1c;
+  --sidebar: #f7f7f7;
+  --highlight: #28a5da;
+}
+
+html.blue-dark {
+  --header: #0a6891;
+  --background: #111111;
+  --header-text: #ffffff;
+  --text: #fff;
+  --sidebar: #0a0a0a;
+  --highlight: #ffffff;
+}
+
 html, body {
   height: 100%;
   margin: 0;
