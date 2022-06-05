@@ -1,3 +1,12 @@
+html.neutral {
+  --header: #f7f7f7;
+  --background: #ffffff;
+  --header-text: #ffffff;
+  --text: #181a1c;
+  --sidebar: #f7f7f7;
+  --highlight: #f7f7f7;
+}
+
 html.default {
   --header: #ffaa00;
   --background: #ffffff;
