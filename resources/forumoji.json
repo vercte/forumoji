@@ -5141,7 +5141,7 @@
     {
       "codepoint": "U+1F64B",
       "image": "person-raising-hand.png",
-      "url": "U+1F64B",
+      "url": "https://u.cubeupload.com/sfg/personraisinghand.png",
       "author": "DinoMaster20\nstickfiregames"
     },
     {
@@ -5155,6 +5155,24 @@
       "image": "woman-raising-hand.png",
       "url": "https://u.cubeupload.com/sfg/womanraisinghand.png",
       "author": "DinoMaster20\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F646",
+      "image": "person-gesturing-ok.png",
+      "url": "https://u.cubeupload.com/sfg/persongesturingok.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F646 U+200D U+2642 U+FE0F",
+      "image": "man-gesturing-ok.png",
+      "url": "https://u.cubeupload.com/sfg/mangesturingok.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F646 U+200D U+2640 U+FE0F",
+      "image": "woman-gesturing-ok.png",
+      "url": "https://u.cubeupload.com/sfg/womangesturingok.png",
+      "author": "stickfiregames"
     }
   ]
 }
