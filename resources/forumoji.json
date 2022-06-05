@@ -5173,6 +5173,24 @@
       "image": "woman-gesturing-ok.png",
       "url": "https://u.cubeupload.com/sfg/womangesturingok.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F9D1 U+200D U+1F373",
+      "image": "cook.png",
+      "url": "https://u.cubeupload.com/sfg/cook.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F468 U+200D U+1F373",
+      "image": "man-cook.png",
+      "url": "https://u.cubeupload.com/sfg/mancook.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F469 U+200D U+1F373",
+      "image": "woman-cook.png",
+      "url": "https://u.cubeupload.com/sfg/womancook.png",
+      "author": "stickfiregames"
     }
   ]
 }
