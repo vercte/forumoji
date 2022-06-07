@@ -5257,6 +5257,48 @@
       "image": "floppydisk.png",
       "url": "https://u.cubeupload.com/UlsPPi/floppydisk.png",
       "author": "-gge"
+    },
+    {
+      "codepoint": "U+231B",
+      "image": "hourglass.png",
+      "url": "https://assets.scratch.mit.edu/8b130fe436afe5a57cc7b44154d03a7e.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+23F3",
+      "image": "hourglass-with-sand.png",
+      "url": "https://assets.scratch.mit.edu/7c32d3f647a1dc9ac89c7c5de99cb4d8.png",
+      "author": "Scratch137"
+    },
+    {
+      "codepoint": "U+1F9C3",
+      "image": "juice.png",
+      "url": "https://assets.scratch.mit.edu/78cfe0a3ebea60dbb4433ec610b3b5b8.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4BF",
+      "image": "optical-disk.png",
+      "url": "https://assets.scratch.mit.edu/0b7bf267b48aa79ddf36830153447665.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F4C0",
+      "image": "dvd.png",
+      "url": "https://assets.scratch.mit.edu/ff1be69c92db91fc3e5ab58f52bf7525.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F9BF",
+      "image": "mechanical-leg.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/702012047_9999x9999.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F9BE",
+      "image": "mechanical-arm.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/702020685_999x999.png",
+      "author": "greg1234567890f"
     }
   ]
 }
