@@ -22,7 +22,7 @@ window.onload = function() {
               if (emoji.length > 1) {console.log(`duplicate emoji: ${item.codepoint} ${item.name}`)}
               emoji = emoji.pop();
               item.image = emoji.image;
-              item.url = emoji.url;
+              item.url = emoji.url.replace(/^https:\/\/assets\.scratch\.mit\.edu\/(?=[0-9a-f])/i, 'https://assets.scratch.mit.edu/get_image/.%2E/');
               item.author = emoji.author;
             }
           }
