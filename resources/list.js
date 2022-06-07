@@ -84,11 +84,18 @@ window.onload = function() {
   // search bar
   document.querySelector("#search").addEventListener("input", function(e) {
     let query = e.srcElement.value;
+    let unicodeRepr = Array.from(query)
+    .map(s => s.codePointAt(0))
+    .map(c => c.toString(16))
+    .map(n => (n.length > 3 ? "" : "0".repeat(4 - n.length)) + n)
+    .map(h => "U+" + h.toUpperCase())
+    .join(" ");
     let notFound;
     for (let i of document.querySelectorAll("#list img")) {
       i.removeAttribute("hidden");
-      notFound = true;
+      notFound = unicodeRepr !== i.id;
       for (let j of Array.from(i.classList).concat(["keyword-"+i.getAttribute("alt")])) {
+        if (!notFound) {break;}
         if (/^keyword-/.test(j)) {
           if (j.toLowerCase().slice(8).includes(query.toLowerCase())) {
             notFound = false;
