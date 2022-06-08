@@ -695,19 +695,19 @@
     {
       "codepoint": "U+1F3F3 U+FE0F U+200D U+1F308",
       "image": "rainbow-flag.png",
-      "url": "https://u.cubeupload.com/sfg/rainbowflag.png",
+      "url": "https://u.cubeupload.com/sfg/rainbowwave.png",
       "author": "stickfiregames"
     },
     {
       "codepoint": "U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F",
       "image": "transgender-flag.png",
-      "url": "https://u.cubeupload.com/sfg/transgenderflag.png",
+      "url": "https://u.cubeupload.com/sfg/transwave.png",
       "author": "stickfiregames"
     },
     {
       "codepoint": "U+1F3F4 U+200D U+2620 U+FE0F",
       "image": "pirate-flag.png",
-      "url": "https://u.cubeupload.com/sfg/pirateflag.png",
+      "url": "https://u.cubeupload.com/sfg/piratewave.png",
       "author": "stickfiregames"
     },
     {
@@ -5225,7 +5225,7 @@
     {
       "codepoint": "U+1F58D",
       "image": "crayon.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/3ad601d06baa3469f95a86d9b0c5857b.png",
+      "url": "https://assets.scratch.mit.edu/39aeefc7d4edb0f77391340017f390dc.png",
       "author": "mcgoomba"
     },
     {
@@ -5299,6 +5299,42 @@
       "image": "mechanical-arm.png",
       "url": "https://cdn2.scratch.mit.edu/get_image/project/702020685_999x999.png",
       "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F4B0",
+      "image": "money-bag.png",
+      "url": "https://assets.scratch.mit.edu/173511c1c3b4fe6042a5773f2931cc6e.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1FAFF",
+      "image": "coin.png",
+      "url": "https://assets.scratch.mit.edu/e8524488a964781cd3af0a2109c464ac.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F4B1",
+      "image": "currency-exchange.png",
+      "url": "https://u.cubeupload.com/sfg/currencyexchange.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F4AD",
+      "image": "thinking-speech-bubble.png",
+      "url": "https://assets.scratch.mit.edu/481a0e0dd19b0abc4cea6539eb90105c.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F5EF",
+      "image": "anger-speech-bubble.png",
+      "url": "https://assets.scratch.mit.edu/01fa8c6ef3a01a6379ac305d64392b88.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F9CB",
+      "image": "bubble-tea.png",
+      "url": "https://assets.scratch.mit.edu/b1977f154560479be64847615ac2a7f9.png",
+      "author": "mcgoomba"
     }
   ]
 }
