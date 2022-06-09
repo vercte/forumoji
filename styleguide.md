@@ -11,6 +11,9 @@ There are multiple things that an emoji has.
 If the emoji is pure black, this isn't needed. But all emojis should have an outline, to fit in. Don't worry if it loses some detail! This is pixel art, and
 that's basically working in the loss of detail.
 
+#### A note:
+If the emoji is completely black, then you should coat it in a solid white outline instead. This allows dark mode users to make sense of it!
+
 ### Shading/A gradient
 To make it look like the original smilies, some shading would be nice. We can edit this in easily, so it's fine if it doesn't, but it fits in way nicer.
 
