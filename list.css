@@ -164,6 +164,7 @@ p.preview-image {
 }
 
 #list img {
+  width: 45px;
   max-width: 45px;
   max-height: 45px;
   overflow: hidden;
