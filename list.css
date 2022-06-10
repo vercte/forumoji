@@ -209,3 +209,14 @@ p.preview-image {
   background-color: var(--highlight);
   transform: translateY(-2pt);
 }
+
+#copyBbcode, #bbcode {
+  appearance: none;
+  display: inline-block;
+  border: var(--text) 1px solid;
+  color: var(--text);
+  background-color: var(--sidebar);
+  margin: 0px 2px 0 0px;
+  padding: 3px;
+  border-radius: 0.2em;
+}
