@@ -5341,6 +5341,18 @@
       "image": "waving-hand.png",
       "url": "https://assets.scratch.mit.edu/7191c8fa376a14b9de7bb2874340960f.png",
       "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F354",
+      "image": "hamburger.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/d079ddfb306087752859d3342d18a343.png",
+      "author": "tarsovbak"
+    },
+    {
+      "codepoint": "U+1F35F",
+      "image": "french-fries.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/38721f0b7bc418e0d3113f72317d16fa.png",
+      "author": "tarsovbak"
     }
   ]
 }
