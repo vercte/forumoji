@@ -210,13 +210,23 @@ p.preview-image {
   transform: translateY(-2pt);
 }
 
-#copyBbcode, #bbcode {
+#copyBbcode,
+#bbcode {
   appearance: none;
   display: inline-block;
   border: var(--text) 1px solid;
   color: var(--text);
   background-color: var(--sidebar);
-  margin: 0px 2px 0 0px;
-  padding: 3px;
+  margin: 0 0.2em 0 0;
+  padding: 0.2em;
   border-radius: 0.2em;
+  font-size: inherit;
+}
+
+#copyBbcode {
+  cursor: pointer;
+}
+
+#bbcode {
+  cursor: text;
 }
