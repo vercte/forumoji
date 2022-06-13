@@ -86,15 +86,16 @@ h1 {
   grid-area: search;
   height: 2em;
   max-width: 20em;
-  /* vertical-align: middle; */
+  background-color: var(--background);
+  color: var(--text);
+  border: 0px;
+  border-radius: 0.2em;
+  padding: 0.2em;
   margin: auto 0 auto 0;
 }
 
 #links {
   grid-area: links;
-  /* height: 2em;
-  max-width: 20em; */
-  /* vertical-align: middle; */
   margin: auto 1em auto 0;
 }
 
@@ -133,23 +134,6 @@ h1 {
 p.preview-image {
   text-align: center;
 }
-
-.text-button {
-  display: grid;
-  grid-template-columns: 8em auto;
-}
-
-/* .text-button input {
-  border-radius: 3px 0 0 3px;
-  border-width: 1px;
-  border-color: #181a1c;
-}
-
-.text-button button {
-  border-radius: 0 3px 3px 0;
-  border-width: 1px 1px 1px 0;
-  border-color: #181a1c;
-} */
 
 #name {
   text-transform: uppercase;
@@ -197,36 +181,37 @@ p.preview-image {
   display: none;
 }
 
-/* .category {
-  display: inline;
-}
-
-.category > p {
-  display: none;
-} */
-
 #list img:hover, #list img:focus, #list img.selected {
   background-color: var(--highlight);
   transform: translateY(-2pt);
 }
 
-#copyBbcode,
-#bbcode {
+.text-button {
+  display: grid;
+  grid-template-columns: 8em auto;
+}
+
+.text-button > * {
   appearance: none;
   display: inline-block;
   border: var(--text) 1px solid;
   color: var(--text);
-  background-color: var(--sidebar);
-  margin: 0 0.2em 0 0;
+  background-color: var(--background);
+  margin: 0 0 0 0;
   padding: 0.2em;
-  border-radius: 0.2em;
   font-size: inherit;
 }
 
-#copyBbcode {
-  cursor: pointer;
+.text-button input {
+  border-radius: 0.2em 0 0 0.2em;
+  cursor: text;
 }
 
-#bbcode {
-  cursor: text;
+.text-button button {
+  background-color: var(--text);
+  color: var(--background);
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 0 0.2em 0.2em 0;
+  cursor: pointer;
 }
