@@ -5353,6 +5353,102 @@
       "image": "french-fries.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/38721f0b7bc418e0d3113f72317d16fa.png",
       "author": "tarsovbak"
+    },
+    {
+      "codepoint": "U+1F697",
+      "image": "automobile.png",
+      "url": "https://u.cubeupload.com/sfg/automobile.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F695",
+      "image": "taxi.png",
+      "url": "https://u.cubeupload.com/sfg/taxi.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F68C",
+      "image": "bus.png",
+      "url": "https://u.cubeupload.com/sfg/bus.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F68E",
+      "image": "trolleybus.png",
+      "url": "https://u.cubeupload.com/sfg/trolleybus.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F69F",
+      "image": "suspension-railway.png",
+      "url": "https://u.cubeupload.com/sfg/suspensionrailway.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F687",
+      "image": "metro.png",
+      "url": "https://u.cubeupload.com/sfg/metro.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6F5",
+      "image": "motor-scooter.png",
+      "url": "https://u.cubeupload.com/sfg/motorscooter.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6FA",
+      "image": "auto-rickshaw.png",
+      "url": "https://u.cubeupload.com/sfg/autorickshaw.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6B2",
+      "image": "bicycle.png",
+      "url": "https://u.cubeupload.com/sfg/bicycle.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6B4",
+      "image": "person-biking.png",
+      "url": "https://u.cubeupload.com/sfg/personbiking.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6B4 U+200D U+2642 U+FE0F",
+      "image": "man-biking.png",
+      "url": "https://u.cubeupload.com/sfg/manbiking.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6B4 U+200D U+2640 U+FE0F",
+      "image": "woman-biking.png",
+      "url": "https://u.cubeupload.com/sfg/womanbiking.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F9B4",
+      "image": "bone.png",
+      "url": "https://assets.scratch.mit.edu/edd7edd987fd26934cca0facc0811e64.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F9B7",
+      "image": "tooth.png",
+      "url": "https://assets.scratch.mit.edu/b00e37a9feabb06e3ebf4d70f40bf896.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4DA",
+      "image": "stack-of-books.png",
+      "url": "https://assets.scratch.mit.edu/9aee34c1735dfd50c53049fcaf33774e.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F4D6",
+      "image": "open-book.png",
+      "url": "https://assets.scratch.mit.edu/1e2e0ee598eff40ddcf922532aeadbad.png",
+      "author": "mcgoomba"
     }
   ]
 }
