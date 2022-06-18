@@ -83,11 +83,17 @@ h1 {
 }
 
 #search {
+  appearance: none;
+  max-width: 20em;
   grid-area: search;
   height: 2em;
-  max-width: 20em;
-  /* vertical-align: middle; */
   margin: auto 0 auto 0;
+  font-size: .8em;
+  /* vertical-align: middle; */
+  background-color: var(--background);
+  color: var(--text);
+  border: var(--header-text) solid 2px;
+  border-radius: 5px;
 }
 
 #links {
