@@ -5469,10 +5469,22 @@
       "author": "TheTrillion"
     },
     {
-  "codepoint": "U+1F415",
-  "image": "dog.png",
-  "url": "https://u.cubeupload.com/JackyBorderCollie/dog.png",
-  "author": "JackyBorderCollie"
-  }
+      "codepoint": "U+1F415",
+      "image": "dog.png",
+      "url": "https://u.cubeupload.com/JackyBorderCollie/dog.png",
+      "author": "JackyBorderCollie"
+    },
+    {
+      "codepoint": "U+3030",
+      "image": "wavy-dash.png",
+      "url": "https://assets.scratch.mit.edu/b8f7e8f475063a9637ba420f6ca7645a.png",
+      "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1F964",
+      "image": "cup-with-straw.png",
+      "url": "https://u.cubeupload.com/sfg/cupwithstraw.png",
+      "author": "Vaibhs11"
+    }
   ]
 }
