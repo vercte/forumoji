@@ -5611,6 +5611,42 @@
       "image": "no-pedestrians.png",
       "url": "https://u.cubeupload.com/sfg/nopedestrians.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F507",
+      "image": "muted-speaker.png",
+      "url": "https://u.cubeupload.com/sfg/mutedspeaker.png",
+      "author": "mcgoomba\nstickfiregames"
+    },
+    {
+      "codepoint": "U+1F515",
+      "image": "bell-with-slash.png",
+      "url": "https://u.cubeupload.com/sfg/bellwithslash.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6AF",
+      "image": "no-littering.png",
+      "url": "https://u.cubeupload.com/sfg/nolittering.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F4F5",
+      "image": "no-mobile-phones.png",
+      "url": "https://u.cubeupload.com/sfg/nomobilephones.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6B1",
+      "image": "non-potable-water.png",
+      "url": "https://u.cubeupload.com/sfg/nonpotablewater.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6B0",
+      "image": "potable-water.png",
+      "url": "https://u.cubeupload.com/sfg/potablewater.png",
+      "author": "stickfiregames"
     }
   ]
 }
