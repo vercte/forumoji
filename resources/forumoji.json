@@ -5485,6 +5485,132 @@
       "image": "cup-with-straw.png",
       "url": "https://u.cubeupload.com/sfg/cupwithstraw.png",
       "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F3B9",
+      "image": "musical-keyboard.png",
+      "url": "https://assets.scratch.mit.edu/03da549691f9edae6bee340386059ee8.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F530",
+      "image": "japanese-symbol-for-beginner.png",
+      "url": "https://assets.scratch.mit.edu/1cda98d926f42412239a4a4d83dc933f.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F519",
+      "image": "back-arrow.png",
+      "url": "https://assets.scratch.mit.edu/2f196c273bcd1ffadbb74a4ad07ac328.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F51A",
+      "image": "end-arrow.png",
+      "url": "https://assets.scratch.mit.edu/02d17805c08765137af4b5536329d0e6.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F51B",
+      "image": "on-arrow.png",
+      "url": "https://assets.scratch.mit.edu/15376a0ede8fa551545ab02c84aa2485.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F51C",
+      "image": "soon-arrow.png",
+      "url": "https://assets.scratch.mit.edu/1c22dacc610020e7e384aa856c2130af.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F51D",
+      "image": "top-arrow.png",
+      "url": "https://assets.scratch.mit.edu/6437149529a738f8e6dd556aaf0da871.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+26A1",
+      "image": "high-voltage.png",
+      "url": "https://assets.scratch.mit.edu/bd05b2dc0f5722256df76785df307be1.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F4E7",
+      "image": "email.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/706669488_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F4E8",
+      "image": "incoming-envelope.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/706901838_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F4E9",
+      "image": "envelope-with-arrow.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/706902263_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F573",
+      "image": "hole.png",
+      "url": "https://u.cubeupload.com/notwait/hole.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FA93",
+      "image": "axe.png",
+      "url": "https://u.cubeupload.com/notwait/axe.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F95A",
+      "image": "egg.png",
+      "url": "https://u.cubeupload.com/notwait/egg.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F5DD",
+      "image": "oldkey.png",
+      "url": "https://u.cubeupload.com/notwait/oldkey.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F3C6",
+      "image": "trophy.png",
+      "url": "https://u.cubeupload.com/notwait/trophy.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F486",
+      "image": "person-getting-massage.png",
+      "url": "https://u.cubeupload.com/sfg/persongettingmassage.png",
+      "author": "DinoMaster20"
+    },
+    {
+      "codepoint": "U+1F486 U+200D U+2642 U+FE0F",
+      "image": "man-getting-massage.png",
+      "url": "https://u.cubeupload.com/sfg/mangettingmassage.png",
+      "author": "DinoMaster20"
+    },
+    {
+      "codepoint": "U+1F486 U+200D U+2640 U+FE0F",
+      "image": "woman-getting-massage.png",
+      "url": "https://u.cubeupload.com/sfg/womangettingmassage.png",
+      "author": "DinoMaster20"
+    },
+    {
+      "codepoint": "U+1F6B3",
+      "image": "no-bicycles.png",
+      "url": "https://u.cubeupload.com/sfg/nobicycles.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F6B7",
+      "image": "no-pedestrians.png",
+      "url": "https://u.cubeupload.com/sfg/nopedestrians.png",
+      "author": "stickfiregames"
     }
   ]
 }
