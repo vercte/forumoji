@@ -4780,7 +4780,7 @@
     },
     {
       "codepoint": "U+1F49F",
-      "image": "love-letter.png",
+      "image": "heart-decoration.png",
       "url": "https://u.cubeupload.com/CocoTheMii/loveletter.png",
       "author": "mcgoomba"
     },
@@ -5647,6 +5647,30 @@
       "image": "potable-water.png",
       "url": "https://u.cubeupload.com/sfg/potablewater.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F48C",
+      "image": "love-letter.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/707056646_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F576",
+      "image": "dark-sunglasses.png",
+      "url": "https://u.cubeupload.com/notwait/darksunglasses.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F004",
+      "image": "mahjong-tile-red-dragon.png",
+      "url": "https://u.cubeupload.com/notwait/mahjongtilereddragon.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F337",
+      "image": "tulip.png",
+      "url": "https://u.cubeupload.com/sfg/tulip.png",
+      "author": "TheTrillion"
     }
   ]
 }
