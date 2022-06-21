@@ -117,6 +117,8 @@ h1 {
   grid-area: info;
   background-color: var(--sidebar);
   padding: 1em;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 #large-preview {
@@ -136,7 +138,7 @@ p.preview-image {
 
 .text-button {
   display: grid;
-  grid-template-columns: 8em auto;
+  grid-template-columns: 70% auto;
 }
 
 /* .text-button input {
@@ -154,6 +156,7 @@ p.preview-image {
   text-transform: uppercase;
   text-align: center;
   font-size: 1.2em;
+  margin-bottom: 2pt;
 }
 
 #list {
@@ -208,8 +211,8 @@ p.preview-image {
   transform: translateY(-2pt);
 }
 
-#copyBbcode,
-#bbcode {
+.copy-button,
+.copy-preview{
   appearance: none;
   display: inline-block;
   border: var(--text) 1px solid;
@@ -221,10 +224,28 @@ p.preview-image {
   font-size: inherit;
 }
 
-#copyBbcode {
+.copy-button {
   cursor: pointer;
 }
 
-#bbcode {
+.bbcode-preview {
   cursor: text;
+}
+
+/* center the keywords */
+#author, #keywords {
+  text-align: center;
+}
+
+#contributors-label, #keywords-label, #emoji-codepoint, .copy-label {
+  text-align: center;
+  font-weight: bold;
+}
+
+.dark-preview {
+  background-color: #111111;
+}
+
+.light-preview {
+  background-color: white;
 }

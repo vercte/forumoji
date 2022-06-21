@@ -19,26 +19,26 @@
       <main id="info">
         <p class="preview-image"><img id="large-preview" class="preview-image"></p>
         <h2 id="name"></h2>
-        <p class="preview-image"><img id="small-preview" class="preview-image"></p>
-        <table>
-          <tr>
-            <td>by:</td>
-            <td id="author"></td>
-          </tr>
-          <tr>
-            <td>keywords:</td>
-            <td id="keywords"></td>
-          </tr>
-          <tr>
-            <td>BBCode:</td>
-            <td>
-              <div class="text-button">
-                <input type="text" id="bbcode" readonly>
-                <button id="copyBbcode" onclick="copyBBCode()">copy</button>
-              </div>
-            </td>
-          </tr>
-        </table>
+        <div id="emoji-codepoint">Unknown Codepoint</div>
+        <p class="preview-image">
+          <img id="small-preview" class="preview-image dark-preview">
+          <img id="small-preview" class="preview-image light-preview">
+        </p>
+        <div id="contributors-label">Emoji contributor:</div>
+        <div id="author">No emoji selected</div><br><br>
+        <div id="keywords-label">Keywords:</div>
+        <div id="keywords">No emoji selected</div><br><br>
+        <div class="copy-label">BBCode (Scratch Host):</div>
+        <div class="text-button">
+          <input type="text" id="bbcodeScratch" class="copy-preview" value="No emoji selected" readonly>
+          <button id="copyBbcodeScratch" class="copy-button" onclick="copyBBCodeScratch()">copy</button>
+        </div><br><br>
+
+        <div class="copy-label">BBCode (GitHub Host):</div>
+        <div class="text-button">
+          <input type="text" id="bbcodeGithub" class="copy-preview" value="No emoji selected" readonly>
+          <button id="copyBbcodeGithub" class="copy-button" onclick="copyBBCodeGithub()">copy</button>
+        </div>
       </main>
       <nav id="list">
         <noscript><p>Forumoji requires JavaScript, which is disabled or not supported in your browser.</p></noscript>

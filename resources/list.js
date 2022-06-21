@@ -63,7 +63,7 @@ window.onload = function() {
 
               $(tileImage).click(function() {select(item)});
               $(tileImage).keydown(function({ key }) {
-                if(key == "Enter" || key == " ") select(item)
+                if(key == 'Enter' || key == ' ') select(item)
               });
 
               $(container).append(tileImage);
@@ -82,19 +82,19 @@ window.onload = function() {
   });
 
   // search bar
-  document.querySelector("#search").addEventListener("input", function(e) {
+  document.querySelector('#search').addEventListener('input', function(e) {
     let query = e.srcElement.value;
     let unicodeRepr = Array.from(query)
     .map(s => s.codePointAt(0))
     .map(c => c.toString(16))
-    .map(n => (n.length > 3 ? "" : "0".repeat(4 - n.length)) + n)
-    .map(h => "U+" + h.toUpperCase())
-    .join(" ");
+    .map(n => (n.length > 3 ? '' : '0'.repeat(4 - n.length)) + n)
+    .map(h => 'U+' + h.toUpperCase())
+    .join(' ');
     let notFound;
-    for (let i of document.querySelectorAll("#list img")) {
-      i.removeAttribute("hidden");
+    for (let i of document.querySelectorAll('#list img')) {
+      i.removeAttribute('hidden');
       notFound = unicodeRepr !== i.id;
-      for (let j of Array.from(i.classList).concat(["keyword-"+i.getAttribute("alt")])) {
+      for (let j of Array.from(i.classList).concat(['keyword-'+i.getAttribute('alt')])) {
         if (!notFound) {break;}
         if (/^keyword-/.test(j)) {
           if (j.toLowerCase().slice(8).includes(query.toLowerCase())) {
@@ -103,7 +103,7 @@ window.onload = function() {
         }
       }
       if (notFound) {
-        i.setAttribute("hidden", "");
+        i.setAttribute('hidden', '');
       }
     }
 
@@ -120,14 +120,28 @@ function hideEmptyCategories() {
 function select(emoji) {
   $('.selected').removeClass('selected');
   document.getElementById(emoji.codepoint).classList.add('selected');
+
+  let githubPath = `https://lopste.github.io/forumoji/resources/forumoji/${emoji.image}`
   $('img.preview-image').attr('src', 'resources/forumoji/' + emoji.image);
   $('img.preview-image').attr('alt', emoji.name);
+  $('#emoji-codepoint').text(emoji.codepoint)
   $('#name').text(emoji.name);
-  $('#author').html(emoji.author.replace('\n', '<br>'));
+  $('#author').html(emoji.author.replace('\n', ',<br>'));
+  if(emoji.author.split('\n').length > 1) {
+    $('#contributors-label').text('Emoji contributors:')
+  } else {
+    $('#contributors-label').text('Emoji contributor:')
+  }
+
   $('#keywords').text(emoji.keywords.join(', '));
-  $('#bbcode').attr('value', `[img=${emoji.url}]`);
+  $('#bbcodeScratch').attr('value', `[img=${emoji.url}]`);
+  $('#bbcodeGithub').attr('value', `[img=${githubPath}]`);
 }
 
-function copyBBCode() {
-  navigator.clipboard.writeText($('#bbcode').attr('value'));
+function copyBBCodeScratch() {
+  navigator.clipboard.writeText($('#bbcodeScratch').attr('value'));
+}
+
+function copyBBCodeGithub() {
+  navigator.clipboard.writeText($('#bbcodeScratch').attr('value'));
 }
