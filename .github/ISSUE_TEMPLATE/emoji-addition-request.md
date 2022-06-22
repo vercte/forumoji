@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-Scratch Username:
 Official Emoji Name:
 Unicode codepoint:
 Link to emoji (On cubeupload or assets):
