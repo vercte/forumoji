@@ -153,6 +153,11 @@ p.preview-image {
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
 }
 
+.small-preview {
+  padding: 3px;
+  border-radius: 3px;
+}
+
 #dark-preview {
   background-color: #111111;
 }
