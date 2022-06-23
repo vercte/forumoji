@@ -121,12 +121,12 @@ function select(emoji) {
   $('.selected').removeClass('selected');
   document.getElementById(emoji.codepoint).classList.add('selected');
 
-  let githubPath = `https://lopste.github.io/forumoji/resources/forumoji/${emoji.image}`
+  let githubPath = `https://lopste.github.io/forumoji/resources/forumoji/${emoji.image}`;
   $('img.preview-image').attr('src', 'resources/forumoji/' + emoji.image);
   $('img.preview-image').attr('alt', emoji.name);
   $('#emoji-codepoint').text(emoji.codepoint)
   $('#name').text(emoji.name);
-  $('#author').html(emoji.author.replace('\n', ',<br>'));
+  $('#contributors').html(emoji.author.replace('\n', ',<br>'));
   if(emoji.author.split('\n').length > 1) {
     $('#contributors-label').text('Emoji contributors:')
   } else {
@@ -143,5 +143,5 @@ function copyBBCodeScratch() {
 }
 
 function copyBBCodeGithub() {
-  navigator.clipboard.writeText($('#bbcodeScratch').attr('value'));
+  navigator.clipboard.writeText($('#bbcodeGithub').attr('value'));
 }

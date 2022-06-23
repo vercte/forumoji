@@ -1,3 +1,8 @@
+/* ------ */
+/* themes */
+/* ------ */
+
+/* not selectable, but reduces the flashing when loading the page */
 html.neutral {
   --header: #ececec;
   --background: #ffffff;
@@ -43,6 +48,10 @@ html.blue-dark {
   --highlight: #ffffff;
 }
 
+/* ---- */
+/* page */
+/* ---- */
+
 html, body {
   height: 100%;
   margin: 0;
@@ -66,6 +75,10 @@ body {
   height: 100%;
   background-color: var(--background);
 }
+
+/* ------ */
+/* header */
+/* ------ */
 
 #header {
   grid-area: header;
@@ -113,12 +126,20 @@ h1 {
   border-radius: 0.2em;
 }
 
+/* ------------------- */
+/* information section */
+/* ------------------- */
+
 #info {
   grid-area: info;
   background-color: var(--sidebar);
   padding: 1em;
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
+}
+
+p.preview-image {
+  text-align: center;
 }
 
 #large-preview {
@@ -132,25 +153,13 @@ h1 {
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
 }
 
-p.preview-image {
-  text-align: center;
+#dark-preview {
+  background-color: #111111;
 }
 
-.text-button {
-  display: grid;
-  grid-template-columns: 70% auto;
+#light-preview {
+  background-color: white;
 }
-
-/* .text-button input {
-  border-radius: 3px 0 0 3px;
-  border-width: 1px;
-  border-color: #181a1c;
-}
-.text-button button {
-  border-radius: 0 3px 3px 0;
-  border-width: 1px 1px 1px 0;
-  border-color: #181a1c;
-} */
 
 #name {
   text-transform: uppercase;
@@ -158,6 +167,42 @@ p.preview-image {
   font-size: 1.2em;
   margin-bottom: 2pt;
 }
+
+/* center the keywords */
+.info-label {
+  text-align: center;
+  font-weight: bold;
+}
+
+.info-value {
+  text-align: center;
+}
+
+.copy-container {
+  display: grid;
+  grid-template-columns: 70% auto;
+}
+
+.copy-button,
+.copy-preview{
+  appearance: none;
+  display: inline-block;
+  border: var(--text) 1px solid;
+  color: var(--text);
+  background-color: var(--sidebar);
+  margin: 0 0.2em 0 0;
+  padding: 0.2em;
+  border-radius: 0.2em;
+  font-size: inherit;
+}
+
+.copy-button {
+  cursor: pointer;
+}
+
+/* ------------ */
+/* list section */
+/* ------------ */
 
 #list {
   grid-area: list;
@@ -191,6 +236,7 @@ p.preview-image {
   font-weight: bold;
 }
 
+/* show labels for top level categories */
 .category:not(.category-level-1) {
   display: inline;
 }
@@ -199,6 +245,7 @@ p.preview-image {
   display: none;
 }
 
+/* hide all category labels */
 /* .category {
   display: inline;
 }
@@ -209,43 +256,4 @@ p.preview-image {
 #list img:hover, #list img:focus, #list img.selected {
   background-color: var(--highlight);
   transform: translateY(-2pt);
-}
-
-.copy-button,
-.copy-preview{
-  appearance: none;
-  display: inline-block;
-  border: var(--text) 1px solid;
-  color: var(--text);
-  background-color: var(--sidebar);
-  margin: 0 0.2em 0 0;
-  padding: 0.2em;
-  border-radius: 0.2em;
-  font-size: inherit;
-}
-
-.copy-button {
-  cursor: pointer;
-}
-
-.bbcode-preview {
-  cursor: text;
-}
-
-/* center the keywords */
-#author, #keywords {
-  text-align: center;
-}
-
-#contributors-label, #keywords-label, #emoji-codepoint, .copy-label {
-  text-align: center;
-  font-weight: bold;
-}
-
-.dark-preview {
-  background-color: #111111;
-}
-
-.light-preview {
-  background-color: white;
 }

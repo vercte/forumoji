@@ -19,23 +19,22 @@
       <main id="info">
         <p class="preview-image"><img id="large-preview" class="preview-image"></p>
         <h2 id="name"></h2>
-        <div id="emoji-codepoint">Unknown Codepoint</div>
+        <div id="emoji-codepoint" class="info-value">Unknown Codepoint</div>
         <p class="preview-image">
-          <img id="small-preview" class="preview-image dark-preview">
-          <img id="small-preview" class="preview-image light-preview">
+          <img id="dark-preview" class="preview-image small-preview">
+          <img id="light-preview" class="preview-image small-preview">
         </p>
-        <div id="contributors-label">Emoji contributor:</div>
-        <div id="author">No emoji selected</div><br><br>
-        <div id="keywords-label">Keywords:</div>
-        <div id="keywords">No emoji selected</div><br><br>
-        <div class="copy-label">BBCode (Scratch Host):</div>
-        <div class="text-button">
+        <div id="contributors-label" class="info-label">Emoji contributor:</div>
+        <div id="contributors" class="info-value">No emoji selected</div><br><br>
+        <div id="keywords-label" class="info-label">Keywords:</div>
+        <div id="keywords" class="info-value">No emoji selected</div><br><br>
+        <div class="info-label">BBCode (Scratch Host):</div>
+        <div class="copy-container">
           <input type="text" id="bbcodeScratch" class="copy-preview" value="No emoji selected" readonly>
           <button id="copyBbcodeScratch" class="copy-button" onclick="copyBBCodeScratch()">copy</button>
         </div><br><br>
-
-        <div class="copy-label">BBCode (GitHub Host):</div>
-        <div class="text-button">
+        <div class="info-label">BBCode (GitHub Host):</div>
+        <div class="copy-container">
           <input type="text" id="bbcodeGithub" class="copy-preview" value="No emoji selected" readonly>
           <button id="copyBbcodeGithub" class="copy-button" onclick="copyBBCodeGithub()">copy</button>
         </div>
