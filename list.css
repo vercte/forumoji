@@ -173,6 +173,10 @@ p.preview-image {
   margin-bottom: 2pt;
 }
 
+p.preview-image, .info-label {
+  margin: 1em 0 0 0;
+}
+
 /* center the keywords */
 .info-label {
   text-align: center;
