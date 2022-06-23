@@ -5671,6 +5671,18 @@
       "image": "tulip.png",
       "url": "https://u.cubeupload.com/sfg/tulip.png",
       "author": "TheTrillion"
+    },
+    {
+      "codepoint": "U+1F6D2",
+      "image": "shopping-trolley.png",
+      "url": "https://u.cubeupload.com/notwait/shoppingtrolley.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+2602",
+      "image": "umbrella.png",
+      "url": "https://u.cubeupload.com/notwait/umbrella.png",
+      "author": "notwait"
     }
   ]
 }
