@@ -5683,6 +5683,18 @@
       "image": "umbrella.png",
       "url": "https://u.cubeupload.com/notwait/umbrella.png",
       "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F36D",
+      "image": "lollipop.png",
+      "url": "https://assets.scratch.mit.edu/df885c6bd5fc719e9098f0e46f3ce946.png",
+      "author": "kccuber"
+    },
+    {
+      "codepoint": "U+1F98B",
+      "image": "butterfly.png",
+      "url": "https://u.cubeupload.com/sfg/monarchbutterfly.png",
+      "author": "stickfiregames"
     }
   ]
 }
