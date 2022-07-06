@@ -5731,6 +5731,132 @@
       "image": "collision.png",
       "url": "https://u.cubeupload.com/sfg/collision.png",
       "author": "TheTrillion"
+    },
+    {
+      "codepoint": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468",
+      "image": "kiss-woman-man.png",
+      "url": "https://u.cubeupload.com/sfg/kisswomanman.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468",
+      "image": "kiss-man-man.png",
+      "url": "https://u.cubeupload.com/sfg/kissmanman.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469",
+      "image": "kiss-woman-woman.png",
+      "url": "https://u.cubeupload.com/sfg/kisswomanwoman.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F48F",
+      "image": "kiss.png",
+      "url": "https://u.cubeupload.com/sfg/kiss.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F463",
+      "image": "footprint.png",
+      "url": "https://assets.scratch.mit.edu/ad7dbcf6df54376f0dd744d0d7d44804.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F4A1",
+      "image": "light-bulb.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711545777_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F56F U+FE0F",
+      "image": "candle.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711229396_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F5FE",
+      "image": "map-of-japan.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711546896_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F511",
+      "image": "key.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711566417_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F510",
+      "image": "locked-with-key.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711567207_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F50F",
+      "image": "locked-with-pen.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711568155_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F9EA",
+      "image": "test-tube.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711701222_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F4E3",
+      "image": "megaphone.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711701874_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F4EF",
+      "image": "postal-horn.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711702669_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F9ED",
+      "image": "compass.png",
+      "url": "https://uploads.scratch.mit.edu/get_image/project/711708705_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F6CE U+FE0F",
+      "image": "bellhop-bell.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711812575_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F9F3",
+      "image": "luggage.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/711817349_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F438",
+      "image": "frog.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/712078594_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F36C",
+      "image": "candy.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/712078803_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F37F",
+      "image": "popcorn.png",
+      "url": "https://cdn2.scratch.mit.edu/get_image/project/712082370_100x80.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F359",
+      "image": "rice-ball.png",
+      "url": "https://u.cubeupload.com/sfg/riceball.png",
+      "author": "TheTrillion"
     }
   ]
 }
