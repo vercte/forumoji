@@ -18,6 +18,7 @@ window.onload = function() {
             });
           } else if (item.codepoint) {
             let emoji = forumoji.emoji.filter(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
+            emoji.forEach(e => e.used = true);
             if (emoji.length > 0) {
               if (emoji.length > 1) {console.log(`duplicate emoji: ${item.codepoint} ${item.name}`)}
               emoji = emoji.pop();
@@ -29,6 +30,8 @@ window.onload = function() {
         }
 
         addForumoji(unicodeEmoji);
+
+        forumoji.emoji.filter(e => !e.used).forEach(e => console.log(`invalid codepoint: ${e.codepoint} ${e.image}`));
 
         // create tile list
         function addTiles(item, container, level) {

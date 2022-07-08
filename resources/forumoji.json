@@ -5769,7 +5769,7 @@
       "author": "greg1234567890f"
     },
     {
-      "codepoint": "U+1F56F U+FE0F",
+      "codepoint": "U+1F56F",
       "image": "candle.png",
       "url": "https://cdn2.scratch.mit.edu/get_image/project/711229396_100x80.png",
       "author": "greg1234567890f"
@@ -5795,7 +5795,7 @@
     {
       "codepoint": "U+1F50F",
       "image": "locked-with-pen.png",
-      "url": "https://cdn2.scratch.mit.edu/get_image/project/711568155_100x80.png",
+      "url": "https://u.cubeupload.com/sfg/lockedwithpen.png",
       "author": "greg1234567890f"
     },
     {
@@ -5823,7 +5823,7 @@
       "author": "greg1234567890f"
     },
     {
-      "codepoint": "U+1F6CE U+FE0F",
+      "codepoint": "U+1F6CE",
       "image": "bellhop-bell.png",
       "url": "https://cdn2.scratch.mit.edu/get_image/project/711812575_100x80.png",
       "author": "greg1234567890f"
@@ -5857,6 +5857,36 @@
       "image": "rice-ball.png",
       "url": "https://u.cubeupload.com/sfg/riceball.png",
       "author": "TheTrillion"
+    },
+    {
+      "codepoint": "U+1F4B9",
+      "image": "chart-increasing-with-yen.png",
+      "url": "https://u.cubeupload.com/sfg/chartincreasingwithy.png",
+      "author": "Vaibhs11"
+    },
+    {
+      "codepoint": "U+1F9B3",
+      "image": "white-hair.png",
+      "url": "https://u.cubeupload.com/sfg/whitehair.png",
+      "author": "TheTrillion"
+    },
+    {
+      "codepoint": "U+1F9B0",
+      "image": "red-hair.png",
+      "url": "https://u.cubeupload.com/sfg/redhair.png",
+      "author": "TheTrillion"
+    },
+    {
+      "codepoint": "U+1F9B1",
+      "image": "curly-hair.png",
+      "url": "https://u.cubeupload.com/sfg/curlyhair.png",
+      "author": "greg1234567890f"
+    },
+    {
+      "codepoint": "U+1F9B2",
+      "image": "bald.png",
+      "url": "https://u.cubeupload.com/sfg/bald.png",
+      "author": "lolecksdeehaha"
     }
   ]
 }
