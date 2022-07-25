@@ -5869,6 +5869,18 @@
       "image": "bald.png",
       "url": "https://u.cubeupload.com/sfg/bald.png",
       "author": "lolecksdeehaha"
+    },
+    {
+      "codepoint": "U+00A9",
+      "image": "copyright.png",
+      "url": "https://u.cubeupload.com/sfg/copyright.png",
+      "author": "TheTrillion"
+    },
+    {
+      "codepoint": "U+00AE",
+      "image": "registered-trademark.png",
+      "url": "https://u.cubeupload.com/sfg/registeredtrademark.png",
+      "author": "TheTrillion"
     }
   ]
 }
