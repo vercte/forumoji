@@ -5941,6 +5941,60 @@
       "image": "hot-pepper.png",
       "url": "https://assets.scratch.mit.edu/89d5853ca96ed3bfc69fd8b1a87744b2.png",
       "author": "TheSmartGuy1234"
-    }
+    },
+	{
+	  "codepoint": "U+1F33B",
+	  "image": "sunflower.png",
+	  "url": "https://assets.scratch.mit.edu/af98a5e6ab389eecbf6ff9f3f074a4f0.png"
+	  "author": "greg1234567890f\ntarsovbak"
+	},
+	{
+	  "codepoint": "U+1F427",
+	  "image": "penguin.png",
+	  "url": "https://assets.scratch.mit.edu/fc8262c336729bf15823c97a6f9a9419.png"
+	  "author": "notwait"
+	},
+	{
+	  "codepoint": "U+1F448",
+	  "image": "backhand-index-pointing-right.png",
+	  "url": "https://assets.scratch.mit.edu/410591fbc686867752138336a58f7fcc.png"
+	  "author": "YtArie5"
+	},
+	{
+	  "codepoint": "U+1F449",
+	  "image": "backhand-index-pointing-left.png",
+	  "url": "https://assets.scratch.mit.edu/6da085a072a1ea0a715a107cfefbd533.png"
+	  "author": "YtArie5"
+	},
+	{
+	  "codepoint": "U+1F46E U+200D U+2642 U+FE0F",
+	  "image": "man-police-officer.png",
+	  "url": "https://assets.scratch.mit.edu/get_image/.%2E/6ff36d17400b30d95e927748d0d11851.png"
+	  "author": "YtArie5"
+	},
+	{
+	  "codepoint": "U+1F46E U+200D U+2640 U+FE0F",
+	  "image": "woman-police-officer.png",
+	  "url": "https://assets.scratch.mit.edu/get_image/.%2E/13f81f4b19d49169ea7106eed0ac9d42.png"
+	  "author": "YtArie5"
+	},
+	{
+	  "codepoint": "U+1F46E",
+	  "image": "police-officer.png",
+	  "url": "https://assets.scratch.mit.edu/get_image/.%2E/731bdadfef355ce20058ada14cf92bdc.png"
+	  "author": "YtArie5"
+	},
+	{
+	  "codepoint": "U+1F9C0",
+	  "image": "cheese-wedge.png",
+	  "url": "https://assets.scratch.mit.edu/ff48a5403399346dd5386350173c80ca.png"
+	  "author": "mybearworld"
+	},
+	{
+	  "codepoint": "U+1F4A8",
+	  "image": "dashing-away.png",
+	  "url": "https://assets.scratch.mit.edu/get_image/.%2E/ec39a106cef3e120b676c5930b3e8739.png"
+	  "author": "mcgoomba"
+	}
   ]
 }
