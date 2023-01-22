@@ -5995,6 +5995,24 @@
       "image": "dashing-away.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/ec39a106cef3e120b676c5930b3e8739.png",
       "author": "mcgoomba"
+    },
+    {
+      "codepoint": "U+1FA77",
+      "image": "pink-heart.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/16926bbb1818ce2c63376c19a642f1bf.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1FA75",
+      "image": "light-blue-heart.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/b40805cb9b0d081c93aec9aba386a54a.png",
+      "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1FA76",
+      "image": "grey-heart.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/8628805eb99bae02d27736ccb86caf3b.png",
+      "author": "stickfiregames"
     }
   ]
 }
