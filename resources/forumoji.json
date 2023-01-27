@@ -4782,7 +4782,7 @@
       "codepoint": "U+1F49F",
       "image": "heart-decoration.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/ef3af31f95a053ce8eea5de820b153f0.png",
-      "author": "Scratch137"
+      "author": "mcgoomba\nScratch137"
     },
     {
       "codepoint": "U+1F49D",
@@ -6013,6 +6013,60 @@
       "image": "grey-heart.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/8628805eb99bae02d27736ccb86caf3b.png",
       "author": "stickfiregames"
+    },
+    {
+      "codepoint": "U+1F3E7",
+      "image": "atm-sign.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/b40a33c2a22463ed637cafe798538508.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F549",
+      "image": "om.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9e6fba03051f2ea08733e4343fa84f8d.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+2721",
+      "image": "star-of-david.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/0e49629f5632d99c1e183845686542d0.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+2638",
+      "image": "wheel-of-dharma.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/2b12c2f3d8f1c4d80aa27f4478dce5bd.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+262F",
+      "image": "yin-yang.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/8d2355a58a2f030b674464fa096a624f.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+271D",
+      "image": "latin-cross.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/00619bd6486c4da0e486f4309daeaa86.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+2626",
+      "image": "orthodox-cross.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f6fbdb5a4f05cacf1750f236e511e8a1.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+262A",
+      "image": "star-and-crescent.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/4bad0e200ab5222f8b68cfcd1c3fdc34.png",
+      "author": "mybearworld"
+    },
+    {
+      "codepoint": "U+1F451",
+      "image": "crown.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/67123d468f73385450b228b9cf774aa5.png",
+      "author": "YtArie5"
     }
   ]
 }
