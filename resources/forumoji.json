@@ -5681,7 +5681,7 @@
     {
       "codepoint": "U+2602",
       "image": "umbrella.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f332b85b5263f176e91f5390e2d3f08d.svg",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7d239a445a65b1af107b1e25f069ef65.png",
       "author": "notwait"
     },
     {
@@ -6067,6 +6067,168 @@
       "image": "crown.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/67123d468f73385450b228b9cf774aa5.png",
       "author": "YtArie5"
+    },
+    {
+      "codepoint": "U+1F365",
+      "image": "fish-cake-with-swirl.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/d1ca8d091096b5a4127720e5170fe8f5.png",
+      "author": "YtArie5"
+    },
+    {
+      "codepoint": "U+1F6BC",
+      "image": "baby-symbol.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/51b8fc62737751da184a036966121f9b.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F6AE",
+      "image": "litter-in-bin.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9bfbece7a595fb2d2e3900929879dfcf.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F6B9",
+      "image": "man-symbol.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/dcb74c31536bd45b0f4bd2e47611324f.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F6BA",
+      "image": "woman-symbol.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/d541b3429e88c6cbc4499e88bd1cd9fe.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+267F",
+      "image": "wheelchair.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/fdb09ccf63ff7ce6f675f3bbb14da8fc.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F6DF",
+      "image": "ring-buoy.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/2112f108cd860ca998143c2ac768c9bf.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F50C",
+      "image": "electric-plug.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f7d97674b96739607c59b8e82d5ac91c.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4F1",
+      "image": "mobile-phone.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/bd3c865d0178f5869d465ed9d88b475f.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4F2",
+      "image": "mobile-phone-with-arrow.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9799590a9040de9f47542814760afc28.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+260E",
+      "image": "telephone.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/88c8ba3599377bbbdbffcba368bc0456.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4DE",
+      "image": "telephone-receiver.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9558b58d6772a0a082765a5dbd461775.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4DF",
+      "image": "pager.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/bd267b6f610c0374ad59e7f2abb15b74.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F5B1",
+      "image": "computer-mouse.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/00e150e27d82e362a3756476e4740168.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F5B2",
+      "image": "trackball.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/781f52e72d485a64f9fcaec1e1bf3b3a.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4BD",
+      "image": "minidisc.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/56fbf557042ab7a814284a24c304268d.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+2328",
+      "image": "keyboard.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/855fe067589bf16085c40922899b6001.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F5A8",
+      "image": "printer.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5c1770c4be96f00fec207f5b99d249e9.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4C1",
+      "image": "folder.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/70bd6f426beb0950af401ff7235dc1a2.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F4C2",
+      "image": "open-folder.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/269daaf6def7a4ebe6833582350532a0.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F528",
+      "image": "hammer.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/fe866498c94a53235e9b6477c595bdbe.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F944",
+      "image": "spoon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/dcb3893a4e23b2afdd09cd5e7462d24d.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F963",
+      "image": "bowl-with-spoon.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/03c4f0a93aa6635b0e4f214339963e31.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F302",
+      "image": "closed-umbrella.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/db5f50963f5471cd85b239bbc37fd58c.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+2614",
+      "image": "umbrella-with-rain.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/525394e3a253284a91e2150ac754a341.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF7",
+      "image": "leftwards-pushing-hand.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/05a3aee4d5fb9306bd1caa3c4286474d.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1FAF8",
+      "image": "rightwards-pushing-hand.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7000387b268ff232a9c98833478b2e09.png",
+      "author": "notwait"
     }
   ]
 }
