@@ -99,6 +99,12 @@
       "author": "kccuber"
     },
     {
+      "codepoint": "U+1F41F",
+      "image": "fish.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/c44ef3d0168b0d6f65515df61bcd9ccf.png",
+      "author": "lolecksdeehaha"
+    },
+    {
       "codepoint": "U+1F636",
       "image": "no-mouth.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/98cacd6d8fa9ed4f25e392d01f037676.svg",
@@ -6228,6 +6234,48 @@
       "codepoint": "U+1FAF8",
       "image": "rightwards-pushing-hand.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/7000387b268ff232a9c98833478b2e09.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F451",
+      "image": "crown.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/67123d468f73385450b228b9cf774aa5.png",
+      "author": "YtArie5"
+    },
+    {
+      "codepoint": "U+1F426",
+      "image": "bird.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/2675658df96c0f7009f80cb15bf3e966.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F414",
+      "image": "chicken.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/17c6ad528e4c9a353c6533d3b307a762.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F413",
+      "image": "rooster.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f54e6a090279dfa439cdeea036c5c1e3.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F40C",
+      "image": "snail.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/8456f3f0c0ddddbe1b03e9bd02f2607f.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": "U+1F41C",
+      "image": "ant.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/897186a53059e9528cec80f40b571be2.png",
+      "author": "notwait"
+    },
+    {
+      "codepoint": " U+1F41D",
+      "image": "honeybee.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7c545cdc826b2ee0c00cc2f44a0ae092.png",
       "author": "notwait"
     }
   ]
