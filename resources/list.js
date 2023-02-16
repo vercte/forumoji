@@ -35,7 +35,6 @@ window.onload = function() {
 
         // create tile list
         function addTiles(item, container, level) {
-          if($("#loading")) $("#loading").remove()
           if (item.category) {
             let categoryContainer = document.createElement('div');
             $(categoryContainer).attr('id', item.category);
