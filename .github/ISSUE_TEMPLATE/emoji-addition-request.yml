@@ -1,0 +1,22 @@
+name: Emoji Addition Request
+description: Suggest an emoji to be added to this repository.
+title: "Emoji Request: "
+labels: ["enhancement"]
+body:
+  - type: input
+    attributes:
+      label: Official emoji name
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Unicode codepoint
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Link to emoji image
+      description: "Should be hosted on Scratch Assets or CubeUpload"
+      placeholder: "https://..."
+    validations:
+      required: true
