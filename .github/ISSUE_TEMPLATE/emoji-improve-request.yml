@@ -4,16 +4,19 @@ title: "Emoji Improvement: "
 labels: ["enhancement"]
 body:
   - type: input
+    id: emojiName
     attributes:
       label: Official emoji name
     validations:
       required: true
   - type: input
+    id: codepoint
     attributes:
       label: Unicode codepoint
     validations:
       required: true
   - type: input
+    id: url
     attributes:
       label: Link to emoji image
       description: Should be hosted on Scratch Assets or CubeUpload
@@ -21,6 +24,7 @@ body:
     validations:
       required: true
   - type: textarea
+    id: toBeImproved
     attributes:
       label: "What should be improved about it?"
     validations:
