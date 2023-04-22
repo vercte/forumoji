@@ -27,7 +27,7 @@ html.dark {
   --header-text: #ffffff;
   --text: #fff;
   --sidebar: #0a0a0a;
-  --highlight: #ffffff;
+  --highlight: #ffaa00;
 }
 
 html.blue {
@@ -45,7 +45,7 @@ html.blue-dark {
   --header-text: #ffffff;
   --text: #fff;
   --sidebar: #0a0a0a;
-  --highlight: #ffffff;
+  --highlight: #28a5da;
 }
 
 /* ---- */
