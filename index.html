@@ -2,7 +2,7 @@
 <html lang="en" class="neutral">
   <head>
     <title>Project Forumoji</title>
-    <link rel="stylesheet" type="text/css" href="list.css">
+    <link rel="stylesheet" type="text/css" href="./list.css">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
   </head>
   <body>
@@ -12,33 +12,32 @@
         <input id="search" placeholder="Search...">
         <nav id="links">
           <a href="#" id="theme_button">Theme</a>
-          <a href="https://github.com/lopste/forumoji"><img src="img/GitIcon.png"> Github</a>
-          <a href="https://scratch.mit.edu/discuss/topic/557083/?page=1"><img src="img/ScratchIcon.png"> Scratch</a>
+          <a href="https://github.com/lopste/forumoji"><img src="img/GitIcon.png">&nbsp;Github</a>
+          <a href="https://scratch.mit.edu/discuss/topic/557083/?page=1"><img src="img/ScratchIcon.png">&nbsp;Scratch</a>
         </nav>
       </header>
       <main id="info">
         <p class="preview-image"><img id="large-preview" class="preview-image"></p>
         <h2 id="name"></h2>
-        <p class="preview-image"><img id="small-preview" class="preview-image"></p>
-        <table>
-          <tr>
-            <td>by:</td>
-            <td id="author"></td>
-          </tr>
-          <tr>
-            <td>keywords:</td>
-            <td id="keywords"></td>
-          </tr>
-          <tr>
-            <td>BBCode:</td>
-            <td>
-              <div class="text-button">
-                <input type="text" id="bbcode" readonly>
-                <button id="copyBbcode" onclick="copyBBCode()">copy</button>
-              </div>
-            </td>
-          </tr>
-        </table>
+        <div id="emoji-codepoint" class="info-value">Unknown Codepoint</div>
+        <p class="preview-image">
+          <img id="dark-preview" class="preview-image small-preview">
+          <img id="light-preview" class="preview-image small-preview">
+        </p>
+        <div id="contributors-label" class="info-label">Emoji contributor:</div>
+        <div id="contributors" class="info-value">No emoji selected</div>
+        <div id="keywords-label" class="info-label">Keywords:</div>
+        <div id="keywords" class="info-value">No emoji selected</div>
+        <div class="info-label">BBCode (Scratch Host):</div>
+        <div class="copy-container">
+          <input type="text" id="bbcodeScratch" class="copy-preview" value="No emoji selected" readonly>
+          <button id="copyBbcodeScratch" class="copy-button" onclick="copyBBCodeScratch()">copy</button>
+        </div>
+        <div class="info-label">BBCode (GitHub Host):</div>
+        <div class="copy-container">
+          <input type="text" id="bbcodeGithub" class="copy-preview" value="No emoji selected" readonly>
+          <button id="copyBbcodeGithub" class="copy-button" onclick="copyBBCodeGithub()">copy</button>
+        </div>
       </main>
       <nav id="list">
         <noscript><p>Forumoji requires JavaScript, which is disabled or not supported in your browser.</p></noscript>

@@ -2,7 +2,7 @@
   "comment": [
     "STOP!",
 
-    "This is the official Emoji 14.0 list from Unicode,",
+    "This is the official Emoji 15.0 list from Unicode,",
     "which can be found at https://unicode.org/emoji/charts/emoji-list.html",
     "It should never be changed unless the official list does,",
     "and even then, only if you know what you're doing.",
@@ -281,6 +281,11 @@
               "codepoint": "U+1F925",
               "name": "lying face",
               "keywords": ["face", "lie", "lying face", "pinocchio"]
+            },
+            {
+              "codepoint": "U+1FAE8",
+              "name": "shaking face",
+              "keywords": ["earthquake", "face", "shaking", "shock", "vibrate"]
             }
           ]
         },
@@ -715,13 +720,8 @@
           ]
         },
         {
-          "category": "emotion",
+          "category": "heart",
           "contents": [
-            {
-              "codepoint": "U+1F48B",
-              "name": "kiss mark",
-              "keywords": ["kiss", "kiss mark", "lips"]
-            },
             {
               "codepoint": "U+1F48C",
               "name": "love letter",
@@ -793,6 +793,11 @@
               "keywords": ["heart", "red heart"]
             },
             {
+              "codepoint": "U+1FA77",
+              "name": "pink heart",
+              "keywords": ["cute", "heart", "like", "love", "pink"]
+            },
+            {
               "codepoint": "U+1F9E1",
               "name": "orange heart",
               "keywords": ["orange", "orange heart"]
@@ -813,6 +818,11 @@
               "keywords": ["blue", "blue heart"]
             },
             {
+              "codepoint": "U+1FA75",
+              "name": "light blue heart",
+              "keywords": ["cyan", "heart", "light blue", "light blue heart", "teal"]
+            },
+            {
               "codepoint": "U+1F49C",
               "name": "purple heart",
               "keywords": ["purple", "purple heart"]
@@ -828,9 +838,24 @@
               "keywords": ["black", "black heart", "evil", "wicked"]
             },
             {
+              "codepoint": "U+1FA76",
+              "name": "grey heart",
+              "keywords": ["gray", "grey heart", "heart", "silver", "slate"]
+            },
+            {
               "codepoint": "U+1F90D",
               "name": "white heart",
               "keywords": ["heart", "white"]
+            }
+          ]
+        },
+        {
+          "category": "emotion",
+          "contents": [
+            {
+              "codepoint": "U+1F48B",
+              "name": "kiss mark",
+              "keywords": ["kiss", "kiss mark", "lips"]
             },
             {
               "codepoint": "U+1F4AF",
@@ -866,11 +891,6 @@
               "codepoint": "U+1F573",
               "name": "hole",
               "keywords": ["hole"]
-            },
-            {
-              "codepoint": "U+1F4A3",
-              "name": "bomb",
-              "keywords": ["bomb", "comic"]
             },
             {
               "codepoint": "U+1F4AC",
@@ -956,6 +976,16 @@
               "codepoint": "U+1FAF4",
               "name": "palm up hand",
               "keywords": ["beckon", "catch", "come", "offer"]
+            },
+            {
+              "codepoint": "U+1FAF7",
+              "name": "leftwards pushing hand",
+              "keywords": ["high five", "leftward", "leftwards pushing hand", "push", "refuse", "stop", "wait"]
+            },
+            {
+              "codepoint": "U+1FAF8",
+              "name": "rightwards pushing hand",
+              "keywords": ["high five", "push", "refuse", "rightward", "rightwards pushing hand", "stop", "wait"]
             }
           ]
         },
@@ -2932,6 +2962,16 @@
               "keywords": ["face", "horse"]
             },
             {
+              "codepoint": "U+1FACE",
+              "name": "moose",
+              "keywords": ["animal", "antlers", "elk", "mammal", "moose"]
+            },
+            {
+              "codepoint": "U+1FACF",
+              "name": "donkey",
+              "keywords": ["animal", "ass", "burro", "donkey", "mammal", "mule", "stubborn"]
+            },
+            {
               "codepoint": "U+1F40E",
               "name": "horse",
               "keywords": ["equestrian", "horse", "racehorse", "racing"]
@@ -3245,6 +3285,21 @@
               "codepoint": "U+1F99C",
               "name": "parrot",
               "keywords": ["bird", "parrot", "pirate", "talk"]
+            },
+            {
+              "codepoint": "U+1FABD",
+              "name": "wing",
+              "keywords": ["angelic", "aviation", "bird", "flying", "mythology", "wing"]
+            },
+            {
+              "codepoint": "U+1F426 U+200D U+2B1B",
+              "name": "black bird",
+              "keywords": ["bird", "black", "crow", "raven", "rook"]
+            },
+            {
+              "codepoint": "U+1FABF",
+              "name": "goose",
+              "keywords": ["bird", "fowl", "goose", "honk", "silly"]
             }
           ]
         },
@@ -3359,6 +3414,11 @@
               "codepoint": "U+1FAB8",
               "name": "coral",
               "keywords": ["ocean", "reef"]
+            },
+            {
+              "codepoint": "U+1FABC",
+              "name": "jellyfish",
+              "keywords": ["burn", "invertebrate", "jelly", "jellyfish", "marine", "ouch", "stinger"]
             }
           ]
         },
@@ -3504,6 +3564,11 @@
               "codepoint": "U+1F337",
               "name": "tulip",
               "keywords": ["flower", "tulip"]
+            },
+            {
+              "codepoint": "U+1FABB",
+              "name": "hyacinth",
+              "keywords": ["bluebonnet", "flower", "hyacinth", "lavender", "lupine", "snapdragon"]
             }
           ]
         },
@@ -3774,6 +3839,16 @@
               "codepoint": "U+1F330",
               "name": "chestnut",
               "keywords": ["chestnut", "plant"]
+            },
+            {
+              "codepoint": "U+1FADA",
+              "name": "ginger root",
+              "keywords": ["beer", "ginger root", "root", "spice"]
+            },
+            {
+              "codepoint": "U+1FADB",
+              "name": "pea pod",
+              "keywords": ["beans", "edamame", "legume", "pea", "pod", "vegetable"]
             }
           ]
         },
@@ -5751,6 +5826,11 @@
               "keywords": ["fly", "kite", "soar"]
             },
             {
+              "codepoint": "U+1F52B",
+              "name": "water pistol",
+              "keywords": ["gun", "handgun", "pistol", "revolver", "tool", "water", "weapon"]
+            },
+            {
               "codepoint": "U+1F3B1",
               "name": "pool 8 ball",
               "keywords": ["8", "ball", "billiard", "eight", "game", "pool 8 ball"]
@@ -6011,6 +6091,11 @@
               "keywords": ["clothing", "woman", "woman’s clothes"]
             },
             {
+              "codepoint": "U+1FAAD",
+              "name": "folding hand fan",
+              "keywords": ["cooling", "dance", "fan", "flutter", "folding hand fan", "hot", "shy"]
+            },
+            {
               "codepoint": "U+1F45B",
               "name": "purse",
               "keywords": ["clothing", "coin", "purse"]
@@ -6079,6 +6164,11 @@
               "codepoint": "U+1F462",
               "name": "woman’s boot",
               "keywords": ["boot", "clothing", "shoe", "woman", "woman’s boot"]
+            },
+            {
+              "codepoint": "U+1FAAE",
+              "name": "hair pick",
+              "keywords": ["Afro", "comb", "hair", "pick"]
             },
             {
               "codepoint": "U+1F451",
@@ -6284,6 +6374,16 @@
               "codepoint": "U+1FA98",
               "name": "long drum",
               "keywords": ["beat", "conga", "drum", "long drum", "rhythm"]
+            },
+            {
+              "codepoint": "U+1FA87",
+              "name": "maracas",
+              "keywords": ["instrument", "maracas", "music", "percussion", "rattle", "shake"]
+            },
+            {
+              "codepoint": "U+1FA88",
+              "name": "flute",
+              "keywords": ["fife", "flute", "music", "pipe", "recorder", "woodwind"]
             }
           ]
         },
@@ -6931,9 +7031,9 @@
               "keywords": ["crossed", "swords", "weapon"]
             },
             {
-              "codepoint": "U+1F52B",
-              "name": "water pistol",
-              "keywords": ["gun", "handgun", "pistol", "revolver", "tool", "water", "weapon"]
+              "codepoint": "U+1F4A3",
+              "name": "bomb",
+              "keywords": ["bomb", "comic"]
             },
             {
               "codepoint": "U+1FA83",
@@ -7530,7 +7630,7 @@
         {
           "category": "religion",
           "contents": [
-  {
+            {
               "codepoint": "U+1F6D0",
               "name": "place of worship",
               "keywords": ["place of worship", "religion", "worship"]
@@ -7589,6 +7689,11 @@
               "codepoint": "U+1F52F",
               "name": "dotted six-pointed star",
               "keywords": ["dotted six-pointed star", "fortune", "star"]
+            },
+            {
+              "codepoint": "U+1FAAF",
+              "name": "khanda",
+              "keywords": ["khanda","religion","Sikh"]
             }
           ]
         },
@@ -7774,6 +7879,11 @@
               "codepoint": "U+1F4F6",
               "name": "antenna bars",
               "keywords": ["antenna", "antenna bars", "bar", "cell", "mobile", "phone"]
+            },
+            {
+              "codepoint": "U+1F6DC",
+              "name": "wireless",
+              "keywords": ["computer", "internet", "network", "wireless"]
             },
             {
               "codepoint": "U+1F4F3",
