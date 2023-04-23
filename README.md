@@ -17,15 +17,15 @@ If you would like to add your emojis to the website, you should follow this proc
 ```json
 {
   "codepoint": "U+1F63A",
-  "image": "smileycat.png",
-  "url": "https://u.cubeupload.com/zani/smileycat.png",
+  "image": "grinning-cat.png",
+  "url": "https://assets.scratch.mit.edu/get_image/.%2E/f67743bb9153bd1b844b2651f6444c9c.svg",
   "author": "uwv"
 }
 ```
 Here's what you should put in those sections:
 * `codepoint`: Put the unicode codepoint of the emoji; if you can't find this, it's **not** an emoji!
 * `image`: The image path relative to `/resources/forumoji`.
-* `url`: The image path, hosted online on either [Cubeupload](https://cubeupload.com) or assets.scratch.mit.edu
+* `url`: The image path, hosted online on either assets.scratch.mit.edu(recommended) or [Cubeupload](https://cubeupload.com)
 * `author`: The author(s). If multiple authors, put them after newlines (`\n`). For example:
 ```json
 "author": "authorOne\nauthorTwo"
