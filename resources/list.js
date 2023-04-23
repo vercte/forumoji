@@ -143,8 +143,21 @@ function select(emoji) {
 
 function copyBBCodeScratch() {
   navigator.clipboard.writeText($('#bbcodeScratch').attr('value'));
+  copyIndicator();
 }
 
 function copyBBCodeGithub() {
   navigator.clipboard.writeText($('#bbcodeGithub').attr('value'));
+  copyIndicator();
+}
+
+function copyIndicator() {
+  $('#copied-to-clipboard').addClass('copy-raising');
+  setTimeout(() => {
+    $('#copied-to-clipboard').removeClass('copy-raising');
+    $('#copied-to-clipboard').addClass('copy-lowering');
+    setTimeout(() => {
+      $('#copied-to-clipboard').removeClass('copy-lowering');
+    }, 500)
+  }, 2000)
 }
