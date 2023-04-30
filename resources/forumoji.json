@@ -5255,7 +5255,7 @@
     {
       "codepoint": "U+1F3AB",
       "image": "ticket.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/04fb24e3ce91cc4ad02a12a9ea796521.svg",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/d0047ababa5906e2ecc17b0372f5624c.png",
       "author": "-gge"
     },
     {
@@ -5285,14 +5285,14 @@
     {
       "codepoint": "U+1F4BF",
       "image": "optical-disk.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/a7e8e4d2aef82122f3ce8930806f1c3d.svg",
-      "author": "mybearworld"
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9986346fcc8c057aa0cf59352330c98d.png",
+      "author": "-gge"
     },
     {
       "codepoint": "U+1F4C0",
       "image": "dvd.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5fcbb5bc964b4a5d30cb02dfcd72e76c.svg",
-      "author": "mybearworld"
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5dafb7fcde8ad6f4f91927adfa5b5e48.png",
+      "author": "-gge\nScratch137"
     },
     {
       "codepoint": "U+1F9BF",
@@ -6273,10 +6273,52 @@
       "author": "notwait"
     },
     {
-      "codepoint": " U+1F41D",
+      "codepoint": "U+1F41D",
       "image": "honeybee.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/7c545cdc826b2ee0c00cc2f44a0ae092.png",
       "author": "notwait"
+    },
+    {
+      "codepoint": "U+26BE",
+      "image": "baseball.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5333ce7d17f70b36f7f901b643a5cf8c.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+1F94E",
+      "image": "softball.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/b9e2e5fc423f2a3d9cbf35c2179613a8.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+1F3C0",
+      "image": "basketball.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/0dfee9e085aded23588c509fac026b03.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+1F39F",
+      "image": "admission-tickets.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/8f889d5cc32563c08e9d2858bff519b5.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+1FAAA",
+      "image": "identification-card.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/ce05e1e44401804aae7a2be830208169.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+1FAE8",
+      "image": "shaking-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f2e327dfa3b4fd4a4d340eabf4e37140.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+26FA",
+      "image": "tent.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/767f3a1577cbeaf62d9ab763ab379050.png",
+      "author": "-gge"
     }
   ]
 }
