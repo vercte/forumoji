@@ -1,8 +1,8 @@
-window.onload = function() {
+window.onload = function () {
   // do some promise stuff to make this look better
-  $.getJSON('resources/unicode-emoji.json', function(unicodeEmoji) {
-    $.getJSON('resources/forumoji.json', function(forumoji) {
-      $.getJSON('resources/hidden-emoji.json', function(hiddenEmoji) {
+  $.getJSON('resources/unicode-emoji.json', function (unicodeEmoji) {
+    $.getJSON('resources/forumoji.json', function (forumoji) {
+      $.getJSON('resources/hidden-emoji.json', function (hiddenEmoji) {
         // add forumoji data to unicode list
         function addForumoji(item) {
           if (item.comment) {
@@ -13,14 +13,14 @@ window.onload = function() {
             //remove hidden emojis
             item.contents = item.contents.filter(e => !hiddenEmoji.codepoints.find(c => c == e.codepoint));
 
-            $.each(item.contents, function(index, content) {
+            $.each(item.contents, function (index, content) {
               addForumoji(content);
             });
           } else if (item.codepoint) {
             let emoji = forumoji.emoji.filter(e => (e.codepoint.toLowerCase() == item.codepoint.toLowerCase()));
             emoji.forEach(e => e.used = true);
             if (emoji.length > 0) {
-              if (emoji.length > 1) {console.log(`duplicate emoji: ${item.codepoint} ${item.name}`)}
+              if (emoji.length > 1) { console.log(`duplicate emoji: ${item.codepoint} ${item.name}`) }
               emoji = emoji.pop();
               item.image = emoji.image;
               item.url = emoji.url.replace(/^https:\/\/assets\.scratch\.mit\.edu\/(?=[0-9a-f])/i, 'https://assets.scratch.mit.edu/get_image/.%2E/');
@@ -45,7 +45,7 @@ window.onload = function() {
             $(categoryHeader).text(item.category);
             $(categoryContainer).append(categoryHeader);
 
-            $.each(item.contents, function(index, content) {
+            $.each(item.contents, function (index, content) {
               addTiles(content, categoryContainer, level + 1);
             });
 
@@ -59,14 +59,14 @@ window.onload = function() {
               $(tileImage).attr('id', item.codepoint);
               $(tileImage).addClass('tile');
               // change the unpacking to support multiple authors
-              $(tileImage).addClass('author-' + item.author.split(' ').join('-'));
-              $.each(item.keywords, function(index, keyword) {
+              $(tileImage).addClass('author-' + item.author.join(' '));
+              $.each(item.keywords, function (index, keyword) {
                 $(tileImage).addClass('keyword-' + keyword.split(' ').join('-'))
               });
 
-              $(tileImage).click(function() {select(item)});
-              $(tileImage).keydown(function({ key }) {
-                if(key == 'Enter' || key == ' ') select(item)
+              $(tileImage).click(function () { select(item) });
+              $(tileImage).keydown(function ({ key }) {
+                if (key == 'Enter' || key == ' ') select(item)
               });
 
               $(container).append(tileImage);
@@ -85,7 +85,7 @@ window.onload = function() {
   });
 
   // search bar
-  document.querySelector('#search').addEventListener('input', function(e) {
+  document.querySelector('#search').addEventListener('input', function (e) {
     let query = e.srcElement.value;
     let unicodeRepr = Array.from(query)
     .map(s => s.codePointAt(0))
@@ -97,8 +97,8 @@ window.onload = function() {
     for (let i of document.querySelectorAll('#list img')) {
       i.removeAttribute('hidden');
       notFound = unicodeRepr !== i.id;
-      for (let j of Array.from(i.classList).concat(['keyword-'+i.getAttribute('alt')])) {
-        if (!notFound) {break;}
+      for (let j of Array.from(i.classList).concat(['keyword-' + i.getAttribute('alt')])) {
+        if (!notFound) { break; }
         if (/^keyword-/.test(j)) {
           if (j.toLowerCase().slice(8).includes(query.toLowerCase())) {
             notFound = false;
@@ -129,8 +129,8 @@ function select(emoji) {
   $('img.preview-image').attr('alt', emoji.name);
   $('#emoji-codepoint').text(emoji.codepoint)
   $('#name').text(emoji.name);
-  $('#contributors').html(emoji.author.replace('\n', ',<br>'));
-  if(emoji.author.split('\n').length > 1) {
+  $('#contributors').html(emoji.author.join(',<br>'));
+  if (emoji.author.length > 1) {
     $('#contributors-label').text('Emoji contributors:')
   } else {
     $('#contributors-label').text('Emoji contributor:')
