@@ -17,20 +17,25 @@ If you would like to add your emojis to the website, you should follow this proc
 ```json
 {
   "codepoint": "U+1F63A",
-  "image": "smileycat.png",
-  "url": "https://u.cubeupload.com/zani/smileycat.png",
-  "author": "uwv"
+  "image": "grinning-cat.png",
+  "url": "https://assets.scratch.mit.edu/get_image/.%2E/f67743bb9153bd1b844b2651f6444c9c.svg",
+  "author": [
+    "uwv"
+  ]
 }
 ```
 Here's what you should put in those sections:
 * `codepoint`: Put the unicode codepoint of the emoji; if you can't find this, it's **not** an emoji!
 * `image`: The image path relative to `/resources/forumoji`.
-* `url`: The image path, hosted online on either [Cubeupload](https://cubeupload.com) or assets.scratch.mit.edu
-* `author`: The author(s). If multiple authors, put them after newlines (`\n`). For example:
+* `url`: The image path, hosted online on either [Cubeupload](https://cubeupload.com) or assets.scratch.mit.edu.
+* `author`: The author(s), formatted as an array. If multiple authors, put them on separate lines, and add a comma after all but the last one.
 ```json
-"author": "authorOne\nauthorTwo"
+"author": [
+  "authorOne",
+  "authorTwo"
+]
 ```
-Remember to add a comma after the old last item in the list, and *don't* add one after the new last item.
+Remember to add a comma after the each new item in the list, but *don't* add one after the last new item.
 
 ## Scratch Topic
 Forumoji has a [topic on the Scratch Forums](https://scratch.mit.edu/discuss/topic/557083/); this is where most discussion about the project takes place, including important updates from @lopste. Some contributors may opt to post their emojis on Scratch first before contributing them here.
