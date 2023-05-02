@@ -35,7 +35,7 @@ Here's what you should put in those sections:
   "authorTwo"
 ]
 ```
-Remember to add a comma after the each new item in the list, but *don't* add one after the last new item.
+Remember to add a comma after each new item in the list, but *don't* add one after the last new item.
 
 ## Scratch Topic
 Forumoji has a [topic on the Scratch Forums](https://scratch.mit.edu/discuss/topic/557083/); this is where most discussion about the project takes place, including important updates from @lopste. Some contributors may opt to post their emojis on Scratch first before contributing them here.
