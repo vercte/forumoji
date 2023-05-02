@@ -28,7 +28,7 @@ Here's what you should put in those sections:
 * `codepoint`: Put the unicode codepoint of the emoji; if you can't find this, it's **not** an emoji!
 * `image`: The image path relative to `/resources/forumoji`.
 * `url`: The image path, hosted online on either [Cubeupload](https://cubeupload.com) or assets.scratch.mit.edu.
-* `author`: The author(s), formatted as an array. If multiple authors, put them on separate lines, and add a comma after all but the last one.
+* `author`: The author(s), formatted as an array. If multiple authors, put them on separate lines, and add a comma after each one *except* for the last one.
 ```json
 "author": [
   "authorOne",
