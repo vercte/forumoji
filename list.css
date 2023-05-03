@@ -267,39 +267,17 @@ p.preview-image, .info-label {
   transform: translateY(-2pt);
 }
 
-#copied-to-clipboard {
-  position: fixed;
-  bottom: -2rem;
-  height: 2rem;
-  right: 10px;
-  background-color: var(--sidebar);
-  color: var(--text);
-  border-top-right-radius: 15px;
-  border-top-left-radius: 15px;
+.copy-preview.filling {
+  animation: copy-indication .5s forwards;
 }
 
-#copied-to-clipboard.copy-raising {
-  animation: rise-up .5s ease-in forwards;
-}
-
-#copied-to-clipboard.copy-lowering {
-  animation: lower .5s ease-in forwards;
-}
-
-@keyframes rise-up {
+@keyframes copy-indication {
   from {
-    bottom: -2rem;
+    background-color: var(--sidebar);
+    color: var(--text);
   }
   to {
-    bottom: 0;
-  }
-}
-
-@keyframes lower {
-  from {
-    bottom: 0;
-  }
-  to {
-    bottom: -2rem;
+    background-color: var(--text);
+    color: var(--sidebar);
   }
 }

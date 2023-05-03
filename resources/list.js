@@ -139,25 +139,30 @@ function select(emoji) {
   $('#keywords').text(emoji.keywords.join(', '));
   $('#bbcodeScratch').attr('value', `[img=${emoji.url}]`);
   $('#bbcodeGithub').attr('value', `[img=${githubPath}]`);
+  $('#bbcodeScratch').attr('data-bbcode', `[img=${emoji.url}]`);
+  $('#bbcodeGithub').attr('data-bbcode', `[img=${githubPath}]`);
 }
 
 function copyBBCodeScratch() {
-  navigator.clipboard.writeText($('#bbcodeScratch').attr('value'));
-  copyIndicator();
+  navigator.clipboard.writeText($('#bbcodeScratch').attr('data-bbcode'));
+  copyIndicator('#bbcodeScratch');
 }
 
 function copyBBCodeGithub() {
-  navigator.clipboard.writeText($('#bbcodeGithub').attr('value'));
-  copyIndicator();
+  navigator.clipboard.writeText($('#bbcodeGithub').attr('data-bbcode'));
+  copyIndicator('#bbcodeGithub');
 }
 
-function copyIndicator() {
-  $('#copied-to-clipboard').addClass('copy-raising');
+var isFilling = 0;
+function copyIndicator(element) {
+  if (isFilling)
+    return;
+  $(element).addClass('filling');
+  isFilling = 1;
+  $(element).val('Copied!');
   setTimeout(() => {
-    $('#copied-to-clipboard').removeClass('copy-raising');
-    $('#copied-to-clipboard').addClass('copy-lowering');
-    setTimeout(() => {
-      $('#copied-to-clipboard').removeClass('copy-lowering');
-    }, 500)
-  }, 2000)
+    $(element).removeClass('filling');
+    isFilling = 0;
+    $(element).val($(element).attr('data-bbcode'));
+  }, 2000);
 }
