@@ -139,17 +139,15 @@ function select(emoji) {
   $('#keywords').text(emoji.keywords.join(', '));
   $('#bbcodeScratch').attr('value', `[img=${emoji.url}]`);
   $('#bbcodeGithub').attr('value', `[img=${githubPath}]`);
-  $('#bbcodeScratch').attr('data-bbcode', `[img=${emoji.url}]`);
-  $('#bbcodeGithub').attr('data-bbcode', `[img=${githubPath}]`);
 }
 
 function copyBBCodeScratch() {
-  navigator.clipboard.writeText($('#bbcodeScratch').attr('data-bbcode'));
+  navigator.clipboard.writeText($('#bbcodeScratch').attr('value'));
   copyIndicator('#bbcodeScratch');
 }
 
 function copyBBCodeGithub() {
-  navigator.clipboard.writeText($('#bbcodeGithub').attr('data-bbcode'));
+  navigator.clipboard.writeText($('#bbcodeGithub').attr('value'));
   copyIndicator('#bbcodeGithub');
 }
 
@@ -163,6 +161,6 @@ function copyIndicator(element) {
   setTimeout(() => {
     $(element).removeClass('filling');
     isFilling = 0;
-    $(element).val($(element).attr('data-bbcode'));
+    $(element).val($(element).attr('value'));
   }, 2000);
 }
