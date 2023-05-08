@@ -153,24 +153,24 @@ function copyBBCodeGithub() {
 
 var isFillingScratch = 0,
   isFillingGithub = 0;
-function copyIndicator(element) {
-  if (element == "Scratch" && isFillingScratch)
+function copyIndicator(type) {
+  if (type == "Scratch" && isFillingScratch)
     return;
-  else if (element == "Github" && isFillingGithub)
+  else if (type == "Github" && isFillingGithub)
     return;
-  var elementId = `#bbcode${element}`;
-  $(elementId).addClass('filling');
-  if (element == 'Scratch')
+  var element = $(`#bbcode${type}`);
+  element.addClass('filling');
+  if (type == 'Scratch')
     isFillingScratch = 1;
-  else if (element == 'Github')
+  else if (type == 'Github')
     isFillingGithub = 1;
-  $(elementId).val('Copied!');
+  element.val('Copied!');
   setTimeout(() => {
-    $(elementId).removeClass('filling');
-    if (element == 'Scratch')
+    element.removeClass('filling');
+    if (type == 'Scratch')
       isFillingScratch = 0;
-    else if (element == 'Github')
+    else if (type == 'Github')
       isFillingGithub = 0;
-    $(elementId).val($(elementId).attr('value'));
+    element.val(element.attr('value'));
   }, 2000);
 }
