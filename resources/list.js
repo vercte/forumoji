@@ -158,19 +158,19 @@ function copyIndicator(element) {
     return;
   else if (element == "Github" && isFillingGithub)
     return;
-  element = `#bbcode${element}`;
+  var elementId = `#bbcode${element}`;
   $(element).addClass('filling');
   if (element == 'Scratch')
     isFillingScratch = 1;
   else if (element == 'Github')
     isFillingGithub = 1;
-  $(element).val('Copied!');
+  $(elementId).val('Copied!');
   setTimeout(() => {
-    $(element).removeClass('filling');
+    $(elementId).removeClass('filling');
     if (element == 'Scratch')
       isFillingScratch = 0;
     else if (element == 'Github')
       isFillingGithub = 0;
-    $(element).val($(element).attr('value'));
+    $(elementId).val($(elementId).attr('value'));
   }, 2000);
 }
