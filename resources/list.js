@@ -159,7 +159,7 @@ function copyIndicator(element) {
   else if (element == "Github" && isFillingGithub)
     return;
   var elementId = `#bbcode${element}`;
-  $(element).addClass('filling');
+  $(elementId).addClass('filling');
   if (element == 'Scratch')
     isFillingScratch = 1;
   else if (element == 'Github')
