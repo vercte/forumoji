@@ -266,3 +266,18 @@ p.preview-image, .info-label {
   background-color: var(--highlight);
   transform: translateY(-2pt);
 }
+
+.copy-preview.filling {
+  animation: copy-indication .5s forwards;
+}
+
+@keyframes copy-indication {
+  from {
+    background-color: var(--sidebar);
+    color: var(--text);
+  }
+  to {
+    background-color: var(--text);
+    color: var(--sidebar);
+  }
+}

@@ -143,8 +143,34 @@ function select(emoji) {
 
 function copyBBCodeScratch() {
   navigator.clipboard.writeText($('#bbcodeScratch').attr('value'));
+  copyIndicator('Scratch');
 }
 
 function copyBBCodeGithub() {
   navigator.clipboard.writeText($('#bbcodeGithub').attr('value'));
+  copyIndicator('Github');
+}
+
+var isFillingScratch = 0,
+  isFillingGithub = 0;
+function copyIndicator(type) {
+  if (type == "Scratch" && isFillingScratch)
+    return;
+  else if (type == "Github" && isFillingGithub)
+    return;
+  var element = $(`#bbcode${type}`);
+  element.addClass('filling');
+  if (type == 'Scratch')
+    isFillingScratch = 1;
+  else if (type == 'Github')
+    isFillingGithub = 1;
+  element.val('Copied!');
+  setTimeout(() => {
+    element.removeClass('filling');
+    if (type == 'Scratch')
+      isFillingScratch = 0;
+    else if (type == 'Github')
+      isFillingGithub = 0;
+    element.val(element.attr('value'));
+  }, 2000);
 }
