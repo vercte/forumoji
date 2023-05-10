@@ -8468,6 +8468,258 @@
       "author": [
         "notwait"
       ]
+    },
+    {
+      "codepoint": "U+1F324 U+FE0F",
+      "image": "sun-behind-small-cloud.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5271f3afa87f774c025df3276b9bcbf7.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+26C5",
+      "image": "sun-behind-cloud.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/0ab94cd0b82a0860733a0b39337e7733.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F325 U+FE0F",
+      "image": "sun-behind-large-cloud.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/daa34f8d7bccdf31eb2d45de0f7e9c56.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F326 U+FE0F",
+      "image": "sun-behind-rain-cloud.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/b7e5eec8e165771823a8facfac198b76.png",
+      "author": [
+        "kccuber",
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+26C8 U+FE0F",
+      "image": "cloud-with-lightning-and-rain.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/100c5d18d9a2addc790a90e62c2d162d.png",
+      "author": [
+        "kccuber",
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F329 U+FE0F",
+      "image": "cloud-with-lightning.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/0e39512ef15f45c1e406fca3723c5a77.png",
+      "author": [
+        "kccuber",
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F328 U+FE0F",
+      "image": "cloud-with-snow.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/72713aa1eecaaebf78cee91933b4933c.png",
+      "author": [
+        "kccuber",
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F423",
+      "image": "hatching-chick.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/3341c9c59913dc9b19deee617ca2810b.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F425",
+      "image": "front-facing-baby-chick.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/a4962be20d859e60df5c0d9dd8f95193.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F424",
+      "image": "baby-chick.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/588566f869ed0b3e7af26ee6ae26388e.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F485",
+      "image": "nail-polish.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/359628fbf0806604128ed053c577d4cd.png",
+      "author": [
+        "TheTrillion"
+      ]
+    },
+    {
+      "codepoint": "U+1F933",
+      "image": "selfie.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/1b517cec5578d9451f05d6ae31570efd.png",
+      "author": [
+        "TheTrillion"
+      ]
+    },
+    {
+      "codepoint": "U+1F947",
+      "image": "1st-place-medal.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5ba2bb979e5ca0fb81343c768345195b.png",
+      "author": [
+        "TheTrillion"
+      ]
+    },
+    {
+      "codepoint": "U+1F948",
+      "image": "2nd-place-medal.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9e9ccf891a87623f41c21ad7396057b3.png",
+      "author": [
+        "TheTrillion"
+      ]
+    },
+    {
+      "codepoint": "U+1F949",
+      "image": "3rd-place-medal.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/4c810e777a47d48c1d749d3e4cea4ea7.png",
+      "author": [
+        "TheTrillion"
+      ]
+    },
+    {
+      "codepoint": "U+1F3C5",
+      "image": "sports-medal.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/12f4792d9be0d5cc85444f7eaa59c52e.png",
+      "author": [
+        "TheTrillion"
+      ]
+    },
+    {
+      "codepoint": "U+1F396",
+      "image": "military-medal.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/02b37d8bd3dcb0b8e2b05ac92a0e42d0.png",
+      "author": [
+        "TheTrillion"
+      ]
+    },
+    {
+      "codepoint": "U+1FAC1",
+      "image": "lungs.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/3610600c6701dbead081f56b2c653c56.png",
+      "author": [
+        "TheTrillion"
+      ]
+    },
+    {
+      "codepoint": "U+1F6B6 U+200D U+2640 U+FE0F",
+      "image": "woman-walking.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/24d0fe0af2364895382f0775df6a6ee9.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F6B6 U+200D U+2642 U+FE0F",
+      "image": "man-walking.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/b2424a93de1bb7893f6bd5e01a108748.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F6B6",
+      "image": "person-walking.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/c25c63ac796c38875388b688f3d34e30.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F955",
+      "image": "carrot.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6809d44643f6db150e316565d22c6b72.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F3AF",
+      "image": "bullseye.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/1cc46793c023596c5dc1c0c61c4bd8a4.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1FA80",
+      "image": "yo-yo.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/623ddb428b4b129083e49a6251b6b0cc.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F3B1",
+      "image": "pool-8-ball.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/2c35e9e8db46abb0aad635f68bcbc29c.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F52E",
+      "image": "crystal-ball.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/a9f4bd9deb14c6dabf77afa2a9c2e706.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F3AE",
+      "image": "video-game.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/dff91ecee140ed88c024463450d331b3.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F579 U+FE0F",
+      "image": "joystick.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/20f2e33db000facc3314cf1cfc3483a8.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F9E9",
+      "image": "puzzle-piece.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/88dfe91bf187950de470e103af16710d.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F9F8",
+      "image": "teddy-bear.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/e3ae8dbda2f8b1334c5c520e287b1014.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1FA84",
+      "image": "magic-wand.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/b69e6a694a2dd6051b23e5ac9d2dd6a1.png",
+      "author": [
+        "notwait"
+      ]
     }
   ]
 }
