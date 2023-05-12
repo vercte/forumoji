@@ -101,6 +101,10 @@ h1 {
   max-width: 20em;
   /* vertical-align: middle; */
   margin: auto 0 auto 0;
+  border-style: solid;
+  border-color: var(--background);
+  background: var(--background);
+  color: var(--text);
 }
 
 #links {
