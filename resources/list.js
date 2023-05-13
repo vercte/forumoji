@@ -10,10 +10,13 @@ window.onload = function () {
           }
 
           if (item.category) {
-            //remove hidden emojis
-            item.contents = item.contents.filter(e => !hiddenEmoji.codepoints.find(c => c == e.codepoint));
+            item.contents = item.contents
+            .filter(function removeHiddenEmojis(emoji) {
+              return !hiddenEmoji.codepoints
+              .find(codepoint => codepoint == emoji.codepoint);
+            });
 
-            $.each(item.contents, function (index, content) {
+            $.each(item.contents, function (_, content) {
               addForumoji(content);
             });
           } else if (item.codepoint) {
@@ -31,43 +34,49 @@ window.onload = function () {
 
         addForumoji(unicodeEmoji);
 
-        forumoji.emoji.filter(e => !e.used).forEach(e => console.log(`invalid codepoint: ${e.codepoint} ${e.image}`));
+        forumoji.emoji
+          .filter(emoji => !emoji.used)
+          .forEach(function LogInvalidCodepoints(emoji) {
+            console.log(`invalid codepoint: ${emoji.codepoint} ${emoji.image}`)
+          });
 
         // create tile list
         function addTiles(item, container, level) {
           if (item.category) {
-            let categoryContainer = document.createElement('div');
-            $(categoryContainer).attr('id', item.category);
-            $(categoryContainer).addClass('category');
-            $(categoryContainer).addClass(`category-level-${level}`);
+            let categoryContainer = $('<div></div>')
+              .attr('id', item.category)
+              .addClass('category')
+              .addClass(`category-level-${level}`);
 
-            let categoryHeader = document.createElement('p');
-            $(categoryHeader).text(item.category);
-            $(categoryContainer).append(categoryHeader);
+            let categoryHeader = $('<p></p>')
+              .text(item.category);
 
-            $.each(item.contents, function (index, content) {
+            categoryContainer.append(categoryHeader);
+
+            $.each(item.contents, function (_, content) {
               addTiles(content, categoryContainer, level + 1);
             });
 
             $(container).append(categoryContainer);
           } else if (item.codepoint) {
             if (item.image) {
-              let tileImage = document.createElement('img');
-              $(tileImage).attr('src', 'resources/forumoji/' + item.image);
-              $(tileImage).attr('alt', item.name);
-              $(tileImage).attr('tabindex', 0);
-              $(tileImage).attr('id', item.codepoint);
-              $(tileImage).addClass('tile');
-              // change the unpacking to support multiple authors
-              $(tileImage).addClass('author-' + item.author.join(' '));
-              $.each(item.keywords, function (index, keyword) {
-                $(tileImage).addClass('keyword-' + keyword.split(' ').join('-'))
+              let tileImage = $('<img>')
+                .attr('src', 'resources/forumoji/' + item.image)
+                .attr('alt', item.name)
+                .attr('tabindex', 0)
+                .attr('id', item.codepoint)
+                .addClass('tile')
+                // change the unpacking to support multiple authors
+                .addClass('author-' + item.author.join(' '));
+              $.each(item.keywords, function (_, keyword) {
+                tileImage.addClass('keyword-' + keyword.split(' ').join('-'))
               });
 
-              $(tileImage).click(function () { select(item) });
-              $(tileImage).keydown(function ({ key }) {
-                if (key == 'Enter' || key == ' ') select(item)
-              });
+              tileImage
+                .click(function SelectClicked() { select(item) })
+                .keydown(function Select_From_Common_KeyboardOnly_Selectors({ key }) {
+                  if (key == 'Enter' || key == ' ') select(item)
+                });
 
               $(container).append(tileImage);
             }
@@ -78,36 +87,34 @@ window.onload = function () {
         hideEmptyCategories();
 
         let tiles = $('.tile');
-        let randomTile = tiles[Math.floor(Math.random() * tiles.length)]
+        let randomTile = tiles[Math.floor(Math.random() * tiles.length)];
         $(randomTile).click();
       });
     });
   });
 
-  // search bar
-  document.querySelector('#search').addEventListener('input', function (e) {
-    let query = e.srcElement.value;
-    let unicodeRepr = Array.from(query)
-    .map(s => s.codePointAt(0))
-    .map(c => c.toString(16))
-    .map(n => (n.length > 3 ? '' : '0'.repeat(4 - n.length)) + n)
-    .map(h => 'U+' + h.toUpperCase())
+  $('#search').on('input', function PerformSearch({ target: { value: query } }) {
+    let unicodeRepr = query.split('')
+    .map(string => string.codePointAt(0))
+    .map(codepoint => codepoint.toString(16))
+    .map(hexRep => (hexRep.length > 3 ? '' : '0'.repeat(4 - hexRep.length)) + hexRep)
+    .map(unicode => 'U+' + unicode.toUpperCase())
     .join(' ');
     let notFound;
-    for (let i of document.querySelectorAll('#list img')) {
-      i.removeAttribute('hidden');
-      notFound = unicodeRepr !== i.id;
-      for (let j of Array.from(i.classList).concat(['keyword-' + i.getAttribute('alt')])) {
-        if (!notFound) { break; }
-        if (/^keyword-/.test(j)) {
-          if (j.toLowerCase().slice(8).includes(query.toLowerCase())) {
-            notFound = false;
-          }
-        }
+    for (let image of document.querySelectorAll('#list img')) {
+      image.removeAttribute('hidden');
+      notFound = unicodeRepr !== image.id;
+      let keywordList = Array.from(image.classList).concat(['keyword-' + image.getAttribute('alt')]);
+      for (let keyword of keywordList) {
+        if (!notFound) break;
+
+        let isKeyword = /^keyword-/.test(keyword),
+        hasQueried = keyword.toLowerCase().slice(8).includes(query.toLowerCase())
+        if (isKeyword && hasQueried)
+          notFound = false;
       }
-      if (notFound) {
-        i.setAttribute('hidden', '');
-      }
+      if (notFound)
+        image.setAttribute('hidden', '');
     }
 
     hideEmptyCategories();
@@ -122,11 +129,12 @@ function hideEmptyCategories() {
 
 function select(emoji) {
   $('.selected').removeClass('selected');
-  document.getElementById(emoji.codepoint).classList.add('selected');
+  $(`#${emoji.codepoint}`).addClass('selected');
 
   let githubPath = `https://lopste.github.io/forumoji/resources/forumoji/${emoji.image}`;
-  $('img.preview-image').attr('src', 'resources/forumoji/' + emoji.image);
-  $('img.preview-image').attr('alt', emoji.name);
+  $('img.preview-image')
+    .attr('src', 'resources/forumoji/' + emoji.image)
+    .attr('alt', emoji.name);
   $('#emoji-codepoint').text(emoji.codepoint)
   $('#name').text(emoji.name);
   $('#contributors').html(emoji.author.join(',<br>'));
@@ -151,26 +159,20 @@ function copyBBCodeGithub() {
   copyIndicator('Github');
 }
 
-var isFillingScratch = 0,
-  isFillingGithub = 0;
+var isFilling = {
+  'Scratch': 0,
+  'Github': 0,
+}
 function copyIndicator(type) {
-  if (type == "Scratch" && isFillingScratch)
-    return;
-  else if (type == "Github" && isFillingGithub)
+  if (isFilling[type])
     return;
   var element = $(`#bbcode${type}`);
   element.addClass('filling');
-  if (type == 'Scratch')
-    isFillingScratch = 1;
-  else if (type == 'Github')
-    isFillingGithub = 1;
   element.val('Copied!');
-  setTimeout(() => {
+  isFilling[type] = 1;
+  setTimeout(function UnsetFillingMode() {
     element.removeClass('filling');
-    if (type == 'Scratch')
-      isFillingScratch = 0;
-    else if (type == 'Github')
-      isFillingGithub = 0;
     element.val(element.attr('value'));
+    isFilling[type] = 0;
   }, 2000);
 }
