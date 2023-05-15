@@ -1,119 +1,115 @@
-window.onload = function () {
-  // do some promise stuff to make this look better
-  $.getJSON('resources/unicode-emoji.json', function (unicodeEmoji) {
-    $.getJSON('resources/forumoji.json', function (forumoji) {
-      $.getJSON('resources/hidden-emoji.json', function (hiddenEmoji) {
-        // add forumoji data to unicode list
-        function addForumoji(item) {
-          if (item.comment) {
-            delete item.comment;
-          }
+window.onload = async function() {
+  const unicodeEmoji = await $.getJSON('resources/unicode-emoji.json'),
+        forumoji = await $.getJSON('resources/forumoji.json'),
+        hiddenEmoji = await $.getJSON('resources/hidden-emoji.json');
+  // add forumoji data to unicode list
+  function addForumoji(item) {
+    if (item.comment) {
+      delete item.comment;
+    }
 
-          var isCategory = 'category' in item,
-            hasCodepoint = 'codepoint' in item;
-          if (isCategory) {
-            item.contents = item.contents
-            .filter(function removeHiddenEmojis(emoji) {
-              return !hiddenEmoji.codepoints
-              .find(codepoint => codepoint == emoji.codepoint);
-            });
+    var isCategory = 'category' in item,
+      hasCodepoint = 'codepoint' in item;
+    if (isCategory) {
+      item.contents = item.contents
+        .filter(function removeHiddenEmojis(emoji) {
+          return !hiddenEmoji.codepoints
+            .find(codepoint => codepoint == emoji.codepoint);
+        });
 
-            $.each(item.contents, function (_, content) {
-              addForumoji(content);
-            });
-
-            return;
-          }
-          if (hasCodepoint) {
-            let emoji = forumoji.emoji.filter(function KeepExisting(Emoji) {
-              return (Emoji.codepoint.toLowerCase() == item.codepoint.toLowerCase());
-            });
-            emoji.forEach(function MarkAsUsed(Emoji) {
-              Emoji.used = true;
-            });
-            if (emoji.length > 1) {
-              console.log(`duplicate emoji: ${item.codepoint} ${item.name}`);
-            } else if (emoji.length > 0) {
-              emoji = emoji.pop();
-              item.image = emoji.image;
-              item.url = emoji.url.replace(/^https:\/\/assets\.scratch\.mit\.edu\/(?=[0-9a-f])/i, 'https://assets.scratch.mit.edu/get_image/.%2E/');
-              item.author = emoji.author;
-            }
-
-            return;
-          }
-        }
-
-        addForumoji(unicodeEmoji);
-
-        forumoji.emoji
-          .filter(emoji => !emoji.used)
-          .forEach(function LogInvalidCodepoints(emoji) {
-            console.log(`invalid codepoint: ${emoji.codepoint} ${emoji.image}`)
-          });
-
-        // create tile list
-        function addTiles(item, container, level) {
-          let isForumoji = 'codepoint' in item && 'image' in item,
-            isCategory = 'category' in item;
-          if (isCategory) {
-            let categoryContainer = $('<div></div>')
-              .attr('id', item.category)
-              .addClass('category')
-              .addClass(`category-level-${level}`);
-
-            let categoryHeader = $('<p></p>')
-              .text(item.category);
-
-            categoryContainer.append(categoryHeader);
-
-            $.each(item.contents, function GoThroughCategoryContents(_, content) {
-              addTiles(content, categoryContainer, level + 1);
-            });
-
-            $(container).append(categoryContainer);
-
-            return;
-          }
-          if (isForumoji) {
-            let tileImage = $('<img>')
-              .attr('src', 'resources/forumoji/' + item.image)
-              .attr('alt', item.name)
-              .attr('tabindex', 0)
-              .attr('id', item.codepoint)
-              .addClass('tile')
-              // change the unpacking to support multiple authors
-              .addClass('author-' + item.author.join(' '));
-            $.each(item.keywords, function (_, keyword) {
-              tileImage.addClass('keyword-' + keyword.split(' ').join('-'))
-            });
-
-            tileImage
-              .click(function SelectClicked() { 
-                select(item);
-              })
-              .keydown(function SelectedViaKeyboard({ key }) {
-                var Enter = 'Enter',
-                  Space = ' '
-                if (key == Enter || key == Space)
-                  select(item);
-              });
-
-            $(container).append(tileImage);
-
-            return;
-          }
-        }
-
-        addTiles(unicodeEmoji, $('#list'), 0);
-        hideEmptyCategories();
-
-        let tiles = $('.tile');
-        let randomTile = tiles[Math.floor(Math.random() * tiles.length)];
-        $(randomTile).click();
+      $.each(item.contents, function GoThroughCategoryContents(_, content) {
+        addForumoji(content);
       });
+
+      return;
+    }
+    if (hasCodepoint) {
+      let emoji = forumoji.emoji.filter(function KeepExisting(Emoji) {
+        return (Emoji.codepoint.toLowerCase() == item.codepoint.toLowerCase());
+      });
+      emoji.forEach(function MarkAsUsed(Emoji) {
+        Emoji.used = true;
+      });
+      if (emoji.length > 1) {
+        console.log(`duplicate emoji: ${item.codepoint} ${item.name}`);
+      } else if (emoji.length > 0) {
+        emoji = emoji.pop();
+        item.image = emoji.image;
+        item.url = emoji.url.replace(/^https:\/\/assets\.scratch\.mit\.edu\/(?=[0-9a-f])/i, 'https://assets.scratch.mit.edu/get_image/.%2E/');
+        item.author = emoji.author;
+      }
+
+      return;
+    }
+  }
+
+  addForumoji(unicodeEmoji);
+
+  forumoji.emoji
+    .filter(emoji => !emoji.used)
+    .forEach(function LogInvalidCodepoints(emoji) {
+      console.log(`invalid codepoint: ${emoji.codepoint} ${emoji.image}`)
     });
-  });
+
+  // create tile list
+  function addTiles(item, container, level) {
+    let isForumoji = 'codepoint' in item && 'image' in item,
+      isCategory = 'category' in item;
+    if (isCategory) {
+      let categoryContainer = $('<div></div>')
+        .attr('id', item.category)
+        .addClass('category')
+        .addClass(`category-level-${level}`);
+
+      let categoryHeader = $('<p></p>')
+        .text(item.category);
+
+      categoryContainer.append(categoryHeader);
+
+      $.each(item.contents, function GoThroughCategoryContents(_, content) {
+        addTiles(content, categoryContainer, level + 1);
+      });
+
+      $(container).append(categoryContainer);
+
+      return;
+    }
+    if (isForumoji) {
+      let tileImage = $('<img>')
+        .attr('src', 'resources/forumoji/' + item.image)
+        .attr('alt', item.name)
+        .attr('tabindex', 0)
+        .attr('id', item.codepoint)
+        .addClass('tile')
+        // change the unpacking to support multiple authors
+        .addClass('author-' + item.author.join(' '));
+      $.each(item.keywords, function (_, keyword) {
+        tileImage.addClass('keyword-' + keyword.split(' ').join('-'))
+      });
+
+      tileImage
+        .click(function SelectClicked() { 
+          select(item);
+        })
+        .keydown(function SelectedViaKeyboard({ key }) {
+          var Enter = 'Enter',
+            Space = ' '
+          if (key == Enter || key == Space)
+            select(item);
+        });
+
+      $(container).append(tileImage);
+
+      return;
+    }
+  }
+
+  addTiles(unicodeEmoji, $('#list'), 0);
+  hideEmptyCategories();
+
+  let tiles = $('.tile');
+  let randomTile = tiles[Math.floor(Math.random() * tiles.length)];
+  $(randomTile).click();
 
   $('#search').on('input', function PerformSearch({ target: { value: query } }) {
     let JQueryBreak = false,
@@ -124,23 +120,23 @@ window.onload = function () {
         .map(unicode => 'U+' + unicode.toUpperCase())
         .join(' '),
       notFound = true;
-    $('#list img').each(function (_) {
+    $('#list img').each(function PerformSearch(_) {
       var image = $(this);
       image.removeAttr('hidden');
       notFound = unicodeRepr !== image.attr('id');
       let classList = image.attr('class').split(' '),
         keywordList = classList.concat(['keyword-' + image.attr('alt')]);
-      $.each(keywordList, function (__, keyword) {
+      $.each(keywordList, function TestForKeywords(__, keyword) {
         if (!notFound)
           return JQueryBreak;
         let isKeyword = /^keyword-/.test(keyword),
-          hasQueried = keyword.toLowerCase().slice(8).includes(query.toLowerCase())
+          hasQueried = keyword.toLowerCase().slice(8).includes(query.toLowerCase());
         if (isKeyword && hasQueried)
           notFound = false;
-      })
+      });
       if (notFound)
         image.attr('hidden', '');
-    })
+    });
 
     hideEmptyCategories();
   });
@@ -162,13 +158,13 @@ function select(emoji) {
     .attr('alt', emoji.name);
   $('#emoji-codepoint').text(emoji.codepoint);
   $('#name').text(emoji.name);
+  $('#keywords').text(emoji.keywords.join(', '));
   $('#contributors').html(emoji.author.join(',<br>'));
 
   $('#contributors-label').text('Emoji contributor:');
   if (emoji.author.length > 1)
     $('#contributors-label').text('Emoji contributors:');
 
-  $('#keywords').text(emoji.keywords.join(', '));
   $('#bbcodeScratch').attr('value', `[img=${emoji.url}]`);
   $('#bbcodeGithub').attr('value', `[img=${githubPath}]`);
 }
