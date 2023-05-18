@@ -1,25 +1,29 @@
-var HTML = document.documentElement,
-  current_theme =
-    localStorage.getItem("forumoji-theme") || // local storage is shared across lopste.github.io, so avoid conflicts just in case
-    ((window.matchMedia("(prefers-color-scheme: dark)") &&
-    window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "default"),
+const prefersDark = matchMedia('(prefers-color-scheme: dark)') && matchMedia('(prefers-color-scheme: dark)').matches,
+  defaultTheme = prefersDark ? 'dark' : 'default',
   themes = [
-    "default",
-    "dark",
-    "blue",
-    "blue-dark"
-  ],
-  theme_button = $("#theme_button"),
-  set_theme = (theme) => {
-    current_theme = theme;
-    localStorage.setItem("forumoji-theme", theme);
-    HTML.className = theme;
-  };
+    'default',
+    'dark',
+    'blue',
+    'blue-dark'
+  ];
 
-theme_button.click(function switch_theme() {
-  let next_index = themes.indexOf(current_theme) + 1;
-  if (next_index >= themes.length)
-    return set_theme(themes[0]);
-  set_theme(themes[next_index]);
+var currentTheme =
+  localStorage.getItem('forumoji-theme') || // local storage is shared across lopste.github.io, so avoid conflicts just in case
+  defaultTheme;
+
+$('#theme_button').click(function switch_theme() {
+  let next_index = themes.indexOf(currentTheme) + 1;
+  if (next_index >= themes.length) {
+    setTheme(themes[0]);
+    return;
+  }
+  setTheme(themes[next_index]);
 })
-set_theme(current_theme);
+
+setTheme(currentTheme);
+
+function setTheme(theme) {
+  currentTheme = theme;
+  localStorage.setItem('forumoji-theme', theme);
+  $('html').attr('class', theme);
+};
