@@ -169,15 +169,15 @@ function select(emoji) {
   $('#bbcodeGithub').attr('value', `[img=${githubPath}]`);
 }
 
-function copyBBCodeScratch() {
-  navigator.clipboard.writeText($('#bbcodeScratch').attr('value'));
-  copyIndicator('Scratch');
+function copyBBCode(event) {
+  let bbcodeElement = event.target.previousElementSibling,
+      bbcode = bbcodeElement.value,
+      host = bbcodeElement.dataset.host;
+  navigator.clipboard.writeText(bbcode);
+  copyIndicator(host)
 }
 
-function copyBBCodeGithub() {
-  navigator.clipboard.writeText($('#bbcodeGithub').attr('value'));
-  copyIndicator('Github');
-}
+$('.copy-button').on('click', copyBBCode)
 
 var isFilling = {
   Scratch: false,
