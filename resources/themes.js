@@ -11,13 +11,13 @@ var currentTheme =
   localStorage.getItem('forumoji-theme') || // local storage is shared across lopste.github.io, so avoid conflicts just in case
   defaultTheme;
 
-$('#theme_button').click(function switch_theme() {
-  let next_index = themes.indexOf(currentTheme) + 1;
-  if (next_index >= themes.length) {
+$('#theme-button').click(function switch_theme() {
+  let nextIndex = themes.indexOf(currentTheme) + 1;
+  if (nextIndex >= themes.length) {
     setTheme(themes[0]);
     return;
   }
-  setTheme(themes[next_index]);
+  setTheme(themes[nextIndex]);
 })
 
 setTheme(currentTheme);

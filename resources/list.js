@@ -4,9 +4,8 @@ window.onload = async function() {
         hiddenEmoji = await $.getJSON('resources/hidden-emoji.json');
   // add forumoji data to unicode list
   function addForumoji(item) {
-    if (item.comment) {
+    if (item.comment)
       delete item.comment;
-    }
 
     var isCategory = 'category' in item,
       hasCodepoint = 'codepoint' in item;
@@ -25,7 +24,9 @@ window.onload = async function() {
     }
     if (hasCodepoint) {
       let emoji = forumoji.emoji.filter(function KeepExisting(Emoji) {
-        return (Emoji.codepoint.toLowerCase() == item.codepoint.toLowerCase());
+        var selectedCodepoint = Emoji.codepoint.toLowerCase(),
+          evaluationCodepoint = item.codepoint.toLowerCase()
+        return (selectedCodepoint == evaluationCodepoint);
       });
       emoji.forEach(function MarkAsUsed(Emoji) {
         Emoji.used = true;
@@ -107,8 +108,8 @@ window.onload = async function() {
   addTiles(unicodeEmoji, $('#list'), 0);
   hideEmptyCategories();
 
-  let tiles = $('.tile');
-  let randomTile = tiles[Math.floor(Math.random() * tiles.length)];
+  let tiles = $('.tile'),
+      randomTile = tiles[Math.floor(Math.random() * tiles.length)];
   $(randomTile).click();
 
   $('#search').on('input', function PerformSearch({ target: { value: query } }) {
@@ -120,13 +121,13 @@ window.onload = async function() {
         .map(unicode => 'U+' + unicode.toUpperCase())
         .join(' '),
       notFound = true;
-    $('#list img').each(function PerformSearch(_) {
+    $('#list img').each(function PerformSearch() {
       var image = $(this);
       image.removeAttr('hidden');
       notFound = unicodeRepr !== image.attr('id');
       let classList = image.attr('class').split(' '),
         keywordList = classList.concat(['keyword-' + image.attr('alt')]);
-      $.each(keywordList, function TestForKeywords(__, keyword) {
+      $.each(keywordList, function TestForKeywords(_, keyword) {
         if (!notFound)
           return JQueryBreak;
         let isKeyword = /^keyword-/.test(keyword),
@@ -146,6 +147,9 @@ window.onload = async function() {
 function hideEmptyCategories() {
   $('.category').attr('hidden', true);
   $('.tile[hidden!="hidden"]').parents('.category').removeAttr('hidden');
+  /*
+  .category:not(:has(.tile[hidden!="hidden"]))
+  */
 }
 
 function select(emoji) {
@@ -174,9 +178,8 @@ function copyBBCode(event) {
       bbcode = bbcodeElement.value,
       host = bbcodeElement.dataset.host;
   navigator.clipboard.writeText(bbcode);
-  copyIndicator(host)
+  copyIndicator(host);
 }
-
 $('.copy-button').on('click', copyBBCode)
 
 var isFilling = {
