@@ -37,5 +37,7 @@ Here's what you should put in those sections:
 ```
 Remember to add a comma after each new item in the list, but *don't* add one after the last new item.
 
-## Scratch Topic
-Forumoji has a [topic on the Scratch Forums](https://scratch.mit.edu/discuss/topic/557083/); this is where most discussion about the project takes place, including important updates from @lopste. Some contributors may opt to post their emojis on Scratch first before contributing them here.
+## Scratch Forums
+Forumoji has a [topic on Discuss Scratch](https://scratch.mit.edu/discuss/topic/557083/); this is where most discussion about the project takes place.
+
+If you have a question, would like to request an emoji, or just want to talk about the project, this is a good place to do it.
