@@ -12,6 +12,8 @@ html.neutral {
   --highlight: #f7f7f7;
 }
 
+/* Themes Proper */
+
 html.default {
   --header: #ffaa00;
   --background: #ffffff;
@@ -47,6 +49,8 @@ html.blue-dark {
   --sidebar: #0a0a0a;
   --highlight: #ffffff;
 }
+
+/* Themes Proper */
 
 /* ---- */
 /* page */

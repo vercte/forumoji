@@ -3,18 +3,20 @@ var HTML = document.documentElement,
     localStorage.getItem("forumoji-theme") || // local storage is shared across lopste.github.io, so avoid conflicts just in case
     ((window.matchMedia("(prefers-color-scheme: dark)") &&
     window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "default"),
-  themes = [
-    "default",
-    "dark",
-    "blue",
-    "blue-dark"
-  ],
   theme_button = $("#theme_button"),
   set_theme = (theme) => {
     current_theme = theme;
     localStorage.setItem("forumoji-theme", theme);
     HTML.className = theme;
   };
+
+var themes = [
+  "default",
+  "dark",
+  "blue",
+  "blue-dark"
+];
+detectThemes()
 
 theme_button.click(function switch_theme() {
   let next_index = themes.indexOf(current_theme) + 1;
@@ -23,3 +25,12 @@ theme_button.click(function switch_theme() {
   set_theme(themes[next_index]);
 })
 set_theme(current_theme);
+
+async function detectThemes() {
+  let listCSS = await (await fetch("./list.css")).text(),
+      themesProper = listCSS.split("/* Themes Proper */")[1],
+      themeList = themesProper.split("html.").map(function (theme_) {
+        return theme_.split(" ")[0];
+      }).slice(1);
+  themes = themeList;
+}
