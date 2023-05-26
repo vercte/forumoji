@@ -9,7 +9,7 @@ const prefersDark = window.matchMedia('(prefers-color-scheme: dark)'),
   defaultTheme = prefersDark?.matches ? 'dark' : 'default';
 
 var currentTheme =
-  localStorage.getItem('forumoji-theme') || // local storage is shared across lopste.github.io, so avoid conflicts just in case
+  localStorage.getItem('forumoji-theme') || // local storage is shared across gh.vercte.net, so avoid conflicts just in case
   defaultTheme;
 
 $('#theme-button').click(function switchTheme() {
