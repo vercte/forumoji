@@ -5,10 +5,12 @@ const themes = [
     'blue-dark'
   ];
 
+const prefersDark = window.matchMedia('(prefers-color-scheme: dark)'),
+  defaultTheme = prefersDark?.matches ? 'dark' : 'default';
+
 var currentTheme =
   localStorage.getItem('forumoji-theme') || // local storage is shared across lopste.github.io, so avoid conflicts just in case
-  ((window.matchMedia('(prefers-color-scheme: dark)') &&
-  window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'default');
+  defaultTheme;
 
 $('#theme-button').click(function switchTheme() {
   let nextIndex = themes.indexOf(currentTheme) + 1;
