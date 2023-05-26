@@ -10,7 +10,7 @@ var currentTheme =
   ((window.matchMedia('(prefers-color-scheme: dark)') &&
   window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'default');
 
-$('#theme-button').click(function switch_theme() {
+$('#theme-button').click(function switchTheme() {
   let nextIndex = themes.indexOf(currentTheme) + 1;
   if (nextIndex >= themes.length)
     return setTheme(themes[0]);
