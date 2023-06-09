@@ -40,13 +40,11 @@ const emoji = computed(() => {
     .join("");
 });
 
+const absoluteEmojiImage = `https://raw.githubusercontent.com/lopste/forumoji/main/resources/forumoji/${props.image}`;
 const emojiImageFrom = (url: string) => {
   return `/resources/forumoji/${url}`;
 };
-
-const emojiImage = computed(() => {
-  return emojiImageFrom(props.image);
-});
+const emojiImage = emojiImageFrom(props.image);
 </script>
 
 <template>
@@ -94,7 +92,7 @@ const emojiImage = computed(() => {
           Copy from assets</Url
         >
         •
-        <Url @click="copy(emojiImage)">
+        <Url @click="copy(absoluteEmojiImage)">
           <img
             :src="emojiImageFrom('clipboard.png')"
             role="presentation"
