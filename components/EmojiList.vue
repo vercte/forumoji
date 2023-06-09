@@ -69,7 +69,7 @@ const search = (stringQuery: string) => {
     </details>
     <p class="my-14 w-full text-center text-3xl font-bold">
       That's all for now! If you want to add your own, you can find out how in
-      the "About" section above.
+      the GitHub repository or the forum topic.
     </p>
   </div>
 </template>
