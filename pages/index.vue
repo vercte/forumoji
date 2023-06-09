@@ -4,11 +4,7 @@ const content: {
   image: string;
   url: string;
   author: string[];
-}[] = (
-  await fetch(
-    "https://raw.githubusercontent.com/lopste/forumoji/main/resources/forumoji.json"
-  ).then((r) => r.json())
-).emoji;
+}[] = (await fetch("/resources/forumoji.json").then((r) => r.json())).emoji;
 </script>
 
 <template>
