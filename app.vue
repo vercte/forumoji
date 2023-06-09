@@ -6,7 +6,7 @@ effect(() => {
 </script>
 
 <template>
-  <Html :class="{ dark }"></Html>
+  <Html :class="{ dark }" lang="en"></Html>
   <Body class="dark:bg-gray-900 dark:text-white"></Body>
   <div>
     <header
@@ -16,6 +16,7 @@ effect(() => {
         <h1 class="inline-block text-3xl font-semibold">
           Forum<img
             class="pixelated inline-block h-8 w-8"
+            alt="o"
             src="/resources/forumoji/grinning-face.png"
           />ji
         </h1>
@@ -30,7 +31,7 @@ effect(() => {
         </nav>
       </div>
       <div class="flex items-end">
-        <button @click="dark = !dark">
+        <button type="button" @click="dark = !dark">
           <img
             :src="
               dark

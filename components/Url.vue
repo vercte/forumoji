@@ -14,6 +14,7 @@ defineProps<{
   </NuxtLink>
   <button
     class="font-bold text-blue-800 hover:underline dark:text-blue-200"
+    type="button"
     v-else
   >
     <slot></slot>
