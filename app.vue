@@ -35,8 +35,8 @@ effect(() => {
           <img
             :src="
               dark
-                ? 'https://lopste.github.io/forumoji/resources/forumoji/first-quarter-moon-face.png'
-                : 'https://lopste.github.io/forumoji/resources/forumoji/sun-with-face.png'
+                ? '/resources/forumoji/first-quarter-moon-face.png'
+                : '/resources/forumoji/sun-with-face.png'
             "
             :alt="dark ? 'Light mode' : 'Dark mode'"
             class="pixelated h-8 w-8"
