@@ -161,7 +161,7 @@ function select(emoji) {
     .attr('alt', emoji.name);
   $('#emoji-codepoint').text(emoji.codepoint);
   $('#name').text(emoji.name);
-  $('#keywords').text(emoji.keywords.join(', '));
+  $('#keywords').text(emoji.codepoint.split(' ').map((codePoint) => String.fromCodePoint(parseInt(codePoint.slice(2), 16))).join("") + ' ' + emoji.name);
   $('#contributors').html(emoji.author.join(',<br>'));
 
   $('#contributors-label').text('Emoji contributor:');
