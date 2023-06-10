@@ -161,8 +161,14 @@ function select(emoji) {
     .attr('alt', emoji.name);
   $('#emoji-codepoint').text(emoji.codepoint);
   $('#name').text(emoji.name);
-  $('#keywords').text(emoji.codepoint.split(' ').map((codePoint) => String.fromCodePoint(parseInt(codePoint.slice(2), 16))).join("") + ' ' + emoji.name);
   $('#contributors').html(emoji.author.join(',<br>'));
+
+  let codepoints = emoji.codepoint.split(' '),
+    unicodeEmojis = codepoints.map(function convertToUnicode(codepoint) {
+      let unicodeCodepointInt = parseInt(codepoint.slice(2), 16);
+      return String.fromCodePoint(unicodeCodepointInt);
+    }).join("")
+  $('#keywords').text(`${unicodeEmojis} ${emoji.name}`);
 
   $('#contributors-label').text('Emoji contributor:');
   if (emoji.author.length > 1)
