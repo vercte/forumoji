@@ -21,8 +21,7 @@ window.onload = async function() {
       });
 
       return;
-    }
-    if (hasCodepoint) {
+    } else if (hasCodepoint) {
       let emoji = forumoji.emoji.filter(function KeepExisting(Emoji) {
         var selectedCodepoint = Emoji.codepoint.toLowerCase(),
           evaluationCodepoint = item.codepoint.toLowerCase()
