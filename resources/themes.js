@@ -9,7 +9,7 @@ var HTML = document.documentElement,
     "blue",
     "blue-dark"
   ],
-  theme_button = $("#theme_button"),
+  theme_button = $("#theme-button"),
   set_theme = (theme) => {
     current_theme = theme;
     localStorage.setItem("forumoji-theme", theme);
