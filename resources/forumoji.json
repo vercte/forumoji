@@ -8731,6 +8731,38 @@
       "author": [
         "notwait"
       ]
+    },
+    {
+      "codepoint": "U+270D",
+      "image": "writing-hand.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6a0f8b9e3c5ba4c3937fe6b462bcb3cb.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F932",
+      "image": "palms-up-together.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/e3f291dd9fe2f1ddc1368c0e17959ab0.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F64C",
+      "image": "raising-hands.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6de227fbe968ba26e8c87ca63efc49ac.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F44C",
+      "image": "ok-hand.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/2c7e4deac6f75b7d453c73c46c03a854.png",
+      "author": [
+        "mcgoomba"
+      ]
     }
   ]
 }
