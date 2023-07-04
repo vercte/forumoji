@@ -8763,6 +8763,78 @@
       "author": [
         "mcgoomba"
       ]
+    },
+    {
+      "codepoint": "U+1F331",
+      "image": "seedling.png",
+      "url": "https://u.cubeupload.com/notwait/seedling.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1FAB4",
+      "image": "potted_plant.png",
+      "url": "https://u.cubeupload.com/notwait/pottedplant.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F33E",
+      "image": "ear_of_rice.png",
+      "url": "https://u.cubeupload.com/notwait/earofrice.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F340",
+      "image": "4_leaf_clover.png",
+      "url": "https://u.cubeupload.com/notwait/4leafclover.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F4DB",
+      "image": "name_badge.png",
+      "url": "https://u.cubeupload.com/notwait/namebadge.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F9D1 U+200D U+1F4BB",
+      "image": "person_technologist.png",
+      "url": "https://u.cubeupload.com/notwait/persontechnologist.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F468 U+200D U+1F4BB",
+      "image": "man_technologist.png",
+      "url": "https://u.cubeupload.com/notwait/mantechnologist.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F469 U+200D U+1F4BB",
+      "image": "woman_technologist.png",
+      "url": "https://u.cubeupload.com/notwait/womantechnologist.png",
+      "author": [
+        "notwait"
+      ]
+    },
+    {
+      "codepoint": "U+1F335",
+      "image": "cactus.png",
+      "url": "https://u.cubeupload.com/notwait/cactus.png",
+      "author": [
+        "notwait"
+      ]
     }
   ]
 }
