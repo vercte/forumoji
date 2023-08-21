@@ -7,7 +7,9 @@ var HTML = document.documentElement,
     "default",
     "dark",
     "blue",
-    "blue-dark"
+    "blue-dark",
+    "purple",
+    "purple-dark",
   ],
   theme_button = $("#theme_button"),
   set_theme = (theme) => {

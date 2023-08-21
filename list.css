@@ -48,6 +48,23 @@ html.blue-dark {
   --highlight: #ffffff;
 }
 
+html.purple-dark {
+  --header: #855cd6;
+  --background: #111111;
+  --header-text: #ffffff;
+  --text: #fff;
+  --sidebar: #0a0a0a;
+  --highlight: #ffffff;
+}
+
+html.purple {
+  --header: #855cd6;
+  --background: #ffffff;
+  --header-text: #ffffff;
+  --text: #181a1c;
+  --sidebar: #f7f7f7;
+  --highlight: #855cd6;
+}
 /* ---- */
 /* page */
 /* ---- */
