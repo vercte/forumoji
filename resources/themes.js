@@ -2,7 +2,9 @@ const themes = [
     'default',
     'dark',
     'blue',
-    'blue-dark'
+    'blue-dark',
+    'purple',
+    'purple-dark',
   ];
 
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)'),

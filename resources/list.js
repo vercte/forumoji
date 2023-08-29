@@ -128,7 +128,7 @@ function select(emoji) {
   $('img.preview-image').attr('src', 'resources/forumoji/' + emoji.image);
   $('img.preview-image').attr('alt', emoji.name);
   $('#emoji-codepoint').text(emoji.codepoint)
-  $('#name').text(emoji.name);
+  $('#name').text(emoji.codepoint.split(' ').map((codePoint) => String.fromCodePoint(parseInt(codePoint.slice(2), 16))).join("") + ' ' + emoji.name);
   $('#contributors').html(emoji.author.join(',<br>'));
   if (emoji.author.length > 1) {
     $('#contributors-label').text('Emoji contributors:')
