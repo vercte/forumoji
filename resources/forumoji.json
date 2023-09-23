@@ -210,17 +210,19 @@
     {
       "codepoint": "U+1F44D",
       "image": "thumbs-up.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/26a731fe60b4825854fb91b3c93632d6.svg",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/1aff4d40d96be1be0a4c5397aed5323d.png",
       "author": [
-        "lolecksdeehaha"
+        "lolecksdeehaha",
+        "64lu"
       ]
     },
     {
       "codepoint": "U+1F44E",
       "image": "thumbs-down.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/c26b881dea788cca3142f5a267982df6.svg",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7cc6aded2b1afc8b20e3869d516f5226.png",
       "author": [
-        "lolecksdeehaha"
+        "lolecksdeehaha",
+        "64lu"
       ]
     },
     {
@@ -979,9 +981,9 @@
     {
       "codepoint": "U+1F92F",
       "image": "face-with-exploding-head.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/30596b451dc93a9389e9c791e707e82a.svg",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6220b5ed39ab17f2c327cbedf2abe3b8.png",
       "author": [
-        "mybearworld"
+        "mcgoomba"
       ]
     },
     {
@@ -8835,6 +8837,38 @@
       "author": [
         "notwait"
       ]
+    },
+    {
+      "codepoint": "U+1F42D",
+      "image": "mouse-face.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9485dd108504f071b69d5e3a00f4858b.png",
+      "author": [
+        "mcgoomba"
+      ]
+    },
+    {
+      "codepoint": "U+1F446",
+      "image": "backhand-up.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/19b7ad01451d0a0384f9b60fd20bcc59.png",
+      "author": ["mcgoomba"]
+    },
+    {
+      "codepoint": "U+1F447",
+      "image": "backhand-down.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/ab9366d05c44d730de7c026f8172f165.png",
+      "author": ["mcgoomba"]
+    },
+    {
+      "codepoint": "U+1F6AA",
+      "image": "door.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9de4f785783f33dc8ed9515e384363c9.png",
+      "author": ["TheTrillion"]
+    },
+    {
+      "codepoint": "U+1F3F7",
+      "image": "label.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/a545d080f055fbc8ec596c26f80b911e.png",
+      "author": ["TheTrillion"]
     }
   ]
 }
