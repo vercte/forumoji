@@ -7088,10 +7088,9 @@
     {
       "codepoint": "U+1F4C0",
       "image": "dvd.png",
-      "url": "https://assets.scratch.mit.edu/get_image/.%2E/5dafb7fcde8ad6f4f91927adfa5b5e48.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/7f240d8dfa2330cbfdf03691900ec55b.png",
       "author": [
-        "-gge",
-        "Scratch137"
+        "-gge"
       ]
     },
     {
@@ -8861,6 +8860,18 @@
       "image": "label.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/a545d080f055fbc8ec596c26f80b911e.png",
       "author": ["TheTrillion"]
+    },
+    {
+      "codepoint": "U+2603",
+      "image": "snowman.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/9e6cdfa3c7117913151002c40d3045cb.png",
+      "author": "-gge"
+    },
+    {
+      "codepoint": "U+26C4",
+      "image": "snowman-without-snow.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/582d5acfe81c504d1bfb7eb872885bbc.png",
+      "author": "-gge"
     }
   ]
 }
