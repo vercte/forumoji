@@ -8865,13 +8865,13 @@
       "codepoint": "U+2603",
       "image": "snowman.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/9e6cdfa3c7117913151002c40d3045cb.png",
-      "author": "-gge"
+      "author": ["-gge"]
     },
     {
       "codepoint": "U+26C4",
       "image": "snowman-without-snow.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/582d5acfe81c504d1bfb7eb872885bbc.png",
-      "author": "-gge"
+      "author": ["-gge"]
     }
   ]
 }
