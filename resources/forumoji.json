@@ -9,7 +9,7 @@
     "Add new emojis to the end of this file, or search for a codepoint ",
     "or file name to replace an existing one (and remember to update",
     "the hosting link to match the new one).",
-
+    
     "If the same codepoint is listed twice, the later one will be used.",
     "The emoji list will warn you of duplicate emojis in the console."
   ],
@@ -8841,79 +8841,105 @@
       "codepoint": "U+1F446",
       "image": "backhand-up.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/19b7ad01451d0a0384f9b60fd20bcc59.png",
-      "author": ["mcgoomba"]
+      "author": [
+        "mcgoomba"
+      ]
     },
     {
       "codepoint": "U+1F447",
       "image": "backhand-down.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/ab9366d05c44d730de7c026f8172f165.png",
-      "author": ["mcgoomba"]
+      "author": [
+        "mcgoomba"
+      ]
     },
     {
       "codepoint": "U+1F6AA",
       "image": "door.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/9de4f785783f33dc8ed9515e384363c9.png",
-      "author": ["TheTrillion"]
+      "author": [
+        "TheTrillion"
+      ]
     },
     {
       "codepoint": "U+1F3F7",
       "image": "label.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/a545d080f055fbc8ec596c26f80b911e.png",
-      "author": ["TheTrillion"]
+      "author": [
+        "TheTrillion"
+      ]
     },
     {
       "codepoint": "U+2603",
       "image": "snowman.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/9e6cdfa3c7117913151002c40d3045cb.png",
-      "author": ["-gge"]
+      "author": [
+        "-gge"
+      ]
     },
     {
       "codepoint": "U+26C4",
       "image": "snowman-without-snow.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/582d5acfe81c504d1bfb7eb872885bbc.png",
-      "author": ["-gge"]
+      "author": [
+        "-gge"
+      ]
     },
     {
       "codepoint": "U+2708",
       "image": "airplane.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/ae5c7aa27e4438843ad9bab1f13bc0df.png",
-      "author": ["Vaibhs11"]
+      "author": [
+        "Vaibhs11"
+      ]
     },
     {
       "codepoint": "U+1F6E9",
       "image": "small-airplane.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/f96dbd04e2834c06977b2f668c9d0b67.png",
-      "author": ["Vaibhs11"]
+      "author": [
+        "Vaibhs11"
+      ]
     },
     {
       "codepoint": "U+265F",
       "image": "chess-pawn.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/b68bdbaea2831fd4d260906461841b72.png",
-      "author": ["Vaibhs11"]
+      "author": [
+        "Vaibhs11"
+      ]
     },
     {
       "codepoint": "U+1FA97",
       "image": "accordion.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/6a1a467a2000115057f0b01bd989d6ff.png",
-      "author": ["Vaibhs11"]
+      "author": [
+        "Vaibhs11"
+      ]
     },
     {
       "codepoint": "U+1F3B7",
       "image": "saxophone.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/3c5a8e00c5934532a16d2a659e2dc69d.png",
-      "author": ["Vaibhs11"]
+      "author": [
+        "Vaibhs11"
+      ]
     },
     {
       "codepoint": "U+1F4CC",
       "image": "pushpin.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/8ff34413547409f27267ad8c7b60654f.png",
-      "author": ["Vaibhs11"]
+      "author": [
+        "Vaibhs11"
+      ]
     },
     {
       "codepoint": "U+26F0",
       "image": "mountain.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/98cd350a52b65e1fbe124b3b91ea71e8.png",
-      "author": ["Vaibhs11"]
+      "author": [
+        "Vaibhs11"
+      ]
     }
   ]
 }
