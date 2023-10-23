@@ -8872,6 +8872,48 @@
       "image": "snowman-without-snow.png",
       "url": "https://assets.scratch.mit.edu/get_image/.%2E/582d5acfe81c504d1bfb7eb872885bbc.png",
       "author": ["-gge"]
+    },
+    {
+      "codepoint": "U+2708",
+      "image": "airplane.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/ae5c7aa27e4438843ad9bab1f13bc0df.png",
+      "author": ["Vaibhs11"]
+    },
+    {
+      "codepoint": "U+1F6E9",
+      "image": "small-airplane.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/f96dbd04e2834c06977b2f668c9d0b67.png",
+      "author": ["Vaibhs11"]
+    },
+    {
+      "codepoint": "U+265F",
+      "image": "chess-pawn.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/b68bdbaea2831fd4d260906461841b72.png",
+      "author": ["Vaibhs11"]
+    },
+    {
+      "codepoint": "U+1FA97",
+      "image": "accordion.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/6a1a467a2000115057f0b01bd989d6ff.png",
+      "author": ["Vaibhs11"]
+    },
+    {
+      "codepoint": "U+1F3B7",
+      "image": "saxophone.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/3c5a8e00c5934532a16d2a659e2dc69d.png",
+      "author": ["Vaibhs11"]
+    },
+    {
+      "codepoint": "U+1F4CC",
+      "image": "pushpin.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/8ff34413547409f27267ad8c7b60654f.png",
+      "author": ["Vaibhs11"]
+    },
+    {
+      "codepoint": "U+26F0",
+      "image": "mountain.png",
+      "url": "https://assets.scratch.mit.edu/get_image/.%2E/98cd350a52b65e1fbe124b3b91ea71e8.png",
+      "author": ["Vaibhs11"]
     }
   ]
 }
