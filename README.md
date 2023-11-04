@@ -18,7 +18,7 @@ If you would like to add your emojis to the website, you should follow this proc
 {
   "codepoint": "U+1F63A",
   "image": "grinning-cat.png",
-  "url": "https://assets.scratch.mit.edu/get_image/.%2E/f67743bb9153bd1b844b2651f6444c9c.svg",
+  "assetsId": "f67743bb9153bd1b844b2651f6444c9c.svg",
   "author": [
     "uwv"
   ]
@@ -27,7 +27,7 @@ If you would like to add your emojis to the website, you should follow this proc
 Here's what you should put in those sections:
 * `codepoint`: Put the unicode codepoint of the emoji; if you can't find this, it's **not** an emoji!
 * `image`: The filename of the emoji image in the `/resources/forumoji` folder. Make sure to include the extension!
-* `url`: The URL of the image, hosted online on assets.scratch.mit.edu.
+* `assetsId`: The main part of the URL of the image hosted on assets.scratch.mit.edu
 * `author`: The author(s), formatted as an array.
 ```json
 "author": [
