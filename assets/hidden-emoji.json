@@ -9,16 +9,16 @@
     "and can be used as a comment."
   ],
   "codepoints": [
-    "U+1F595", "middle finger",
-    "U+1F346", "eggplant",
-    "U+1F351", "peach",
-    "U+1F377", "wine glass",
-    "U+1F378", "cocktail glass",
-    "U+1F37A", "beer mug",
-    "U+1F37B", "clinking beer mugs",
-    "U+1F943", "tumbler glass",
-    "U+1F51E", "no one under eighteen",
-    "U+1F3E9", "love hotel",
+    "1f595", "middle finger",
+    "1f346", "eggplant",
+    "1f351", "peach",
+    "1f377", "wine glass",
+    "1f378", "cocktail glass",
+    "1f37a", "beer mug",
+    "1f37b", "clinking beer mugs",
+    "1f943", "tumbler glass",
+    "1f51e", "no one under eighteen",
+    "1f3e9", "love hotel",
     "There are probably a lot more that could be hidden"
   ]
 }
