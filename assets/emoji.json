@@ -1,6711 +1,5602 @@
-[
-    {
-        "codepoint": "1f170",
+{
+    "2049": {
+        "author": [
+            "mcgoomba"
+        ]
+    },
+    "2122": {
+        "author": [
+            "mcgoomba"
+        ]
+    },
+    "2139": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f171",
+    "2194": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2195": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2196": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2197": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2198": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2199": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2328": {
+        "author": [
+            "notwait"
+        ]
+    },
+    "2600": {
+        "author": [
+            "CST1229"
+        ]
+    },
+    "2601": {
+        "author": [
+            "kccuber"
+        ]
+    },
+    "2602": {
+        "author": [
+            "notwait"
+        ]
+    },
+    "2603": {
+        "author": [
+            "-gge"
+        ]
+    },
+    "2611": {
+        "author": [
+            "lolecksdeehaha"
+        ]
+    },
+    "2614": {
+        "author": [
+            "notwait"
+        ]
+    },
+    "2615": {
+        "author": [
+            "Vaibhs11"
+        ]
+    },
+    "2620": {
+        "author": [
+            "lolecksdeehaha"
+        ]
+    },
+    "2626": {
+        "author": [
+            "mybearworld"
+        ]
+    },
+    "2638": {
+        "author": [
+            "mybearworld"
+        ]
+    },
+    "2639": {
+        "author": [
+            "Vaibhs11"
+        ]
+    },
+    "2640": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2642": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2648": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2649": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2650": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2651": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2652": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2653": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2660": {
+        "author": [
+            "stickfiregames"
+        ]
+    },
+    "2663": {
+        "author": [
+            "stickfiregames"
+        ]
+    },
+    "2665": {
+        "author": [
+            "stickfiregames"
+        ]
+    },
+    "2666": {
+        "author": [
+            "stickfiregames"
+        ]
+    },
+    "2693": {
+        "author": [
+            "notwait"
+        ]
+    },
+    "2705": {
+        "author": [
+            "lolecksdeehaha"
+        ]
+    },
+    "2708": {
+        "author": [
+            "Vaibhs11"
+        ]
+    },
+    "2709": {
+        "author": [
+            "lolecksdeehaha"
+        ]
+    },
+    "2714": {
+        "author": [
+            "lolecksdeehaha"
+        ]
+    },
+    "2716": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2721": {
+        "author": [
+            "mybearworld"
+        ]
+    },
+    "2728": {
+        "author": [
+            "64lu"
+        ]
+    },
+    "2753": {
+        "author": [
+            "mcgoomba"
+        ]
+    },
+    "2754": {
+        "author": [
+            "mcgoomba"
+        ]
+    },
+    "2755": {
+        "author": [
+            "mcgoomba"
+        ]
+    },
+    "2757": {
+        "author": [
+            "mcgoomba"
+        ]
+    },
+    "2763": {
+        "author": [
+            "CST1229"
+        ]
+    },
+    "2764": {
+        "author": [
+            "CST1229"
+        ]
+    },
+    "2795": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2796": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2797": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2934": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "2935": {
+        "author": [
+            "Scratch137"
+        ]
+    },
+    "3030": {
+        "author": [
+            "mcgoomba"
+        ]
+    },
+    "3297": {
+        "author": [
+            "stickfiregames"
+        ]
+    },
+    "3299": {
+        "author": [
+            "stickfiregames"
+        ]
+    },
+    "1f170": {
+        "author": [
+            "stickfiregames"
+        ]
+    },
+    "1f171": {
         "author": [
             "lolecksdeehaha",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f18e",
+    "1f18e": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f17e",
+    "1f17e": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f191",
+    "1f191": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4ca",
+    "1f4ca": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4c8",
+    "1f4c8": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4c9",
+    "1f4c9": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "2611",
+    "274c": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "2705",
+    "274e": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "2714",
-        "author": [
-            "lolecksdeehaha"
-        ]
-    },
-    {
-        "codepoint": "274c",
-        "author": [
-            "lolecksdeehaha"
-        ]
-    },
-    {
-        "codepoint": "274e",
-        "author": [
-            "lolecksdeehaha"
-        ]
-    },
-    {
-        "codepoint": "1f611",
+    "1f611": {
         "author": [
             "kccuber"
         ]
     },
-    {
-        "codepoint": "1f41f",
+    "1f41f": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f636",
+    "1f636": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f62c",
+    "1f62c": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f977",
+    "1f977": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f614",
+    "1f614": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f97a",
+    "1f97a": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f914",
+    "1f914": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f643",
+    "1f643": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f92e",
+    "1f92e": {
         "author": [
             "rayli1123"
         ]
     },
-    {
-        "codepoint": "1f910",
+    "1f910": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f44d",
+    "1f44d": {
         "author": [
             "lolecksdeehaha",
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f44e",
+    "1f44e": {
         "author": [
             "lolecksdeehaha",
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f4af",
+    "1f4af": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "2728",
-        "author": [
-            "64lu"
-        ]
-    },
-    {
-        "codepoint": "2600",
-        "author": [
-            "CST1229"
-        ]
-    },
-    {
-        "codepoint": "2601",
-        "author": [
-            "kccuber"
-        ]
-    },
-    {
-        "codepoint": "1f333",
+    "1f333": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f30d",
+    "1f30d": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f30f",
+    "1f30f": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f30e",
+    "1f30e": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f389",
+    "1f389": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f967",
+    "1f967": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f357",
+    "1f357": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f983",
+    "1f983": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "26ab",
+    "26ab": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "2b1b",
+    "2b1b": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "25fc",
+    "25fc": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "25fe",
+    "25fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "25aa",
+    "25aa": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "26aa",
+    "26aa": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "2b1c",
+    "2b1c": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "25fb",
+    "25fb": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "25fd",
+    "25fd": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "25ab",
+    "25ab": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f534",
+    "1f534": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e5",
+    "1f7e5": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e0",
+    "1f7e0": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e7",
+    "1f7e7": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e1",
+    "1f7e1": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e8",
+    "1f7e8": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e2",
+    "1f7e2": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e9",
+    "1f7e9": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f535",
+    "1f535": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e6",
+    "1f7e6": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f7e3",
+    "1f7e3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f7ea",
+    "1f7ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f7e4",
+    "1f7e4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f7eb",
+    "1f7eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f536",
+    "1f536": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f537",
+    "1f537": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f538",
+    "1f538": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f539",
+    "1f539": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f53a",
+    "1f53a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f53b",
+    "1f53b": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f916",
+    "1f916": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f34c",
+    "1f34c": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1fad0",
+    "1fad0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f347",
+    "1f347": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f34f",
+    "1f34f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f34e",
+    "1f34e": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f34b",
+    "1f34b": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f350",
+    "1f350": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f353",
+    "1f353": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f34a",
+    "1f34a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f349",
+    "1f349": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f951",
+    "1f951": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f352",
+    "1f352": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f965",
+    "1f965": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f95d",
+    "1f95d": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f96d",
+    "1f96d": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f348",
+    "1f348": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f34d",
+    "1f34d": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f345",
+    "1f345": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f5d3",
+    "1f5d3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4c6",
+    "1f4c6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4c5",
+    "1f4c5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f574",
+    "1f574": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f440",
+    "1f440": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f332",
+    "1f332": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f384",
+    "1f384": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f334",
+    "1f334": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f608",
+    "1f608": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f47f",
+    "1f47f": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f4d8",
+    "1f4d8": {
         "author": [
             "Autofirejm",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4d9",
+    "1f4d9": {
         "author": [
             "Autofirejm",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4d5",
+    "1f4d5": {
         "author": [
             "Autofirejm",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4d7",
+    "1f4d7": {
         "author": [
             "Autofirejm",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4d2",
+    "1f4d2": {
         "author": [
             "Autofirejm",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4d4",
+    "1f4d4": {
         "author": [
             "Autofirejm",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f50b",
+    "1f50b": {
         "author": [
             "Autofirejm",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f48a",
+    "1f48a": {
         "author": [
             "PATSATDAT",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f525",
+    "1f525": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4a7",
+    "1f4a7": {
         "author": [
             "Autofirejm"
         ]
     },
-    {
-        "codepoint": "1f922",
+    "1f922": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f976",
+    "1f976": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f3c1",
+    "1f3c1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6a9",
+    "1f6a9": {
         "author": [
             "stickfiregames",
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f38c",
+    "1f38c": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3f4",
+    "1f3f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3f3",
+    "1f3f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3f3-fe0f-200d-1f308",
+    "1f3f3-fe0f-200d-1f308": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3f3-fe0f-200d-26a7-fe0f",
+    "1f3f3-fe0f-200d-26a7-fe0f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3f4-200d-2620-fe0f",
+    "1f3f4-200d-2620-fe0f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f972",
+    "1f972": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f62e-200d-1f4a8",
+    "1f62e-200d-1f4a8": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f92f",
+    "1f92f": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f635",
+    "1f635": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f920",
+    "1f920": {
         "author": [
             "mybearworld",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f480",
+    "1f480": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "2709",
+    "1f4cb": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4cb",
+    "1f4dd": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4dd",
+    "1f4c4": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4c4",
+    "1f4c3": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4c3",
+    "1f9fe": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f9fe",
+    "1f5d2": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f5d2",
-        "author": [
-            "lolecksdeehaha"
-        ]
-    },
-    {
-        "codepoint": "1f63f",
+    "1f63f": {
         "author": [
             "uwv"
         ]
     },
-    {
-        "codepoint": "1f639",
+    "1f639": {
         "author": [
             "uwv"
         ]
     },
-    {
-        "codepoint": "1f63e",
+    "1f63e": {
         "author": [
             "uwv"
         ]
     },
-    {
-        "codepoint": "1f640",
+    "1f640": {
         "author": [
             "uwv"
         ]
     },
-    {
-        "codepoint": "1f63a",
+    "1f63a": {
         "author": [
             "uwv"
         ]
     },
-    {
-        "codepoint": "1f638",
+    "1f638": {
         "author": [
             "uwv"
         ]
     },
-    {
-        "codepoint": "1f63c",
+    "1f63c": {
         "author": [
             "uwv"
         ]
     },
-    {
-        "codepoint": "1f63b",
+    "1f63b": {
         "author": [
             "uwv"
         ]
     },
-    {
-        "codepoint": "1f361",
+    "1f361": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "2764",
+    "1f9e1": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f9e1",
+    "1f49b": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f49b",
+    "1f49a": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f49a",
+    "1f499": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f499",
+    "1f49c": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f49c",
+    "1f90e": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f90e",
+    "1f5a4": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f5a4",
+    "1f90d": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f90d",
+    "1f494": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f494",
+    "1f495": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f495",
+    "1f49e": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "2763",
+    "1f496": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f49e",
+    "1f498": {
         "author": [
             "CST1229"
         ]
     },
-    {
-        "codepoint": "1f496",
-        "author": [
-            "CST1229"
-        ]
-    },
-    {
-        "codepoint": "1f498",
-        "author": [
-            "CST1229"
-        ]
-    },
-    {
-        "codepoint": "1f308",
+    "1f308": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f35b",
+    "1f35b": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f35c",
+    "1f35c": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f35d",
+    "1f35d": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f984",
+    "1f984": {
         "author": [
             "cartooney",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f980",
+    "1f980": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f99e",
+    "1f99e": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f990",
+    "1f990": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1fae5",
+    "1fae5": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1fae4",
+    "1fae4": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f7f0",
+    "1f7f0": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2795",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2796",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2716",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2797",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "1f979",
+    "1f979": {
         "author": [
             "Scratch137",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f55b",
+    "1f55b": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f567",
+    "1f567": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f550",
+    "1f550": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f55c",
+    "1f55c": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f551",
+    "1f551": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f55d",
+    "1f55d": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f552",
+    "1f552": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f55e",
+    "1f55e": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f553",
+    "1f553": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f55f",
+    "1f55f": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f554",
+    "1f554": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f560",
+    "1f560": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f555",
+    "1f555": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f561",
+    "1f561": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f556",
+    "1f556": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f562",
+    "1f562": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f557",
+    "1f557": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f563",
+    "1f563": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f558",
+    "1f558": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f564",
+    "1f564": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f559",
+    "1f559": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f565",
+    "1f565": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f55a",
+    "1f55a": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f566",
+    "1f566": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0030-fe0f-20e3",
+    "0030-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0031-fe0f-20e3",
+    "0031-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0032-fe0f-20e3",
+    "0032-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0033-fe0f-20e3",
+    "0033-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0034-fe0f-20e3",
+    "0034-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0035-fe0f-20e3",
+    "0035-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0036-fe0f-20e3",
+    "0036-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0037-fe0f-20e3",
+    "0037-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0038-fe0f-20e3",
+    "0038-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "0039-fe0f-20e3",
+    "0039-fe0f-20e3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f51f",
+    "1f51f": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2648",
+    "264a": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2649",
+    "264b": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "264a",
+    "264c": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "264b",
+    "264d": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "264c",
+    "264e": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "264d",
+    "264f": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "264e",
+    "26ce": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "264f",
+    "26a7": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2650",
+    "2b06": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2651",
+    "27a1": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2652",
+    "2b07": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2653",
+    "2b05": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "26ce",
+    "21a9": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2642",
+    "21aa": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2640",
+    "1f503": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "26a7",
+    "1f504": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2b06",
+    "1f441": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "2197",
+    "1f47e": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "27a1",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2198",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2b07",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2199",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2b05",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2196",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2195",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2194",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "21a9",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "21aa",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2934",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "2935",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "1f503",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "1f504",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "1f441",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "1f47e",
-        "author": [
-            "Scratch137"
-        ]
-    },
-    {
-        "codepoint": "1f251",
+    "1f251": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f250",
+    "1f250": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f238",
+    "1f238": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f21a",
+    "1f21a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f239",
+    "1f239": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "3297",
+    "1f237": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f237",
+    "1f201": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f201",
+    "1f23a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f23a",
+    "1f235": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f235",
+    "1f236": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f236",
+    "1f22f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f22f",
+    "1f232": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f232",
+    "1f234": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f234",
+    "1f199": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f199",
+    "1f202": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f202",
+    "1f19a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "3299",
+    "1f233": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f19a",
+    "1f523": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f233",
+    "1f193": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f523",
+    "1f192": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2139",
+    "1f521": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f193",
+    "1f524": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f192",
+    "1f195": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f521",
+    "1f520": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f524",
+    "1f522": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f195",
+    "1f196": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f520",
+    "1f197": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f522",
+    "1f301": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f196",
+    "1f303": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f197",
+    "1f3d9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f301",
+    "1f304": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f303",
+    "1f305": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3d9",
+    "1f306": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f304",
+    "1f307": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f305",
+    "1f309": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f306",
-        "author": [
-            "stickfiregames"
-        ]
-    },
-    {
-        "codepoint": "1f307",
-        "author": [
-            "stickfiregames"
-        ]
-    },
-    {
-        "codepoint": "1f309",
-        "author": [
-            "stickfiregames"
-        ]
-    },
-    {
-        "codepoint": "1f9f2",
+    "1f9f2": {
         "author": [
             "mybearworld",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f358",
+    "1f358": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f517",
+    "1f517": {
         "author": [
             "mybearworld",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "26d4",
+    "26d4": {
         "author": [
             "Vaibhs11",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f198",
+    "1f198": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f311",
+    "1f311": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f312",
+    "1f312": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f313",
+    "1f313": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f314",
+    "1f314": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f315",
+    "1f315": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f316",
+    "1f316": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f317",
+    "1f317": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f318",
+    "1f318": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f319",
+    "1f319": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f31a",
+    "1f31a": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f31b",
+    "1f31b": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f31c",
+    "1f31c": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f31d",
+    "1f31d": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1eb",
+    "1f1e6-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1fd",
+    "1f1e6-1f1fd": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1f1",
+    "1f1e6-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e9-1f1ff",
+    "1f1e9-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1f8",
+    "1f1e6-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1e9",
+    "1f1e6-1f1e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1f4",
+    "1f1e6-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1ee",
+    "1f1e6-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1f6",
+    "1f1e6-1f1f6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1ec",
+    "1f1e6-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1f7",
+    "1f1e6-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1f2",
+    "1f1e6-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1fc",
+    "1f1e6-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1fa",
+    "1f1e6-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1f9",
+    "1f1e6-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1ff",
+    "1f1e6-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1f8",
+    "1f1e7-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1ed",
+    "1f1e7-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1e9",
+    "1f1e7-1f1e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1e7",
+    "1f1e7-1f1e7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1fe",
+    "1f1e7-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1ea",
+    "1f1e7-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1ff",
+    "1f1e7-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1ef",
+    "1f1e7-1f1ef": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1f2",
+    "1f1e7-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1f9",
+    "1f1e7-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1f4",
+    "1f1e7-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1f6",
+    "1f1e7-1f1f6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1e6",
+    "1f1e7-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1fc",
+    "1f1e7-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1fb",
+    "1f1e7-1f1fb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1f7",
+    "1f1e7-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1f4",
+    "1f1ee-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1f3",
+    "1f1e7-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1ec",
+    "1f1e7-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1eb",
+    "1f1e7-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1ee",
+    "1f1e7-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1fb",
+    "1f1e8-1f1fb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1ed",
+    "1f1f0-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1f2",
+    "1f1e8-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1e6",
+    "1f1e8-1f1e6": {
         "author": [
             "stickfiregames",
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1fe",
+    "1f1f0-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1eb",
+    "1f1e8-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1e9",
+    "1f1f9-1f1e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1f1",
+    "1f1e8-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1f3",
+    "1f1e8-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1fd",
+    "1f1e8-1f1fd": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1e8",
+    "1f1e8-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1f4",
+    "1f1e8-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1f2",
+    "1f1f0-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1ec",
+    "1f1e8-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1e9",
+    "1f1e8-1f1e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1f0",
+    "1f1e8-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1f7",
+    "1f1e8-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1ee",
+    "1f1e8-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ed-1f1f7",
+    "1f1ed-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1fa",
+    "1f1e8-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1fc",
+    "1f1e8-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1fe",
+    "1f1e8-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1ff",
+    "1f1e8-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e9-1f1f0",
+    "1f1e9-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e9-1f1ef",
+    "1f1e9-1f1ef": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e9-1f1f2",
+    "1f1e9-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e9-1f1f4",
+    "1f1e9-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1e8",
+    "1f1ea-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1ec",
+    "1f1ea-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1fb",
+    "1f1f8-1f1fb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1f6",
+    "1f1ec-1f1f6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1f7",
+    "1f1ea-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1ea",
+    "1f1ea-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1ff",
+    "1f1f8-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1f9",
+    "1f1ea-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1eb-1f1f0",
+    "1f1eb-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1eb-1f1f4",
+    "1f1eb-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1eb-1f1ef",
+    "1f1eb-1f1ef": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1eb-1f1ee",
+    "1f1eb-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1eb-1f1f7",
+    "1f1eb-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1eb",
+    "1f1ec-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1eb",
+    "1f1f5-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1eb",
+    "1f1f9-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1e6",
+    "1f1ec-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1f2",
+    "1f1ec-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1ea",
+    "1f1ec-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e9-1f1ea",
+    "1f1e9-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1ed",
+    "1f1ec-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1ee",
+    "1f1ec-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1f7",
+    "1f1ec-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1f1",
+    "1f1ec-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1e9",
+    "1f1ec-1f1e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1f5",
+    "1f1ec-1f1f5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1fa",
+    "1f1ec-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1f9",
+    "1f1ec-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1ec",
+    "1f1ec-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1f3",
+    "1f1ec-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1fc",
+    "1f1ec-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1fe",
+    "1f1ec-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ed-1f1f9",
+    "1f1ed-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ed-1f1f2",
+    "1f1ed-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fb-1f1e6",
+    "1f1fb-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ed-1f1f3",
+    "1f1ed-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ed-1f1f0",
+    "1f1ed-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ed-1f1fa",
+    "1f1ed-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1f8",
+    "1f1ee-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1f3",
+    "1f1ee-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1e9",
+    "1f1ee-1f1e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1f7",
+    "1f1ee-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1f6",
+    "1f1ee-1f1f6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1ea",
+    "1f1ee-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1f2",
+    "1f1ee-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1f1",
+    "1f1ee-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1f9",
+    "1f1ee-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ef-1f1f2",
+    "1f1ef-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ef-1f1f5",
+    "1f1ef-1f1f5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ef-1f1ea",
+    "1f1ef-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ef-1f1f4",
+    "1f1ef-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1ff",
+    "1f1f0-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1ea",
+    "1f1f0-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1ee",
+    "1f1f0-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1f5",
+    "1f1f0-1f1f5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1f7",
+    "1f1f0-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1fc",
+    "1f1f0-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1ec",
+    "1f1f0-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1e6",
+    "1f1f1-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1fb",
+    "1f1f1-1f1fb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1e7",
+    "1f1f1-1f1e7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1f8",
+    "1f1f1-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1f7",
+    "1f1f1-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1fe",
+    "1f1f1-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1ee",
+    "1f1f1-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1f9",
+    "1f1f1-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1fa",
+    "1f1f1-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f4",
+    "1f1f2-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1ec",
+    "1f1f2-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1fc",
+    "1f1f2-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1fe",
+    "1f1f2-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1fb",
+    "1f1f2-1f1fb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f1",
+    "1f1f2-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f9",
+    "1f1f2-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1ed",
+    "1f1f2-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f6",
+    "1f1f2-1f1f6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f7",
+    "1f1f2-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1fa",
+    "1f1f2-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fe-1f1f9",
+    "1f1fe-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1fd",
+    "1f1f2-1f1fd": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1eb-1f1f2",
+    "1f1eb-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1e9",
+    "1f1f2-1f1e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1e8",
+    "1f1f2-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f3",
+    "1f1f2-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1ea",
+    "1f1f2-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f8",
+    "1f1f2-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1e6",
+    "1f1f2-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1ff",
+    "1f1f2-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f2",
+    "1f1f2-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1e6",
+    "1f1f3-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1f7",
+    "1f1f3-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1f5",
+    "1f1f3-1f1f5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1f1",
+    "1f1f3-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1e8",
+    "1f1f3-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1ff",
+    "1f1f3-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1ee",
+    "1f1f3-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1ea",
+    "1f1f3-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1ec",
+    "1f1f3-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1fa",
+    "1f1f3-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1eb",
+    "1f1f3-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f0",
+    "1f1f2-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1f5",
+    "1f1f2-1f1f5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f3-1f1f4",
+    "1f1f3-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f4-1f1f2",
+    "1f1f4-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1f0",
+    "1f1f5-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1fc",
+    "1f1f5-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1f8",
+    "1f1f5-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1e6",
+    "1f1f5-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1ec",
+    "1f1f5-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1fe",
+    "1f1f5-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1ea",
+    "1f1f5-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1ed",
+    "1f1f5-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1f3",
+    "1f1f5-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1f1",
+    "1f1f5-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1f9",
+    "1f1f5-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1f7",
+    "1f1f5-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f6-1f1e6",
+    "1f1f6-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f7-1f1ea",
+    "1f1f7-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f7-1f1f4",
+    "1f1f7-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f7-1f1fa",
+    "1f1f7-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f7-1f1fc",
+    "1f1f7-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e7-1f1f1",
+    "1f1e7-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1ed",
+    "1f1f8-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f0-1f1f3",
+    "1f1f0-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1e8",
+    "1f1f1-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f2-1f1eb",
+    "1f1f2-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f5-1f1f2",
+    "1f1f5-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fb-1f1e8",
+    "1f1fb-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fc-1f1f8",
+    "1f1fc-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1f2",
+    "1f1f8-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1f9",
+    "1f1f8-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1e6",
+    "1f1f8-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1f3",
+    "1f1f8-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f7-1f1f8",
+    "1f1f7-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1e8",
+    "1f1f8-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1f1",
+    "1f1f8-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1ec",
+    "1f1f8-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1fd",
+    "1f1f8-1f1fd": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1f0",
+    "1f1f8-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1ee",
+    "1f1f8-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1e7",
+    "1f1f8-1f1e7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1f4",
+    "1f1f8-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ff-1f1e6",
+    "1f1ff-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1f8",
+    "1f1ec-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1f8",
+    "1f1f8-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1f8",
+    "1f1ea-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f1-1f1f0",
+    "1f1f1-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1e9",
+    "1f1f8-1f1e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1f7",
+    "1f1f8-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1ef",
+    "1f1f8-1f1ef": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1ea",
+    "1f1f8-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1ed",
+    "1f1e8-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f8-1f1fe",
+    "1f1f8-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1fc",
+    "1f1f9-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1ef",
+    "1f1f9-1f1ef": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1ff",
+    "1f1f9-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1ed",
+    "1f1f9-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1f1",
+    "1f1f9-1f1f1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1ec",
+    "1f1f9-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1f0",
+    "1f1f9-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1f4",
+    "1f1f9-1f1f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1f9",
+    "1f1f9-1f1f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1f3",
+    "1f1f9-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1f7",
+    "1f1f9-1f1f7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1f2",
+    "1f1f9-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1e8",
+    "1f1f9-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1fb",
+    "1f1f9-1f1fb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fa-1f1ec",
+    "1f1fa-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fa-1f1e6",
+    "1f1fa-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1ea",
+    "1f1e6-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ec-1f1e7",
+    "1f1ec-1f1e7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fa-1f1f2",
+    "1f1fa-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fa-1f1f8",
+    "1f1fa-1f1f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fa-1f1fe",
+    "1f1fa-1f1fe": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fa-1f1ff",
+    "1f1fa-1f1ff": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fb-1f1fa",
+    "1f1fb-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fb-1f1ea",
+    "1f1fb-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fb-1f1f3",
+    "1f1fb-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fb-1f1ec",
+    "1f1fb-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fb-1f1ee",
+    "1f1fb-1f1ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fc-1f1eb",
+    "1f1fc-1f1eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1ed",
+    "1f1ea-1f1ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fe-1f1ea",
+    "1f1fe-1f1ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ff-1f1f2",
+    "1f1ff-1f1f2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ff-1f1fc",
+    "1f1ff-1f1fc": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1f9-1f1e6",
+    "1f1f9-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ee-1f1e8",
+    "1f1ee-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1e6",
+    "1f1ea-1f1e6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e8-1f1f5",
+    "1f1e8-1f1f5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e6-1f1e8",
+    "1f1e6-1f1e8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1e9-1f1ec",
+    "1f1e9-1f1ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fa-1f1f3",
+    "1f1fa-1f1f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1ea-1f1fa",
+    "1f1ea-1f1fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f1fd-1f1f0",
+    "1f1fd-1f1f0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f",
+    "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f",
+    "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f",
+    "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f636-200d-1f32b-fe0f",
+    "1f636-200d-1f32b-fe0f": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4d3",
+    "1f4d3": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f430",
+    "1f430": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f407",
+    "1f407": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f95e",
+    "1f95e": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f929",
+    "1f929": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f92a",
+    "1f92a": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f5a5",
+    "1f5a5": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f971",
+    "1f971": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f6d1",
+    "1f6d1": {
         "author": [
             "kccuber"
         ]
     },
-    {
-        "codepoint": "1f9e7",
+    "1f9e7": {
         "author": [
             "kccuber"
         ]
     },
-    {
-        "codepoint": "26bd",
+    "26bd": {
         "author": [
             "kccuber"
         ]
     },
-    {
-        "codepoint": "1f5e8",
+    "1f5e8": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1fae0",
+    "1fae0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1faf6",
+    "1faf6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f600",
+    "1f600": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f603",
+    "1f603": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f604",
+    "1f604": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f601",
+    "1f601": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f606",
+    "1f606": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f605",
+    "1f605": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f602",
+    "1f602": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f642",
+    "1f642": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f609",
+    "1f609": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f60a",
+    "1f60a": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f607",
+    "1f607": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f60d",
+    "1f60d": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f618",
+    "1f618": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f617",
+    "1f617": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "263a",
+    "263a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f61a",
+    "1f61a": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f619",
+    "1f619": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f60b",
+    "1f60b": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f61b",
+    "1f61b": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f61c",
+    "1f61c": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f61d",
+    "1f61d": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f911",
+    "1f911": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f917",
+    "1f917": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f610",
+    "1f610": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f60f",
+    "1f60f": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f612",
+    "1f612": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f644",
+    "1f644": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f60c",
+    "1f60c": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f62a",
+    "1f62a": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f634",
+    "1f634": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f637",
+    "1f637": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f912",
+    "1f912": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f915",
+    "1f915": {
         "author": [
             "Vaibhs11",
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f60e",
+    "1f60e": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f913",
+    "1f913": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f615",
+    "1f615": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f61f",
+    "1f61f": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f641",
+    "1f641": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "2639",
-        "author": [
-            "Vaibhs11"
-        ]
-    },
-    {
-        "codepoint": "1f62e",
+    "1f62e": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f62f",
+    "1f62f": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f632",
+    "1f632": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f633",
+    "1f633": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f626",
+    "1f626": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f627",
+    "1f627": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f628",
+    "1f628": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f630",
+    "1f630": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f625",
+    "1f625": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f622",
+    "1f622": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f62d",
+    "1f62d": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f631",
+    "1f631": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f616",
+    "1f616": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f623",
+    "1f623": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f61e",
+    "1f61e": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f613",
+    "1f613": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f629",
+    "1f629": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f62b",
+    "1f62b": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f624",
+    "1f624": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f621",
+    "1f621": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f620",
+    "1f620": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "2620",
+    "1f4a9": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f4a9",
+    "1f479": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f479",
+    "1f47a": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f47a",
+    "1f47b": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f47b",
+    "1f47d": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f47d",
+    "1f648": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f648",
+    "1f649": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f649",
+    "1f64a": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f64a",
-        "author": [
-            "lolecksdeehaha"
-        ]
-    },
-    {
-        "codepoint": "1f30a",
+    "1f30a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4bb",
+    "1f4bb": {
         "author": [
             "mybearworld",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f5e3",
+    "1f5e3": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f464",
+    "1f464": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f465",
+    "1f465": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1fac2",
+    "1fac2": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f4b4",
+    "1f4b4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4b5",
+    "1f4b5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4b6",
+    "1f4b6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4b7",
+    "1f4b7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2660",
+    "1f500": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2665",
+    "1f501": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2666",
+    "1f502": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2663",
+    "25b6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f500",
+    "23e9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f501",
+    "23ed": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f502",
+    "23ef": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "25b6",
+    "25c0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23e9",
+    "23ea": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23ed",
+    "23ee": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23ef",
+    "1f53c": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "25c0",
+    "23eb": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23ea",
+    "1f53d": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23ee",
+    "23ec": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f53c",
+    "23f8": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23eb",
+    "23f9": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f53d",
+    "23fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23ec",
+    "23cf": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23f8",
+    "1f3a6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23f9",
+    "1f505": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23fa",
+    "1f506": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "23cf",
+    "1f4f6": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3a6",
+    "1f4f3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f505",
+    "1f4f4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f506",
-        "author": [
-            "stickfiregames"
-        ]
-    },
-    {
-        "codepoint": "1f4f6",
-        "author": [
-            "stickfiregames"
-        ]
-    },
-    {
-        "codepoint": "1f4f3",
-        "author": [
-            "stickfiregames"
-        ]
-    },
-    {
-        "codepoint": "1f4f4",
-        "author": [
-            "stickfiregames"
-        ]
-    },
-    {
-        "codepoint": "1f941",
+    "1f941": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4e5",
+    "1f4e5": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f4e4",
+    "1f4e4": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1fa7b",
+    "1fa7b": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f38a",
+    "1f38a": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "1f973",
+    "1f973": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "270f",
+    "270f": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f44f",
+    "1f44f": {
         "author": [
             "mcgoomba",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2693",
+    "1f6de": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f6de",
+    "1f6dd": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f6dd",
+    "1fad9": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fad9",
+    "1fad7": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fad7",
+    "1fad8": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fad8",
+    "1faba": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faba",
+    "1fab9": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fab9",
+    "1fac5": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fac5",
+    "1faf5": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faf5",
+    "1faf0": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faf0",
+    "1faf4": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faf4",
+    "1faf3": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faf3",
+    "1faf2": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faf2",
+    "1faf1": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faf1",
-        "author": [
-            "notwait"
-        ]
-    },
-    {
-        "codepoint": "1fae1",
+    "1fae1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1fae2",
+    "1fae2": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f3b5",
+    "1f3b5": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f321",
+    "1f321": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f3ca-200d-2642-fe0f",
+    "1f3ca-200d-2642-fe0f": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f3ca-200d-2640-fe0f",
+    "1f3ca-200d-2640-fe0f": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f3ca",
+    "1f3ca": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f30b",
+    "1f30b": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4ac",
+    "1f4ac": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f6cf",
+    "1f6cf": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f6cc",
+    "1f6cc": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f355",
+    "1f355": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f928",
+    "1f928": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f92c",
+    "1f92c": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f327",
+    "1f327": {
         "author": [
             "kccuber",
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f923",
+    "1f923": {
         "author": [
             "lolecksdeehaha",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f36a",
+    "1f36a": {
         "author": [
             "kccuber"
         ]
     },
-    {
-        "codepoint": "2b50",
+    "2b50": {
         "author": [
             "kccuber"
         ]
     },
-    {
-        "codepoint": "1f978",
+    "1f978": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f5ff",
+    "1f5ff": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f431",
+    "1f431": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f927",
+    "1f927": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f925",
+    "1f925": {
         "author": [
             "DinoMaster20",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f408",
+    "1f408": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f408-200d-2b1b",
+    "1f408-200d-2b1b": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f92d",
+    "1f92d": {
         "author": [
             "notwait",
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "2757",
-        "author": [
-            "mcgoomba"
-        ]
-    },
-    {
-        "codepoint": "2753",
-        "author": [
-            "mcgoomba"
-        ]
-    },
-    {
-        "codepoint": "2049",
-        "author": [
-            "mcgoomba"
-        ]
-    },
-    {
-        "codepoint": "1f481",
+    "1f481": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f481-200d-2642-fe0f",
+    "1f481-200d-2642-fe0f": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f481-200d-2640-fe0f",
+    "1f481-200d-2640-fe0f": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f934",
+    "1f934": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f478",
+    "1f478": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f9d1-200d-1f3eb",
+    "1f9d1-200d-1f3eb": {
         "author": [
             "Vaibhs11",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f3eb",
+    "1f468-200d-1f3eb": {
         "author": [
             "Vaibhs11",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f3eb",
+    "1f469-200d-1f3eb": {
         "author": [
             "Vaibhs11",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f5fa",
+    "1f5fa": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f937",
+    "1f937": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f937-200d-2642-fe0f",
+    "1f937-200d-2642-fe0f": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f937-200d-2640-fe0f",
+    "1f937-200d-2640-fe0f": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "2764-fe0f-200d-1fa79",
+    "2764-fe0f-200d-1fa79": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f926",
+    "1f926": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f926-200d-2642-fe0f",
+    "1f926-200d-2642-fe0f": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f926-200d-2640-fe0f",
+    "1f926-200d-2640-fe0f": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f469-200d-1f466",
+    "1f468-200d-1f469-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f469-200d-1f467",
+    "1f468-200d-1f469-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f469-200d-1f467-200d-1f466",
+    "1f468-200d-1f469-200d-1f467-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f469-200d-1f466-200d-1f466",
+    "1f468-200d-1f469-200d-1f466-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f469-200d-1f467-200d-1f467",
+    "1f468-200d-1f469-200d-1f467-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f468-200d-1f466",
+    "1f468-200d-1f468-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f468-200d-1f467",
+    "1f468-200d-1f468-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f468-200d-1f467-200d-1f466",
+    "1f468-200d-1f468-200d-1f467-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f468-200d-1f466-200d-1f466",
+    "1f468-200d-1f468-200d-1f466-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f468-200d-1f467-200d-1f467",
+    "1f468-200d-1f468-200d-1f467-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f469-200d-1f466",
+    "1f469-200d-1f469-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f469-200d-1f467",
+    "1f469-200d-1f469-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f469-200d-1f467-200d-1f466",
+    "1f469-200d-1f469-200d-1f467-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f469-200d-1f466-200d-1f466",
+    "1f469-200d-1f469-200d-1f466-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f469-200d-1f467-200d-1f467",
+    "1f469-200d-1f469-200d-1f467-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f466",
+    "1f468-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f467",
+    "1f468-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f467-200d-1f466",
+    "1f468-200d-1f467-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f466-200d-1f466",
+    "1f468-200d-1f466-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f467-200d-1f467",
+    "1f468-200d-1f467-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f466",
+    "1f469-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f467",
+    "1f469-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f467-200d-1f466",
+    "1f469-200d-1f467-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f466-200d-1f466",
+    "1f469-200d-1f466-200d-1f466": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f467-200d-1f467",
+    "1f469-200d-1f467-200d-1f467": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f46a",
+    "1f46a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f9d1",
+    "1f9d1": {
         "author": [
             "Vaibhs11",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468",
+    "1f468": {
         "author": [
             "Vaibhs11",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469",
+    "1f469": {
         "author": [
             "Vaibhs11",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "270b",
+    "270b": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f590",
+    "1f590": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f918",
+    "1f918": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f91f",
+    "1f91f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f596",
+    "1f596": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f91e",
+    "1f91e": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "270c",
+    "270c": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "261d",
+    "261d": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f91a",
+    "1f91a": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f436",
+    "1f436": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f508",
+    "1f508": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f509",
+    "1f509": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f50a",
+    "1f50a": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4e2",
+    "1f4e2": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f921",
+    "1f921": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f975",
+    "1f975": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f9d0",
+    "1f9d0": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f533",
+    "1f533": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "2754",
-        "author": [
-            "mcgoomba"
-        ]
-    },
-    {
-        "codepoint": "2755",
-        "author": [
-            "mcgoomba"
-        ]
-    },
-    {
-        "codepoint": "1f49f",
+    "1f49f": {
         "author": [
             "mcgoomba",
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f49d",
+    "1f49d": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f439",
+    "1f439": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f497",
+    "1f497": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f635-200d-1f4ab",
+    "1f635-200d-1f4ab": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f924",
+    "1f924": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "203c",
+    "203c": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f532",
+    "1f532": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f493",
+    "1f493": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f6ab",
+    "1f6ab": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "2b55",
+    "2b55": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "26a0",
+    "26a0": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f3b2",
+    "1f3b2": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f437",
+    "1f437": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f9b5",
+    "1f9b5": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4aa",
+    "1f4aa": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f48e",
+    "1f48e": {
         "author": [
             "Andygun11"
         ]
     },
-    {
-        "codepoint": "1f9ff",
+    "1f9ff": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f4cf",
+    "1f4cf": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4d0",
+    "1f4d0": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f974",
+    "1f974": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f63d",
+    "1f63d": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f383",
+    "1f383": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f54e",
+    "1f54e": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4cd",
+    "1f4cd": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f512",
+    "1f512": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f513",
+    "1f513": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f31e",
+    "1f31e": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f92b",
+    "1f92b": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f43d",
+    "1f43d": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "24c2",
+    "24c2": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f194",
+    "1f194": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f17f",
+    "1f17f": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "002a-fe0f-20e3",
+    "002a-fe0f-20e3": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "0023-fe0f-20e3",
+    "0023-fe0f-20e3": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f9c5",
+    "1f9c5": {
         "author": [
             "PoIygon"
         ]
     },
-    {
-        "codepoint": "1f4ee",
+    "1f4ee": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1faab",
+    "1faab": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f4ce",
+    "1f4ce": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1faa7",
+    "1faa7": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f50d",
+    "1f50d": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f50e",
+    "1f50e": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f9f7",
+    "1f9f7": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f4dc",
+    "1f4dc": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f5bc",
+    "1f5bc": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f970",
+    "1f970": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1fae3",
+    "1fae3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2764-fe0f-200d-1f525",
+    "2764-fe0f-200d-1f525": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4a3",
+    "1f4a3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f445",
+    "1f445": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f444",
+    "1f444": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f441-fe0f-200d-1f5e8-fe0f",
+    "1f441-fe0f-200d-1f5e8-fe0f": {
         "author": [
             "TheTrillion",
             "Scratch137",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f645",
+    "1f645": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f645-200d-2642-fe0f",
+    "1f645-200d-2642-fe0f": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f645-200d-2640-fe0f",
+    "1f645-200d-2640-fe0f": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4a0",
+    "1f4a0": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f4b2",
+    "1f4b2": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f3b6",
+    "1f3b6": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f3bc",
+    "1f3bc": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f518",
+    "1f518": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f64b",
+    "1f64b": {
         "author": [
             "DinoMaster20",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f64b-200d-2642-fe0f",
+    "1f64b-200d-2642-fe0f": {
         "author": [
             "DinoMaster20",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f64b-200d-2640-fe0f",
+    "1f64b-200d-2640-fe0f": {
         "author": [
             "DinoMaster20",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f646",
+    "1f646": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f646-200d-2642-fe0f",
+    "1f646-200d-2642-fe0f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f646-200d-2640-fe0f",
+    "1f646-200d-2640-fe0f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f9d1-200d-1f373",
+    "1f9d1-200d-1f373": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f373",
+    "1f468-200d-1f373": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f373",
+    "1f469-200d-1f373": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f514",
+    "1f514": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "27b0",
+    "27b0": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "27bf",
+    "27bf": {
         "author": [
             "mcgoomba",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2122",
+    "1f4a4": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4a4",
+    "1f58d": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f58d",
+    "1f344": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f344",
-        "author": [
-            "mcgoomba"
-        ]
-    },
-    {
-        "codepoint": "1f6f8",
+    "1f6f8": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f388",
+    "1f388": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f3ab",
+    "1f3ab": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f4be",
+    "1f4be": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "231b",
+    "231b": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "23f3",
+    "23f3": {
         "author": [
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f9c3",
+    "1f9c3": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4bf",
+    "1f4bf": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f4c0",
+    "1f4c0": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f9bf",
+    "1f9bf": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f9be",
+    "1f9be": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f4b0",
+    "1f4b0": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1fa99",
+    "1fa99": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f4b1",
+    "1f4b1": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f4ad",
+    "1f4ad": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f5ef",
+    "1f5ef": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f9cb",
+    "1f9cb": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f44b",
+    "1f44b": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f354",
+    "1f354": {
         "author": [
             "tarsovbak"
         ]
     },
-    {
-        "codepoint": "1f35f",
+    "1f35f": {
         "author": [
             "tarsovbak"
         ]
     },
-    {
-        "codepoint": "1f697",
+    "1f697": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f695",
+    "1f695": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f68c",
+    "1f68c": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f68e",
+    "1f68e": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f69f",
+    "1f69f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f687",
+    "1f687": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6f5",
+    "1f6f5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6fa",
+    "1f6fa": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6b2",
+    "1f6b2": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6b4",
+    "1f6b4": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6b4-200d-2642-fe0f",
+    "1f6b4-200d-2642-fe0f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6b4-200d-2640-fe0f",
+    "1f6b4-200d-2640-fe0f": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f9b4",
+    "1f9b4": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f9b7",
+    "1f9b7": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4da",
+    "1f4da": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f4d6",
+    "1f4d6": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "267e",
+    "267e": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f9ca",
+    "1f9ca": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f310",
+    "1f310": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f415",
+    "1f415": {
         "author": [
             "JackyBorderCollie"
         ]
     },
-    {
-        "codepoint": "3030",
-        "author": [
-            "mcgoomba"
-        ]
-    },
-    {
-        "codepoint": "1f964",
+    "1f964": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f3b9",
+    "1f3b9": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f530",
+    "1f530": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f519",
+    "1f519": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f51a",
+    "1f51a": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f51b",
+    "1f51b": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f51c",
+    "1f51c": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f51d",
+    "1f51d": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "26a1",
+    "26a1": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f4e7",
+    "1f4e7": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f4e8",
+    "1f4e8": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f4e9",
+    "1f4e9": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f573",
+    "1f573": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fa93",
+    "1fa93": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f95a",
+    "1f95a": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f5dd",
+    "1f5dd": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f3c6",
+    "1f3c6": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f486",
+    "1f486": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f486-200d-2642-fe0f",
+    "1f486-200d-2642-fe0f": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f486-200d-2640-fe0f",
+    "1f486-200d-2640-fe0f": {
         "author": [
             "DinoMaster20"
         ]
     },
-    {
-        "codepoint": "1f6b3",
+    "1f6b3": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6b7",
+    "1f6b7": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f507",
+    "1f507": {
         "author": [
             "mcgoomba",
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f515",
+    "1f515": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6af",
+    "1f6af": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f4f5",
+    "1f4f5": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6b1",
+    "1f6b1": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f6b0",
+    "1f6b0": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f48c",
+    "1f48c": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f576",
+    "1f576": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f004",
+    "1f004": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f337",
+    "1f337": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f6d2",
+    "1f6d2": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "2602",
-        "author": [
-            "notwait"
-        ]
-    },
-    {
-        "codepoint": "1f36d",
+    "1f36d": {
         "author": [
             "kccuber"
         ]
     },
-    {
-        "codepoint": "1f98b",
+    "1f98b": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "2615",
-        "author": [
-            "Vaibhs11"
-        ]
-    },
-    {
-        "codepoint": "1f43e",
+    "1f43e": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f4a5",
+    "1f4a5": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
+    "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
+    "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469",
+    "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f48f",
+    "1f48f": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f463",
+    "1f463": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f4a1",
+    "1f4a1": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f56f",
+    "1f56f": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f5fe",
+    "1f5fe": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f511",
+    "1f511": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f510",
+    "1f510": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f50f",
+    "1f50f": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f9ea",
+    "1f9ea": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f4e3",
+    "1f4e3": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f4ef",
+    "1f4ef": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f9ed",
+    "1f9ed": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f6ce",
+    "1f6ce": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f9f3",
+    "1f9f3": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f438",
+    "1f438": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f36c",
+    "1f36c": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f37f",
+    "1f37f": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f359",
+    "1f359": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f4b9",
+    "1f4b9": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f9b3",
+    "1f9b3": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f9b0",
+    "1f9b0": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f9b1",
+    "1f9b1": {
         "author": [
             "greg1234567890f"
         ]
     },
-    {
-        "codepoint": "1f9b2",
+    "1f9b2": {
         "author": [
             "lolecksdeehaha"
         ]
     },
-    {
-        "codepoint": "00a9",
+    "00a9": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "00ae",
+    "00ae": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f4ab",
+    "1f4ab": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1fad2",
+    "1fad2": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f4ea",
+    "1f4ea": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f4ed",
+    "1f4ed": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f4eb",
+    "1f4eb": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f4ec",
+    "1f4ec": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f9e8",
+    "1f9e8": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f4a2",
+    "1f4a2": {
         "author": [
             "64lu"
         ]
     },
-    {
-        "codepoint": "1f381",
+    "1f381": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f336",
+    "1f336": {
         "author": [
             "TheSmartGuy1234"
         ]
     },
-    {
-        "codepoint": "1f33b",
+    "1f33b": {
         "author": [
             "greg1234567890f",
             "tarsovbak"
         ]
     },
-    {
-        "codepoint": "1f427",
+    "1f427": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f449",
+    "1f449": {
         "author": [
             "YtArie5"
         ]
     },
-    {
-        "codepoint": "1f448",
+    "1f448": {
         "author": [
             "YtArie5"
         ]
     },
-    {
-        "codepoint": "1f46e-200d-2642-fe0f",
+    "1f46e-200d-2642-fe0f": {
         "author": [
             "YtArie5"
         ]
     },
-    {
-        "codepoint": "1f46e-200d-2640-fe0f",
+    "1f46e-200d-2640-fe0f": {
         "author": [
             "YtArie5"
         ]
     },
-    {
-        "codepoint": "1f46e",
+    "1f46e": {
         "author": [
             "YtArie5"
         ]
     },
-    {
-        "codepoint": "1f9c0",
+    "1f9c0": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f4a8",
+    "1f4a8": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1fa77",
+    "1fa77": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1fa75",
+    "1fa75": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1fa76",
+    "1fa76": {
         "author": [
             "stickfiregames"
         ]
     },
-    {
-        "codepoint": "1f3e7",
+    "1f3e7": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "1f549",
+    "1f549": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "2721",
+    "262f": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "2638",
+    "271d": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "262f",
+    "262a": {
         "author": [
             "mybearworld"
         ]
     },
-    {
-        "codepoint": "271d",
-        "author": [
-            "mybearworld"
-        ]
-    },
-    {
-        "codepoint": "2626",
-        "author": [
-            "mybearworld"
-        ]
-    },
-    {
-        "codepoint": "262a",
-        "author": [
-            "mybearworld"
-        ]
-    },
-    {
-        "codepoint": "1f451",
+    "1f451": {
         "author": [
             "YtArie5"
         ]
     },
-    {
-        "codepoint": "1f365",
+    "1f365": {
         "author": [
             "YtArie5"
         ]
     },
-    {
-        "codepoint": "1f6bc",
+    "1f6bc": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f6ae",
+    "1f6ae": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f6b9",
+    "1f6b9": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f6ba",
+    "1f6ba": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "267f",
+    "267f": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f6df",
+    "1f6df": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f50c",
+    "1f50c": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4f1",
+    "1f4f1": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4f2",
+    "1f4f2": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "260e",
+    "260e": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4de",
+    "1f4de": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4df",
+    "1f4df": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f5b1",
+    "1f5b1": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f5b2",
+    "1f5b2": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4bd",
+    "1f4bd": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "2328",
+    "1f5a8": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f5a8",
+    "1f4c1": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4c1",
+    "1f4c2": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4c2",
+    "1f528": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f528",
+    "1f944": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f944",
+    "1f963": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f963",
+    "1f302": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f302",
+    "1faf7": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "2614",
+    "1faf8": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faf7",
+    "1f426": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1faf8",
+    "1f414": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f426",
+    "1f413": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f414",
+    "1f40c": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f413",
+    "1f41c": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f40c",
+    "1f41d": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f41c",
-        "author": [
-            "notwait"
-        ]
-    },
-    {
-        "codepoint": "1f41d",
-        "author": [
-            "notwait"
-        ]
-    },
-    {
-        "codepoint": "26be",
+    "26be": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f94e",
+    "1f94e": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f3c0",
+    "1f3c0": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f39f",
+    "1f39f": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1faaa",
+    "1faaa": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1fae8",
+    "1fae8": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "26fa",
+    "26fa": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "1f426-200d-2b1b",
+    "1f426-200d-2b1b": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f324",
+    "1f324": {
         "author": [
             "kccuber",
             "mcgoomba",
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "26c5",
+    "26c5": {
         "author": [
             "kccuber",
             "mcgoomba",
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f325",
+    "1f325": {
         "author": [
             "kccuber",
             "mcgoomba",
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f326",
+    "1f326": {
         "author": [
             "kccuber",
             "mcgoomba",
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "26c8",
+    "26c8": {
         "author": [
             "kccuber",
             "mcgoomba",
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f329",
+    "1f329": {
         "author": [
             "kccuber",
             "mcgoomba",
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f328",
+    "1f328": {
         "author": [
             "kccuber",
             "mcgoomba",
             "Scratch137"
         ]
     },
-    {
-        "codepoint": "1f423",
+    "1f423": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f425",
+    "1f425": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f424",
+    "1f424": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f485",
+    "1f485": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f933",
+    "1f933": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f947",
+    "1f947": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f948",
+    "1f948": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f949",
+    "1f949": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f3c5",
+    "1f3c5": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f396",
+    "1f396": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1fac1",
+    "1fac1": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f6b6-200d-2640-fe0f",
+    "1f6b6-200d-2640-fe0f": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f6b6-200d-2642-fe0f",
+    "1f6b6-200d-2642-fe0f": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f6b6",
+    "1f6b6": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f955",
+    "1f955": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f3af",
+    "1f3af": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fa80",
+    "1fa80": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f3b1",
+    "1f3b1": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f52e",
+    "1f52e": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f3ae",
+    "1f3ae": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f579",
+    "1f579": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f9e9",
+    "1f9e9": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f9f8",
+    "1f9f8": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fa84",
+    "1fa84": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "270d",
+    "270d": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f932",
+    "1f932": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f64c",
+    "1f64c": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f44c",
+    "1f44c": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f331",
+    "1f331": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1fab4",
+    "1fab4": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f33e",
+    "1f33e": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f340",
+    "1f340": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f4db",
+    "1f4db": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f9d1-200d-1f4bb",
+    "1f9d1-200d-1f4bb": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f468-200d-1f4bb",
+    "1f468-200d-1f4bb": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f469-200d-1f4bb",
+    "1f469-200d-1f4bb": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f335",
+    "1f335": {
         "author": [
             "notwait"
         ]
     },
-    {
-        "codepoint": "1f42d",
+    "1f42d": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f446",
+    "1f446": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f447",
+    "1f447": {
         "author": [
             "mcgoomba"
         ]
     },
-    {
-        "codepoint": "1f6aa",
+    "1f6aa": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "1f3f7",
+    "1f3f7": {
         "author": [
             "TheTrillion"
         ]
     },
-    {
-        "codepoint": "2603",
+    "26c4": {
         "author": [
             "-gge"
         ]
     },
-    {
-        "codepoint": "26c4",
-        "author": [
-            "-gge"
-        ]
-    },
-    {
-        "codepoint": "2708",
+    "1f6e9": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f6e9",
+    "265f": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "265f",
+    "1fa97": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1fa97",
+    "1f3b7": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f3b7",
+    "1f4cc": {
         "author": [
             "Vaibhs11"
         ]
     },
-    {
-        "codepoint": "1f4cc",
-        "author": [
-            "Vaibhs11"
-        ]
-    },
-    {
-        "codepoint": "26f0",
+    "26f0": {
         "author": [
             "Vaibhs11"
         ]
     }
-]
+}

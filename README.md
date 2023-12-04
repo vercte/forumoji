@@ -3,7 +3,9 @@
 Forumoji is a project to remake existing Unicode emojis in the PunBB/DjangoBB style, mainly intended for use on the Scratch Forums.
 
 ## Contributing
-There are a few details to keep in mind when contributing emojis to the Forumoji project:
+Contributing is on hold for a while while we migrate to the new image host and build a new website for the project. 
+You may still make emojis and post them on the Scratch topic as you wish.
+<!-- There are a few details to keep in mind when contributing emojis to the Forumoji project:
 * Check the [Forumoji website](http://gh.vercte.net/forumoji) to make sure the emoji has not been contributed already, or the [missing emoji list](http://gh.vercte.net/forumoji/missing-emojis.html) for a list of emojis that still need to be made.
 * Follow the [style guide](https://github.com/lopste/forumoji/blob/main/styleguide.md)! Different art styles are nice, but we want the emojis to stay consistent.
 * Make sure the emoji does not break any of Scratch's [Community Guidelines](https://scratch.mit.edu/community_guidelines/), as well as any other rules that have been laid out by the Scratch Team. Also, check to make sure that the emoji that you're making is not in [the hidden/rejected emojis list](resources/hidden-emoji.json).
@@ -35,7 +37,7 @@ Here's what you should put in those sections:
   "authorTwo"
 ]
 ```
-Remember to add a comma after each new item in the list, but *don't* add one after the last new item.
+Remember to add a comma after each new item in the list, but *don't* add one after the last new item. -->
 
 ## Scratch Forums
 Forumoji has a [topic on Discuss Scratch](https://scratch.mit.edu/discuss/topic/557083/); this is where most discussion about the project takes place.
