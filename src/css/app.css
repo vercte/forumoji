@@ -1,0 +1,18 @@
+:root {
+    --theme-accent: #ff8c00;
+    --theme-highlight: #dddddd;
+}
+
+body {
+    font-family: "Manrope", sans-serif;
+
+    margin: 0;
+    scroll-behavior: smooth !important;
+}
+
+main#root {
+    margin-left: 280pt;
+
+    height: 100%;
+    width: calc(100vw - 280pt);
+}

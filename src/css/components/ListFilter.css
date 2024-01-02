@@ -1,0 +1,71 @@
+div#filters {
+    position: fixed;
+    left: 280pt;
+    right: 0;
+    top: 0;
+    height: 48pt;
+
+    background-color: var(--theme-accent);
+    filter: drop-shadow(0 2pt 8pt #00000066);
+
+    z-index: 4;
+
+    display: flex;
+    justify-content: center;
+    gap: 20pt;
+}
+
+button.filter-button {
+    box-sizing: border-box;
+
+    width: 48pt;
+    height: 64pt;
+
+    padding: 8pt;
+
+    appearance: none;
+    border: none;
+
+    background-color: white;
+    transform: translate(0, -20pt);
+
+    border-bottom-left-radius: 8pt;
+    border-bottom-right-radius: 8pt;
+
+    transition: transform 0.2s ease-in-out;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+button.filter-button.search {
+    margin-right: 20pt;
+}
+
+button.filter-button:hover, button.filter-button:focus-visible {
+    transform: translate(0, -10pt);
+}
+
+button.filter-button:active {
+    transform: translate(0, 0pt);
+}
+
+button.filter-button[data-selected="true"] {
+    transform: translate(0, -4pt);
+}
+
+button.filter-button div {
+    background-color: grey;
+    width: 100%;
+    aspect-ratio: 1/1;
+
+    mask-size: 100% 100%;
+    mask-repeat: no-repeat;
+    mask-position: center;
+
+    transition: background-color 0.2s;
+}
+
+button.filter-button[data-selected="true"] div, button.filter-button:active div {
+    background-color: var(--theme-accent);
+}

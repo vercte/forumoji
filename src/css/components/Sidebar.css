@@ -1,0 +1,12 @@
+div#sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 280pt;
+
+    box-shadow: 0px 0px 32pt #00000066;
+
+    background-color: white;
+    z-index: 5;
+}

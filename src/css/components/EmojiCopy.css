@@ -1,0 +1,88 @@
+div#emoji-copy-options {
+    margin-bottom: 0.5rem;
+    width: 100%;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+div#emoji-copy-options > div {
+    display: inline-block;
+
+    overflow: hidden;
+    position: relative;
+    height: 32pt;
+    box-shadow: inset 0 0 8pt #00000022;
+    border-radius: 0.5rem;
+}
+
+div#emoji-copy-host {
+    width: calc(32pt * 2);
+}
+
+div#emoji-copy-format {
+    width: calc(32pt * 4);
+}
+
+div#emoji-copy-options > div::before {
+    position: absolute;
+    background-color: var(--theme-accent);
+    height: 32pt;
+    width: 32pt;
+
+    left: 0;
+    content: "hi";
+    color: transparent;
+
+    transition: left 0.3s ease-out;
+}
+
+div#emoji-copy-options div[data-selected="1"]::before {
+    left: calc(32pt * 1);
+}
+
+div#emoji-copy-options div[data-selected="2"]::before {
+    left: calc(32pt * 2);
+}
+
+div#emoji-copy-options div[data-selected="3"]::before {
+    left: calc(32pt * 3);
+}
+
+div#emoji-copy-options div button {
+    position: relative;
+    z-index: 3;
+    appearance: none;
+    cursor: pointer;
+    border: none;
+    height: 32pt;
+    width: 32pt;
+
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-family: "Manrope", sans-serif;
+
+    background-color: transparent;
+    margin: 0;
+    color: white;
+}
+
+button.slider-button:focus-visible {
+    background-color: #008cff88 !important;
+}
+
+button.slider-button div.slider-button-icon {
+    width: 100%;
+    height: 100%;
+
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: 26px 26px;
+
+    background-color: black;
+    transition: background-color 0.3s;
+}
+
+button.slider-button[data-selected="true"] div.slider-button-icon {
+    background-color: white;
+}

@@ -1,0 +1,71 @@
+div#list {
+    padding-top: 48pt;
+}
+
+div.emoji-icons {
+    padding: 16pt;
+    padding-top: 8pt;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14pt;
+}
+
+button.list-item {
+    border: none;
+    background-color: transparent;
+    border-radius: 2pt;
+    transition: background-color 0.1s;
+    padding-inline: 3pt;
+}
+
+button.list-item:hover, button.list-item:focus-visible {
+    background-color: var(--theme-highlight);
+}
+
+button.list-item[data-selected="true"] {
+    background-color: var(--theme-accent) !important;
+}
+
+button.list-item[data-selected="true"] img {
+    transform: translate(0, -10px) rotate(0deg) !important;
+    opacity: 1 !important;
+    filter: grayscale(0) !important;
+}
+
+button.list-item img {
+    width: 45px;
+    height: 45px;
+    image-rendering: optimizeSpeed;
+    transition: transform 0.3s, filter 0.1s;
+    transform: none;
+}
+
+button.list-item:hover img, button.list-item:focus-visible img {
+    transform: translate(0, -8px) rotate(-5deg);
+    opacity: 1 !important;
+    filter: grayscale(0) !important;
+}
+
+button.list-item[data-contributed="false"] img {
+    filter: grayscale(1);
+    animation: not-contributed 2s ease-in-out 0s infinite;
+}
+
+@keyframes not-contributed {
+    from {
+        opacity: 0.6;
+    } 50% {
+        opacity: 0.4;
+    } to {
+        opacity: 0.6;
+    }
+}
+
+button.list-item[data-contributed="false"] img{
+    image-rendering: auto;
+}
+
+div.list-category h2 {
+    margin-left: 32pt;
+    margin-bottom: 16pt;
+}

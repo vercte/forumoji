@@ -1,0 +1,44 @@
+div.copy-box {
+    filter: drop-shadow(0 0 4pt #00000044)
+}
+
+div.copy-box input[type="text"] {
+    appearance: none;
+    border: 1px gray solid;
+    border-right: none;
+    font-size: 0.9rem;
+
+    height: 24pt;
+    width: 140pt;
+    
+    font-family: "Manrope", sans-serif;
+    border-radius: 0.5rem 0 0 0.5rem;
+    padding-left: 0.5rem;
+}
+
+div.copy-box button {
+    appearance: none;
+    cursor: pointer;
+    border: none;
+    height: calc(26pt + 1px);
+    width: 54pt;
+
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-family: "Manrope", sans-serif;
+
+    background-color: var(--theme-accent);
+    color: white;
+    border-radius: 0 0.5rem 0.5rem 0;
+
+    transition: box-shadow 0.2s;
+    box-shadow: inset 0 0 8pt #ffffff00;
+}
+
+div.copy-box button:hover {
+    box-shadow: inset 0 0 16pt #ffffff99;
+}
+
+div.copy-box button:active {
+    box-shadow: inset 0 0 4pt #00000088;
+}

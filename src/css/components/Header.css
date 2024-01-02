@@ -1,0 +1,19 @@
+div#header {
+    position: relative;
+    height: 64pt;
+
+    color: white;
+    background-color: var(--theme-accent);
+
+    font-size: xx-large;
+    font-weight: bolder;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    border-bottom-right-radius: 16pt;
+
+    z-index: 8;
+}
