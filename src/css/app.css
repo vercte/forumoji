@@ -1,6 +1,7 @@
 :root {
     --theme-accent: #ff8c00;
     --theme-highlight: #dddddd;
+    --theme-shadow: #000000aa; /* this is NOT REAL (yet) i just need to force stinky bad github pages to build */
 }
 
 body {
