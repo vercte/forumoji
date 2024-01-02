@@ -17,13 +17,17 @@ export type RefList = {
 export default function List(props: ListProps) {
     const [selectedEmoji, setSelectedEmoji] = React.useState<EmojiData | undefined>(undefined);
     const [searchSelected, setSearchSelected] = React.useState<boolean>(false);
+    const [list, setList] = React.useState<Record<string, EmojiData[]>>({});
+
+    React.useEffect(() => {
+        getEmojiList().then(setList);
+    }, []);
 
     function onEmojiChange(toEmoji: EmojiData) {
         setSelectedEmoji(toEmoji);
         props.onEmojiChange(toEmoji);
     }
 
-    const list = getEmojiList();
     const categoryBarRef = React.createRef<HTMLDivElement>();
     const categoryRefs: RefList = {};
 

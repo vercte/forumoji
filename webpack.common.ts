@@ -4,14 +4,12 @@ import HtmlWebpackPlugin from "html-webpack-plugin";
 import "webpack-dev-server";
 
 const config: webpack.Configuration = {
-    mode: "development",
     entry: "./src/index.tsx",
     output: {
         path: path.resolve(__dirname, "dist"),
         filename: "bundle.js",
         clean: true,
     },
-    devtool: "source-map",
     resolve: {
         extensions: [".tsx", ".ts", ".js"],
         alias: {
@@ -55,18 +53,13 @@ const config: webpack.Configuration = {
             }
         ],
     },
-    devServer: {
-        compress: true,
-        port: 8080,
-    },
     plugins: [
         new HtmlWebpackPlugin({
             template: "./src/index.html",
             output: "./index.html",
             favicon: "./src/img/favicon.png",
         }),
-    ],
-    cache: false
+    ]
 };
 
 export default config;

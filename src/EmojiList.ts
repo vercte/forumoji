@@ -1,6 +1,6 @@
-import Emoji from "assets/emoji.json";
-import UnicodeList from "assets/unicode-emoji.json";
-import HiddenEmoji from "assets/hidden-emoji.json";
+const EmojiList = import("assets/emoji.json");
+const UnicodeList = import("assets/unicode-emoji.json");
+const HiddenEmoji = import("assets/hidden-emoji.json");
 
 export interface EmojiData {
     name: string;
@@ -65,10 +65,11 @@ export interface EmojiList {
     [category: string]: EmojiData[];
 }
 
-export function getEmojiList(): EmojiList {
+export async function getEmojiList(): Promise<EmojiList> {
     const toReturn: EmojiList = {};
+    const Emoji = (await EmojiList);
 
-    for (const collection of UnicodeList.contents) {
+    for (const collection of (await UnicodeList).contents) {
         const category = collection.category;
         for(const subcollection of collection.contents) {
             const subcategory = subcollection.category;
@@ -79,7 +80,7 @@ export function getEmojiList(): EmojiList {
                 let contributed = true;
 
                 let hidden = false;
-                for(const hiddenEmoji of HiddenEmoji.codepoints) {
+                for(const hiddenEmoji of (await HiddenEmoji).codepoints) {
                     if(hiddenEmoji === codepoint) {
                         hidden = true;
                     }

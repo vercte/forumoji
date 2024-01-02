@@ -1,5 +1,8 @@
 {
     "name": "forumoji",
+    "sideEffects": [
+        "*.css"
+    ],
     "author": {
         "name": "lopste",
         "url": "https://vercte.net/"
@@ -12,6 +15,7 @@
         "html-webpack-plugin": "^5.5.3",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "serve": "^14.2.1",
         "style-loader": "^3.3.3",
         "ts-loader": "^9.5.1",
         "webpack": "^5.89.0"
@@ -31,8 +35,8 @@
         "webpack-dev-server": "^4.15.1"
     },
     "scripts": {
-        "build": "cross-env NODE_ENV=production && webpack --mode production",
-        "dev": "webpack-dev-server --hot",
+        "build": "cross-env NODE_ENV=production && webpack --config webpack.prod.ts",
+        "dev": "webpack-dev-server --hot --config webpack.dev.ts",
         "lint": "eslint ./src/ --fix"
     }
 }
