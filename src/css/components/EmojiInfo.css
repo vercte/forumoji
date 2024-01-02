@@ -50,6 +50,7 @@ img.emoji-image-small + img.emoji-image-small {
 
 div#emoji-info[data-contributed="true"] img.emoji-image {
     image-rendering: pixelated;
+    image-rendering: optimizeSpeed;
 }
 
 div#emoji-info[data-contributed="false"] div.emoji-contributed strong {

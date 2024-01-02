@@ -35,6 +35,7 @@ button.list-item[data-selected="true"] img {
 button.list-item img {
     width: 45px;
     height: 45px;
+    image-rendering: pixelated;
     image-rendering: optimizeSpeed;
     transition: transform 0.3s, filter 0.1s;
     transform: none;

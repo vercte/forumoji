@@ -63,6 +63,7 @@ const config: webpack.Configuration = {
         new HtmlWebpackPlugin({
             template: "./src/index.html",
             output: "./index.html",
+            favicon: "./src/img/favicon.png",
         }),
     ],
     cache: false
