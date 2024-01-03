@@ -19,7 +19,7 @@ export const brokenImage = broken;
 export function getEmojiImage(codepoint: string, twemoji: boolean): string {
     const normalized = normalizeCodepoint(codepoint);
     if(twemoji) return `https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/${normalized}.svg`;
-    else return `https://raw.githubusercontent.com/lopste/forumoji/main/assets/emoji/15x15/${normalized}.png`;
+    else return `./assets/emoji/15x15/${normalized}.png`;
 }
 
 export function normalizeCodepoint(codepoint: string): string {

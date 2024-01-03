@@ -1,6 +1,7 @@
 import path from "path";
 import webpack from "webpack";
 import HtmlWebpackPlugin from "html-webpack-plugin";
+import CopyWebpackPlugin from "copy-webpack-plugin";
 import "webpack-dev-server";
 
 const config: webpack.Configuration = {
@@ -58,6 +59,11 @@ const config: webpack.Configuration = {
             template: "./src/index.html",
             output: "./index.html",
             favicon: "./src/img/favicon.png",
+        }),
+        new CopyWebpackPlugin({
+            patterns: [
+                { from: "assets", to: "assets" },
+            ],
         }),
     ]
 };
