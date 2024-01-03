@@ -18,7 +18,7 @@ export const brokenImage = broken;
 
 export function getEmojiImage(codepoint: string, twemoji: boolean): string {
     const normalized = normalizeCodepoint(codepoint);
-    if(twemoji) return `https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/${normalized}.svg`;
+    if(twemoji) return `https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/${normalized}.svg`;
     else return `https://raw.githubusercontent.com/lopste/forumoji/main/assets/emoji/15x15/${normalized}.png`;
 }
 
