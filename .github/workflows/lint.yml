@@ -2,9 +2,9 @@ name: Lint
 
 on:
   pull_request:
+    branches: [ "main" ]
   push:
-    branches:
-      - master
+    branches: [ "main" ]
 
 jobs:
   eslint:
@@ -17,6 +17,6 @@ jobs:
       - run: npm ci
       - uses: sibiraj-s/action-eslint@v3
         with:
-          eslint-args: '--ignore-path=.gitignore --quiet'
-          extensions: 'js,jsx,ts,tsx'
+          eslint-args: "--ignore-path=.gitignore"
+          extensions: "js,jsx,ts,tsx"
           annotations: true
