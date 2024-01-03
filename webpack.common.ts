@@ -8,7 +8,7 @@ const config: webpack.Configuration = {
     entry: "./src/index.tsx",
     output: {
         path: path.resolve(__dirname, "dist"),
-        filename: "bundle.js",
+        filename: "[name].bundle.js",
         clean: true,
     },
     resolve: {
@@ -34,6 +34,9 @@ const config: webpack.Configuration = {
             {
                 test: /\.(png|jpg)$/,
                 type: "asset/resource",
+                generator: {
+                    filename: "img/[hash][ext]",
+                }
             },
             {
                 test: /\.(png|jpg|svg)$/,
@@ -45,6 +48,9 @@ const config: webpack.Configuration = {
                 issuer: /\.tsx?$/,
                 resourceQuery: /url/,
                 type: "asset/resource",
+                generator: {
+                    filename: "img/[hash][ext]",
+                }
             },
             {
                 test: /\.svg$/,
@@ -62,7 +68,7 @@ const config: webpack.Configuration = {
         }),
         new CopyWebpackPlugin({
             patterns: [
-                { from: "assets", to: "assets" },
+                { from: "assets/emoji/15x15", to: "assets/emoji/15x15" },
             ],
         }),
     ]
