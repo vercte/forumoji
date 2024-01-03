@@ -80,7 +80,7 @@ export default function EmojiCopy(props: { emoji?: EmojiData }) {
                     <SliderButton title="Cubeupload" setTo="https://u.cubeupload.com/fmji/"
                         id={0} idSelected={hostSelected}
                         image={Cubeupload} onChange={onHostChange} />
-                    <SliderButton title="Github" setTo="https://raw.githubusercontent.com/lopste/forumoji/main/assets/emoji/15x15/"
+                    <SliderButton title="Github" setTo="https://gh.vercte.net/assets/emoji/15x15/"
                         id={1} idSelected={hostSelected}
                         image={Github} onChange={onHostChange} />
                 </div>
