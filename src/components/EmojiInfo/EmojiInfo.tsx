@@ -17,7 +17,7 @@ export default function EmojiInfo(props: EmojiInfoProps) {
     const contributed = props.emoji ? props.emoji.contributed : false;
 
     return (
-        <div id="emoji-info" data-contributed={contributed}>
+        <div id="emoji-info" role="group" data-contributed={contributed}>
             <EmojiImage emoji={props.emoji} />
 
             <EmojiCodepoint codepoint={props.emoji?.codepoint} />

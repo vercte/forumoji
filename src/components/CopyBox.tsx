@@ -21,8 +21,8 @@ export default function CopyBox(props: CopyBoxProps) {
 
     return (
         <div className="copy-box">
-            <input type="text" value={props.text} readOnly={true} aria-label={props.label} />
-            <button onClick={copyText}>{copied ? "Copied!" : "Copy"}</button>
+            <input type="text" value={props.text} aria-readonly={true} readOnly={true} aria-label={props.label} />
+            <button aria-label="Copy emoji" onClick={copyText}>{copied ? "Copied!" : "Copy"}</button>
         </div>
     );
 }

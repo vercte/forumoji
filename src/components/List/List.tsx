@@ -44,10 +44,14 @@ export default function List(props: ListProps) {
 
     return (
         <div id="list">
-            <ListFilter onCategoryChange={onCategoryChange} barRef={categoryBarRef}
+            <ListFilter
+                onCategoryChange={onCategoryChange}
+                barRef={categoryBarRef}
                 categoryRefs={categoryRefs}
-                searchSelected={searchSelected} setSearchSelected={setSearchSelected}/>
-            <div id="list-items">
+                searchSelected={searchSelected}
+                setSearchSelected={setSearchSelected}
+            />
+            <div id="list-items" aria-label="Emoji list" role="group">
                 {
                     Object.entries(list).map(([category, emojis]) => {
                         if(category === "Component") return null;

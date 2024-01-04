@@ -4,7 +4,7 @@ import "css/components/Header.css";
 
 export default function Header() {
     return (
-        <div id="header">
+        <div id="header" role="heading">
             Forumoji
         </div>
     );

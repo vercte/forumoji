@@ -10,6 +10,6 @@ export default function EmojiName(props: EmojiNameProps) {
     const realEmoji = props.emoji ? codepointToEmoji(props.emoji.codepoint) : "\u2753";
 
     return (
-        <figcaption className="emoji-name">{realEmoji} {name}</figcaption>
+        <figcaption aria-hidden="true" className="emoji-name">{realEmoji} {name}</figcaption>
     );
 }
