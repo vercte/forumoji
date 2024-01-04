@@ -9,13 +9,13 @@ interface EmojiNameProps {
 export default function EmojiCategories(props: EmojiNameProps) {
     if(!props.emoji) return (
         <>
-            <div className="emoji-categories">
-                <strong>Category:</strong><br />
-                <span>N/A</span>
+            <div className="emoji-categories" aria-label="Category: N/A">
+                <strong aria-hidden="true">Category:</strong><br aria-hidden="true" />
+                <span aria-hidden="true">N/A</span>
             </div>
 
-            <div className="emoji-keywords">
-                <strong>Keywords:</strong><br />
+            <div className="emoji-keywords" aria-label="Keywords">
+                <strong aria-hidden="true">Keywords:</strong><br aria-hidden="true" />
                 <span>N/A</span>
             </div>
         </>
@@ -23,13 +23,13 @@ export default function EmojiCategories(props: EmojiNameProps) {
 
     return (
         <>
-            <div className="emoji-categories">
-                <strong>Category:</strong><br />
-                <span>{props.emoji.category}</span>
+            <div className="emoji-categories" aria-label={"Category: " + props.emoji.category}>
+                <strong aria-hidden="true">Category:</strong><br aria-hidden="true" />
+                <span aria-hidden="true">{props.emoji.category}</span>
             </div>
 
-            <div className="emoji-keywords">
-                <strong>Keywords:</strong><br />
+            <div className="emoji-keywords" aria-label="Keywords">
+                <strong aria-hidden="true">Keywords:</strong><br aria-hidden="true" />
                 <span>{props.emoji.keywords.join(", ")}</span>
             </div>
         </>

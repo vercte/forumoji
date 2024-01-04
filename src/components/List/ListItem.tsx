@@ -18,11 +18,19 @@ export default function ListItem(props: ListItemProps) {
             aria-label={props.emoji.name}
             title={props.emoji.name}
             data-selected={props.selected}
+            role="radio"
+            aria-checked={props.selected}
+            name="selected-emoji"
         >
-            <img src={src} onError={(e) => {
-                const img = e.target as HTMLImageElement;
-                img.src = brokenImage;
-            }} loading="lazy"/>
+            <img
+                src={src}
+                onError={(e) => {
+                    const img = e.target as HTMLImageElement;
+                    img.src = brokenImage;
+                }}
+                loading="lazy"
+                aria-hidden="true"
+            />
         </button>
     );
 }

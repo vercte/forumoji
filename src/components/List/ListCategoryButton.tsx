@@ -38,9 +38,12 @@ export default function ListCategoryButton(props: ListCategoryButtonProps) {
     const className = "filter-button" + (props.category === "Search" ? " search" : "");
 
     return (
-        <button className={className} onClick={props.onCategoryChange.bind(undefined, props.category)}
+        <button
+            className={className}
+            onClick={props.onCategoryChange.bind(undefined, props.category)}
             data-selected={props.selected}
-            aria-label={props.category} title={props.category}
+            aria-label={props.category}
+            title={props.category}
         >
             {
                 icon ? <div className="category-icon" style={style} data-mask={icon}/> : null

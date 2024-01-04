@@ -17,6 +17,8 @@ interface SliderButtonProps {
     title: string;
     setTo: string;
 
+    sliderChoice: string;
+
     id: number;
     idSelected: number;
 
@@ -31,7 +33,7 @@ export function SliderButton(props: SliderButtonProps) {
     };
 
     return (
-        <button className="slider-button" title={props.title} onClick={props.onChange.bind(null, props.setTo, props.id)} data-selected={props.idSelected == props.id}>
+        <button className="slider-button" role="radio" name={props.sliderChoice} title={props.title} onClick={props.onChange.bind(null, props.setTo, props.id)} data-selected={props.idSelected == props.id}>
             <div className="slider-button-icon" style={style}/>
         </button>
     );
@@ -74,27 +76,27 @@ export default function EmojiCopy(props: { emoji?: EmojiData }) {
     };
 
     return (
-        <div id="emoji-copy">
-            <div id="emoji-copy-options">
-                <div id="emoji-copy-host" data-selected={hostSelected}>
-                    <SliderButton title="Cubeupload" setTo="https://u.cubeupload.com/fmji/"
+        <div id="emoji-copy" aria-label="Copy emoji" role="form">
+            <div id="emoji-copy-options" aria-label="Copy options" role="group">
+                <div id="emoji-copy-host" data-selected={hostSelected} aria-label="Emoji host">
+                    <SliderButton sliderChoice="copy-host" title="Cubeupload" setTo="https://u.cubeupload.com/fmji/"
                         id={0} idSelected={hostSelected}
                         image={Cubeupload} onChange={onHostChange} />
-                    <SliderButton title="Github" setTo="https://gh.vercte.net/assets/emoji/15x15/"
+                    <SliderButton sliderChoice="copy-host" title="Github" setTo="https://gh.vercte.net/assets/emoji/15x15/"
                         id={1} idSelected={hostSelected}
                         image={Github} onChange={onHostChange} />
                 </div>
-                <div id="emoji-copy-format" data-selected={formatSelected}>
-                    <SliderButton title="Link" setTo="raw"
+                <div id="emoji-copy-format" data-selected={formatSelected} aria-label="Format">
+                    <SliderButton sliderChoice="copy-format" title="Link" setTo="raw"
                         id={0} idSelected={formatSelected}
                         image={Link} onChange={onFormatChange} />
-                    <SliderButton title="HTML" setTo="html"
+                    <SliderButton sliderChoice="copy-format" title="HTML" setTo="html"
                         id={1} idSelected={formatSelected}
                         image={HTML} onChange={onFormatChange} />
-                    <SliderButton title="BBCode" setTo="bbcode"
+                    <SliderButton sliderChoice="copy-format" title="BBCode" setTo="bbcode"
                         id={2} idSelected={formatSelected}
                         image={BBCode} onChange={onFormatChange} />
-                    <SliderButton title="Markdown" setTo="markdown"
+                    <SliderButton sliderChoice="copy-format" title="Markdown" setTo="markdown"
                         id={3} idSelected={formatSelected}
                         image={Markdown} onChange={onFormatChange} />
                 </div>
