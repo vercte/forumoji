@@ -31,7 +31,7 @@ div#emoji-copy-options > div::before {
     width: 32pt;
 
     left: 0;
-    content: "hi";
+    content: "";
     color: transparent;
 
     transition: left 0.3s ease-out;
